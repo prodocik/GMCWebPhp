@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^([^/]*)\.html$ /rvrental.php?page=$1 [L]
+RewriteRule ^([^/]*)\.html$ /booking.php?page=$1 [L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
