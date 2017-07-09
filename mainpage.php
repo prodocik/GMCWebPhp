@@ -131,7 +131,7 @@
                         <div class="col-md-3 col-sm-4 hidden-xs">
                             <div class="img">
                                 <a href="nexus.html"><img src="images/main_photos/nexus.jpg" class="img-responsive center-block"></a>
-                                <div id="btn_book"><a href="nexus_booking.htm">BOOK NOW</a></div>
+                                <div id="btn_book"><a href="nexus_booking.html">BOOK NOW</a></div>
                                 <a href="nexus.html">Learn more</a>
                             </div>
                         </div>
