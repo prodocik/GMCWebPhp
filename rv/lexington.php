@@ -1,3 +1,4 @@
+       </header>
 <div class="content">
 		<div class="product-item">	
 			<div class="container">

@@ -70,6 +70,15 @@ body {
     font-family: SFUIDisplay-Regular;
     min-width: 320px;
     background: #fffbf8;
+    line-height: 0px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.bookingTitle {
+    margin-top: 60px;
+
 }
 
 a {
@@ -384,11 +393,14 @@ text-decoration: underline;
 }
 
 .header .logo {
-    margin-top: -50px;
+    margin-top: -30px;
+
 }
 
 .header .logo img {
     max-width: 260px;
+    display: inline-block;
+
 }
 
 .header .nav {
@@ -1079,6 +1091,9 @@ text-decoration: underline;
     .panel-top .tel {
         text-align: center;
     }
+  .bookingTitle {
+        text-align: center;
+    }
 
     .header h1 {
         padding-bottom: 92px;
@@ -1088,7 +1103,8 @@ text-decoration: underline;
         max-width: 154px;
     }
     .header .logo {
-        margin-top: -34px;
+        
+        margin-top: -20px;
     }
     .products .product h2 {
         text-align: left;
@@ -1192,6 +1208,7 @@ text-decoration: underline;
         background: #222;
         padding: 15px;
         display: block;
+
     }
     .heading {
         background-color: transparent;
@@ -1202,6 +1219,9 @@ text-decoration: underline;
     .nav {
         visibility: hidden;
         position: absolute;
+    }
+    .bookingTitle {
+        text-align: center;
     }
     .promotext {
         position: absolute;
@@ -1222,11 +1242,12 @@ text-decoration: underline;
     }
     .header .logo {
         display: block;
-        margin-top: 15px;
+        margin-top: 10px;
+        text-align: center;
     }
     .header .logo img {
         max-width: 150px;
-        margin-left: auto;
+        margin-left: 0;
         margin-right: auto;
     }
     .header h1 {

@@ -16,7 +16,7 @@
                         <div class="col-md-3 col-sm-4 visible-xs">
                             <div class="img">
                                 <a href="gemini.html"><img src="images/main_photos/gemini.jpg" class="img-responsive center-block"></a>
-                                <div id="btn_book"><a href="bgemini_booking.html">BOOK NOW</a></div>
+                                <div id="btn_book"><a href="gemini_booking.html">BOOK NOW</a></div>
                                 <a href="gemini.html">Learn more</a>
                             </div>
                         </div>

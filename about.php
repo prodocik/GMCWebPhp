@@ -3,7 +3,7 @@
 
 <head>
 
-    <meta name="description" content="Learn more about Georgia Motorcoach - RV rentals compant in Georgia" />
+    <meta name="description" content="Learn more about Georgia Motorcoach. RV rentals company in Georgia" />
     <meta name="keywords" content="About georgia Motorcoach, RV rentals company, RV rentals in Atlanta" />
   
     <title>About Georgia Mototcoach</title>

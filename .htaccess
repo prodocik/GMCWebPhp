@@ -4,3 +4,5 @@ RewriteRule ^([^/]*)\.html$ /booking.php?page=$1 [L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://georgiamotorcoach.com/$1 [R,L]
