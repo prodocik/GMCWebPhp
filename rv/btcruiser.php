@@ -8,31 +8,31 @@
                         <div class="slider">
                             <div class="slider-for">
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/1.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/1.jpg" alt="BT cruiser front"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/2.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/2.jpg" alt="BT cruiser 3/4"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/3.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/3.jpg" alt="BT cruiser back"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/4.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/4.jpg" alt="BT cruiser interior"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/5.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/5.jpg" alt="BT cruiser bed"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/6.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/6.jpg" alt="BT cruiser driver seat"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/7.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/7.jpg" alt="BT cruiser shower"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/8.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $btcruiserRegDaily; ?></big></span></div><img src="images/more/cruiser2007/8.jpg" alt="BT cruiser TV"></div>
                             </div>
                             <div class="slider-nav">
-                                <div><img src="images/more/cruiser2007/1_small.jpg" alt=""></div>
-                                <div><img src="images/more/cruiser2007/2_small.jpg" alt=""></div>
-                                <div><img src="images/more/cruiser2007/3_small.jpg" alt=""></div>
-                                <div><img src="images/more/cruiser2007/4_small.jpg" alt=""></div>
-                                <div><img src="images/more/cruiser2007/5_small.jpg" alt=""></div>
-                                <div><img src="images/more/cruiser2007/6_small.jpg" alt=""></div>
-                                <div><img src="images/more/cruiser2007/7_small.jpg" alt=""></div>
-                                <div><img src="images/more/cruiser2007/8_small.jpg" alt=""></div>
+                                <div><img src="images/more/cruiser2007/1_small.jpg" alt="BT cruiser front preview"></div>
+                                <div><img src="images/more/cruiser2007/2_small.jpg" alt="BT cruiser 3/4 preview"></div>
+                                <div><img src="images/more/cruiser2007/3_small.jpg" alt="BT cruiser back preview"></div>
+                                <div><img src="images/more/cruiser2007/4_small.jpg" alt="BT cruiser interior preview"></div>
+                                <div><img src="images/more/cruiser2007/5_small.jpg" alt="BT cruiser bed preview"></div>
+                                <div><img src="images/more/cruiser2007/6_small.jpg" alt="BT cruiser driver seat preview"></div>
+                                <div><img src="images/more/cruiser2007/7_small.jpg" alt="BT cruiser shower preview"></div>
+                                <div><img src="images/more/cruiser2007/8_small.jpg" alt="BT cruiser TV preview"></div>
                             </div>
                         </div>
                         <div class="desc">

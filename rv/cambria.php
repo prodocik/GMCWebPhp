@@ -8,34 +8,34 @@
                         <div class="slider">
                             <div class="slider-for">
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/1.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/1.jpg" alt="Cambria 3/4"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/2.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/2.jpg" alt="Cambria right side"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/3.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/3.jpg" alt="Cambria front slideout"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/4.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/4.jpg" alt="Cambria side"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/5.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/5.jpg" alt="Cambria inside"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/6.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/6.jpg" alt="Cambria inside"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/7.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/7.jpg" alt="Cambria bed"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/8.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/8.jpg" alt="Cambria inside front"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/9.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $cambriaRegDaily; ?></big></span></div><img src="images/more/cambria/9.jpg" alt="Cambria floorplan"></div>
                             </div>
                             <div class="slider-nav">
-                                <div><img src="images/more/cambria/1_small.jpg" alt=""></div>
-                                <div><img src="images/more/cambria/2_small.jpg" alt=""></div>
-                                <div><img src="images/more/cambria/3_small.jpg" alt=""></div>
-                                <div><img src="images/more/cambria/4_small.jpg" alt=""></div>
-                                <div><img src="images/more/cambria/5_small.jpg" alt=""></div>
-                                <div><img src="images/more/cambria/6_small.jpg" alt=""></div>
-                                <div><img src="images/more/cambria/7_small.jpg" alt=""></div>
-                                <div><img src="images/more/cambria/8_small.jpg" alt=""></div>
-                                <div><img src="images/more/cambria/9_small.jpg" alt=""></div>
+                                <div><img src="images/more/cambria/1_small.jpg" alt="Cambria 3/4"></div>
+                                <div><img src="images/more/cambria/2_small.jpg" alt="Cambria right side"></div>
+                                <div><img src="images/more/cambria/3_small.jpg" alt="Cambria front slideout"></div>
+                                <div><img src="images/more/cambria/4_small.jpg" alt="Cambria side"></div>
+                                <div><img src="images/more/cambria/5_small.jpg" alt="Cambria inside"></div>
+                                <div><img src="images/more/cambria/6_small.jpg" alt="Cambria inside"></div>
+                                <div><img src="images/more/cambria/7_small.jpg" alt="Cambria bed"></div>
+                                <div><img src="images/more/cambria/8_small.jpg" alt="Cambria inside front"></div>
+                                <div><img src="images/more/cambria/9_small.jpg" alt="Cambria floorplan"></div>
                             </div>
                         </div>
                         <div class="desc">

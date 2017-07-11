@@ -8,28 +8,28 @@
                         <div class="slider">
                             <div class="slider-for">
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/1.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/1.jpg" alt="Thor Vegas"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/2.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/2.jpg" alt="Thor Vegas"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/3.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/3.jpg" alt="Thor Vegas"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/4.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/4.jpg" alt="Thor Vegas"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/5.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/5.jpg" alt="Thor Vegas"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/6.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/6.jpg" alt="Thor Vegas"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/7.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $vegasRegDaily; ?></big></span></div><img src="images/more/vegas/7.jpg" alt="Thor Vegas"></div>
                             </div>
                             <div class="slider-nav">
-                                <div><img src="images/more/vegas/1_small.jpg" alt=""></div>
-                                <div><img src="images/more/vegas/2_small.jpg" alt=""></div>
-                                <div><img src="images/more/vegas/3_small.jpg" alt=""></div>
-                                <div><img src="images/more/vegas/4_small.jpg" alt=""></div>
-                                <div><img src="images/more/vegas/5_small.jpg" alt=""></div>
-                                <div><img src="images/more/vegas/6_small.jpg" alt=""></div>
-                                <div><img src="images/more/vegas/7_small.jpg" alt=""></div>
+                                <div><img src="images/more/vegas/1_small.jpg" alt="Thor Vegas preview"></div>
+                                <div><img src="images/more/vegas/2_small.jpg" alt="Thor Vegas preview"></div>
+                                <div><img src="images/more/vegas/3_small.jpg" alt="Thor Vegas preview"></div>
+                                <div><img src="images/more/vegas/4_small.jpg" alt="Thor Vegas preview"></div>
+                                <div><img src="images/more/vegas/5_small.jpg" alt="Thor Vegas preview"></div>
+                                <div><img src="images/more/vegas/6_small.jpg" alt="Thor Vegas preview"></div>
+                                <div><img src="images/more/vegas/7_small.jpg" alt="Thor Vegas preview"></div>
                             </div>
                         </div>
                         <div class="desc">

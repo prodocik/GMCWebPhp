@@ -8,28 +8,28 @@
                         <div class="slider">
                             <div class="slider-for">
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/1.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/1.jpg" alt="Nexus Phantom"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/2.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/2.jpg" alt="Nexus Phantom"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/3.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/3.jpg" alt="Nexus Phantom"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/4.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/4.jpg" alt="Nexus Phantom"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/5.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/5.jpg" alt="Nexus Phantom"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/6.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/6.jpg" alt="Nexus Phantom"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/7.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $nexusRegDaily; ?></big></span></div><img src="images/more/nexus/7.jpg" alt="Nexus Phantom"></div>
                             </div>
                             <div class="slider-nav">
-                                <div><img src="images/more/nexus/1_small.jpg" alt=""></div>
-                                <div><img src="images/more/nexus/2_small.jpg" alt=""></div>
-                                <div><img src="images/more/nexus/3_small.jpg" alt=""></div>
-                                <div><img src="images/more/nexus/4_small.jpg" alt=""></div>
-                                <div><img src="images/more/nexus/5_small.jpg" alt=""></div>
-                                <div><img src="images/more/nexus/6_small.jpg" alt=""></div>
-                                <div><img src="images/more/nexus/7_small.jpg" alt=""></div>
+                                <div><img src="images/more/nexus/1_small.jpg" alt="Nexus Phantom"></div>
+                                <div><img src="images/more/nexus/2_small.jpg" alt="Nexus Phantom"></div>
+                                <div><img src="images/more/nexus/3_small.jpg" alt="Nexus Phantom"></div>
+                                <div><img src="images/more/nexus/4_small.jpg" alt="Nexus Phantom"></div>
+                                <div><img src="images/more/nexus/5_small.jpg" alt="Nexus Phantom"></div>
+                                <div><img src="images/more/nexus/6_small.jpg" alt="Nexus Phantom"></div>
+                                <div><img src="images/more/nexus/7_small.jpg" alt="Nexus Phantom"></div>
                             </div>
                         </div>
                         <div class="desc">

@@ -7,23 +7,23 @@
 						<h1>2008 Forest River Lexington</h1>	
 						<div class="slider">
 						   <div class="slider-for">		
-								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/1.jpg" alt=""></div>	
-								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/2.jpg" alt=""></div>	
-								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/3.jpg" alt=""></div>	
-								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/4.jpg" alt=""></div>	
-								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/5.jpg" alt=""></div>	
-								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/6.jpg" alt=""></div>	
-								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/7.jpg" alt=""></div>	
+								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/1.jpg" alt="Lexington front"></div>	
+								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/2.jpg" alt="Lexington side"></div>	
+								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/3.jpg" alt="Lexington 3/4"></div>	
+								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/4.jpg" alt="Lexington slide out"></div>	
+								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/5.jpg" alt="Lexington kitchen"></div>	
+								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/6.jpg" alt="Lexington interior"></div>	
+								<div><div class="price"><small>Regular Daily Rate</small><span><big><?php echo $lexRegDaily; ?></big></span></div><img src="images/more/lexington/7.jpg" alt="Lexington driver seat"></div>	
 									
 						   </div>
 						   <div class="slider-nav">		
-								<div><img src="images/more/lexington/1_small.jpg" alt=""></div>
-								<div><img src="images/more/lexington/2_small.jpg" alt=""></div>
-								<div><img src="images/more/lexington/3_small.jpg" alt=""></div>
-								<div><img src="images/more/lexington/4_small.jpg" alt=""></div>
-								<div><img src="images/more/lexington/5_small.jpg" alt=""></div>
-								<div><img src="images/more/lexington/6_small.jpg" alt=""></div>
-								<div><img src="images/more/lexington/7_small.jpg" alt=""></div>
+								<div><img src="images/more/lexington/1_small.jpg" alt="Lexington front preview"></div>
+								<div><img src="images/more/lexington/2_small.jpg" alt="Lexington side preview"></div>
+								<div><img src="images/more/lexington/3_small.jpg" alt="Lexington 3/4 preview"></div>
+								<div><img src="images/more/lexington/4_small.jpg" alt="Lexington slide out preview"></div>
+								<div><img src="images/more/lexington/5_small.jpg" alt="Lexington kitchen preview"></div>
+								<div><img src="images/more/lexington/6_small.jpg" alt="Lexington interior preview"></div>
+								<div><img src="images/more/lexington/7_small.jpg" alt="Lexington driver seat preview"></div>
 							
 						   </div>
 						</div>				

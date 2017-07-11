@@ -8,34 +8,34 @@
                         <div class="slider">
                             <div class="slider-for">
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/1.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/1.jpg" alt="Forest River Solera"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/2.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/2.jpg" alt="Forest River Solera"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/3.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/3.jpg" alt="Forest River Solera"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/4.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/4.jpg" alt="Forest River Solera"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/5.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/5.jpg" alt="Forest River Solera"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/6.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/6.jpg" alt="Forest River Solera"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/7.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/7.jpg" alt="Forest River Solera"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/8.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/8.jpg" alt="Forest River Solera"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/9.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $soleraRegDaily; ?></big></span></div><img src="images/more/solera/9.jpg" alt="Forest River Solera"></div>
                             </div>
                             <div class="slider-nav">
-                                <div><img src="images/more/solera/1_small.jpg" alt=""></div>
-                                <div><img src="images/more/solera/2_small.jpg" alt=""></div>
-                                <div><img src="images/more/solera/3_small.jpg" alt=""></div>
-                                <div><img src="images/more/solera/4_small.jpg" alt=""></div>
-                                <div><img src="images/more/solera/5_small.jpg" alt=""></div>
-                                <div><img src="images/more/solera/6_small.jpg" alt=""></div>
-                                <div><img src="images/more/solera/7_small.jpg" alt=""></div>
-                                <div><img src="images/more/solera/8_small.jpg" alt=""></div>
-                                <div><img src="images/more/solera/9_small.jpg" alt=""></div>
+                                <div><img src="images/more/solera/1_small.jpg" alt="Forest River Solera preview"></div>
+                                <div><img src="images/more/solera/2_small.jpg" alt="Forest River Solera preview"></div>
+                                <div><img src="images/more/solera/3_small.jpg" alt="Forest River Solera preview"></div>
+                                <div><img src="images/more/solera/4_small.jpg" alt="Forest River Solera preview"></div>
+                                <div><img src="images/more/solera/5_small.jpg" alt="Forest River Solera preview"></div>
+                                <div><img src="images/more/solera/6_small.jpg" alt="Forest River Solera preview"></div>
+                                <div><img src="images/more/solera/7_small.jpg" alt="Forest River Solera preview"></div>
+                                <div><img src="images/more/solera/8_small.jpg" alt="Forest River Solera preview"></div>
+                                <div><img src="images/more/solera/9_small.jpg" alt="Forest River Solera preview"></div>
                             </div>
                         </div>
                         <div class="desc">

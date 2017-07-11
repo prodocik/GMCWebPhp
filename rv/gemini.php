@@ -8,40 +8,40 @@
                         <div class="slider">
                             <div class="slider-for">
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/1.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/1.jpg" alt="Thor Gemini front"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/2.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/2.jpg" alt="Thor Gemini left side"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/3.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/3.jpg" alt="Thor Gemini back"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/4.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/4.jpg" alt="Thor Gemini 3/4"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/5.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/5.jpg" alt="Thor Gemini kitchen"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/6.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/6.jpg" alt="Thor Gemini driver seat"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/7.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/7.jpg" alt="Thor Gemini bedroom"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/8.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/8.jpg" alt="Thor Gemini shower"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/9.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/9.jpg" alt="Thor Gemini interior"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/10.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/10.jpg" alt="Thor Gemini driver's wheel"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/11.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $geminiRegDaily; ?></big></span></div><img src="images/more/gemini/11.jpg" alt="Thor Gemini floorplan"></div>
                             </div>
                             <div class="slider-nav">
-                                <div><img src="images/more/gemini/1_small.jpg" alt=""></div>
-                                <div><img src="images/more/gemini/2_small.jpg" alt=""></div>
-                                <div><img src="images/more/gemini/3_small.jpg" alt=""></div>
-                                <div><img src="images/more/gemini/4_small.jpg" alt=""></div>
-                                <div><img src="images/more/gemini/5_small.jpg" alt=""></div>
-                                <div><img src="images/more/gemini/6_small.jpg" alt=""></div>
-                                <div><img src="images/more/gemini/7_small.jpg" alt=""></div>
-                                <div><img src="images/more/gemini/8_small.jpg" alt=""></div>
-                                <div><img src="images/more/gemini/9_small.jpg" alt=""></div>
-                                <div><img src="images/more/gemini/10_small.jpg" alt=""></div>
-                                <div><img src="images/more/gemini/11_small.jpg" alt=""></div>
+                                <div><img src="images/more/gemini/1_small.jpg" alt="Thor Gemini front preview"></div>
+                                <div><img src="images/more/gemini/2_small.jpg" alt="Thor Gemini left side preview"></div>
+                                <div><img src="images/more/gemini/3_small.jpg" alt="Thor Gemini back prreview"></div>
+                                <div><img src="images/more/gemini/4_small.jpg" alt="Thor Gemini 3/4 preview"></div>
+                                <div><img src="images/more/gemini/5_small.jpg" alt="Thor Gemini kitchen preview"></div>
+                                <div><img src="images/more/gemini/6_small.jpg" alt="Thor Gemini driver seat"></div>
+                                <div><img src="images/more/gemini/7_small.jpg" alt="Thor Gemini bedroom preview"></div>
+                                <div><img src="images/more/gemini/8_small.jpg" alt="Thor Gemini shower preview"></div>
+                                <div><img src="images/more/gemini/9_small.jpg" alt="Thor Gemini interior preview"></div>
+                                <div><img src="images/more/gemini/10_small.jpg" alt="Thor Gemini driver's wheel preview"></div>
+                                <div><img src="images/more/gemini/11_small.jpg" alt="Thor Gemini floorplan preview"></div>
                             </div>
                         </div>
                         <div class="desc">

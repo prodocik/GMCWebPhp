@@ -8,34 +8,34 @@
                         <div class="slider">
                             <div class="slider-for">
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/1.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/1.jpg" alt="Phoenix front"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/2.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/2.jpg" alt="Phoenix 3/4"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/3.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/3.jpg" alt="Phoenix side"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/4.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/4.jpg" alt="Phoenix Slideout"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/5.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/5.jpg" alt="Phoenix back"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/6.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/6.jpg" alt="Phoenix interior"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/7.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/7.jpg" alt="Phoenix floorplan"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/8.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/8.jpg" alt="Phoenix shower"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/9.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $phoenixRegDaily; ?></big></span></div><img src="images/more/phoenix/9.jpg" alt="Phoenix front interior"></div>
                             </div>
                             <div class="slider-nav">
-                                <div><img src="images/more/phoenix/1_small.jpg" alt=""></div>
-                                <div><img src="images/more/phoenix/2_small.jpg" alt=""></div>
-                                <div><img src="images/more/phoenix/3_small.jpg" alt=""></div>
-                                <div><img src="images/more/phoenix/4_small.jpg" alt=""></div>
-                                <div><img src="images/more/phoenix/5_small.jpg" alt=""></div>
-                                <div><img src="images/more/phoenix/6_small.jpg" alt=""></div>
-                                <div><img src="images/more/phoenix/7_small.jpg" alt=""></div>
-                                <div><img src="images/more/phoenix/8_small.jpg" alt=""></div>
-                                <div><img src="images/more/phoenix/9_small.jpg" alt=""></div>
+                                <div><img src="images/more/phoenix/1_small.jpg" alt="Phoenix front preview"></div>
+                                <div><img src="images/more/phoenix/2_small.jpg" alt="Phoenix 3/4 preview"></div>
+                                <div><img src="images/more/phoenix/3_small.jpg" alt="Phoenix side preview"></div>
+                                <div><img src="images/more/phoenix/4_small.jpg" alt="Phoenix Slideout preview"></div>
+                                <div><img src="images/more/phoenix/5_small.jpg" alt="Phoenix back preview"></div>
+                                <div><img src="images/more/phoenix/6_small.jpg" alt="Phoenix interior preview"></div>
+                                <div><img src="images/more/phoenix/7_small.jpg" alt="Phoenix floorplan preview"></div>
+                                <div><img src="images/more/phoenix/8_small.jpg" alt="Phoenix shower preview"></div>
+                                <div><img src="images/more/phoenix/9_small.jpg" alt="Phoenix front interior preview"></div>
                             </div>
                         </div>
                         <div class="desc">

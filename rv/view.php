@@ -8,40 +8,40 @@
                         <div class="slider">
                             <div class="slider-for">
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/1.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/1.jpg" alt="View Profile 3/4"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/2.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/2.jpg" alt="View Profile front slideout"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/3.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/3.jpg" alt="View Profile left side"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/4.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/4.jpg" alt="View Profile right side slideout"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/5.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/5.jpg" alt="View Profile kitchen"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/6.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/6.jpg" alt="View Profile driver seat"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/7.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/7.jpg" alt="View Profile interior"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/8.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/8.jpg" alt="View Profile front interior"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/9.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/9.jpg" alt="View Profile control panel"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/10.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/10.jpg" alt="View Profile bedroom"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/floorplan.jpg" alt=""></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $viewRegDaily; ?></big></span></div><img src="images/more/view/floorplan.jpg" alt="View Profile floorplan"></div>
                             </div>
                             <div class="slider-nav">
-                                <div><img src="images/more/view/1_small.jpg" alt=""></div>
-                                <div><img src="images/more/view/2_small.jpg" alt=""></div>
-                                <div><img src="images/more/view/3_small.jpg" alt=""></div>
-                                <div><img src="images/more/view/4_small.jpg" alt=""></div>
-                                <div><img src="images/more/view/5_small.jpg" alt=""></div>
-                                <div><img src="images/more/view/6_small.jpg" alt=""></div>
-                                <div><img src="images/more/view/7_small.jpg" alt=""></div>
-                                <div><img src="images/more/view/8_small.jpg" alt=""></div>
-                                <div><img src="images/more/view/9_small.jpg" alt=""></div>
-                                <div><img src="images/more/view/10_small.jpg" alt=""></div>
-                                <div><img src="images/more/view/f.jpg" alt=""></div>
+                                <div><img src="images/more/view/1_small.jpg" alt="View Profile 3/4 preview"></div>
+                                <div><img src="images/more/view/2_small.jpg" alt="View Profile front slideout preview"></div>
+                                <div><img src="images/more/view/3_small.jpg" alt="View Profile left side preview"></div>
+                                <div><img src="images/more/view/4_small.jpg" alt="View Profile right side slideout preview"></div>
+                                <div><img src="images/more/view/5_small.jpg" alt="View Profile kitchen preview"></div>
+                                <div><img src="images/more/view/6_small.jpg" alt="View Profile driver seat preview"></div>
+                                <div><img src="images/more/view/7_small.jpg" alt="View Profile interior preview"></div>
+                                <div><img src="images/more/view/8_small.jpg" alt="View Profile front interior preview"></div>
+                                <div><img src="images/more/view/9_small.jpg" alt="View Profile control panel preview"></div>
+                                <div><img src="images/more/view/10_small.jpg" alt="View Profile bedroom preview"></div>
+                                <div><img src="images/more/view/f.jpg" alt="View Profile floorplan preview"></div>
                             </div>
                         </div>
                         <div class="desc">
