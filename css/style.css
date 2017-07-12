@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
     -webkit-box-sizing: border-box;
-            box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 nav {
@@ -11,8 +11,6 @@ nav {
     padding: 15px;
     display: none;
 }
-
-
 
 .list-menu {
     display: -webkit-box;
@@ -76,12 +74,10 @@ body {
     line-height: 0px;
     padding: 0;
     margin: 0;
-
 }
 
 .bookingTitle {
     margin-top: 60px;
-
 }
 
 a {
@@ -108,23 +104,21 @@ img button a {
 }
 
 .infotext {
-   display: block;
+    display: block;
     text-align: center;
     color: gray;
     margin-left: 20px;
     margin-right: 20px;
-
 }
 
 .infotext a {
-text-decoration: underline;
+    text-decoration: underline;
     color: gray;
-
 }
 
 .infotext p {
- margin-top: 20px;
- line-height: 30px;
+    margin-top: 20px;
+    line-height: 30px;
 }
 
 .dropdown {
@@ -142,11 +136,11 @@ text-decoration: underline;
 .sub-menu:hover .dropdown {
     left: 0px;
     -webkit-animation-name: example;
-            animation-name: example;
+    animation-name: example;
     -webkit-animation-duration: 0.5s;
-            animation-duration: 0.5s;
+    animation-duration: 0.5s;
     -webkit-transition-timing-function: ease-in;
-            transition-timing-function: ease-in;
+    transition-timing-function: ease-in;
 }
 
 .dropdown li {
@@ -314,8 +308,6 @@ text-decoration: underline;
     margin-right: 0px;
 }
 
-
-
 .panel-top .lang {
     background: #fff;
     border: 1px solid #c9cdcc;
@@ -395,13 +387,12 @@ text-decoration: underline;
 .more .header {
     background: url(/../images/learn_more_pic.jpg) center bottom;
     background-size: cover;
-
 }
 
 .about .header {
     background: url(/../images/about_pic.jpg) center bottom;
     background-size: cover;
-     height: 50%;
+    height: 50%;
 }
 
 .contacts .header {
@@ -416,13 +407,11 @@ text-decoration: underline;
 
 .header .logo {
     margin-top: -30px;
-
 }
 
 .header .logo img {
     max-width: 260px;
     display: inline-block;
-
 }
 
 .header .nav {
@@ -463,13 +452,11 @@ text-decoration: underline;
     background: #ffffff;
 }
 
-
-
- .content .products .product {
+.content .products .product {
     background-color: #fffbf8;
 }
 
- .content .products .product_white {
+.content .products .product_white {
     background-color: #fff;
 }
 
@@ -946,7 +933,7 @@ text-decoration: underline;
 .form-control:focus {
     outline: 0;
     -webkit-box-shadow: none;
-            box-shadow: none;
+    box-shadow: none;
 }
 
 .contacts-box2 p {
@@ -1110,14 +1097,12 @@ text-decoration: underline;
     .panel-top {
         padding: 15px;
     }
-    
     .panel-top .tel {
         text-align: center;
     }
-  .bookingTitle {
+    .bookingTitle {
         text-align: center;
     }
-
     .header h1 {
         padding-bottom: 92px;
         padding-top: 65px;
@@ -1126,7 +1111,6 @@ text-decoration: underline;
         max-width: 154px;
     }
     .header .logo {
-        
         margin-top: -20px;
     }
     .products .product h2 {
@@ -1231,7 +1215,6 @@ text-decoration: underline;
         background: #222;
         padding: 15px;
         display: block;
-
     }
     .heading {
         background-color: transparent;
@@ -1528,9 +1511,8 @@ text-decoration: underline;
         display: block;
     }
     .footer .box .soc {
-        float: none;
         margin: 0 auto;
-        display: table;
+        display: block;
         margin-top: 20px;
     }
     .footer .footing .copy {

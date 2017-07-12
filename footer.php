@@ -41,8 +41,7 @@
     <script>
     $(document).ready(function() {
         $objWindow = $(window);
-  
-        $('.panel-top .lang li:first-child').click(function() {
+          $('.panel-top .lang li:first-child').click(function() {
             $('.panel-top .lang li').css('display', 'block');
             $(this).addClass('active');
             var this_li = $(this);
@@ -92,7 +91,6 @@
         a.src = g;
         m.parentNode.insertBefore(a, m)
     })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
     ga('create', 'UA-98895274-1', 'auto');
     ga('send', 'pageview');
     </script>

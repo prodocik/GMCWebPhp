@@ -1,7 +1,5 @@
 <?php 
-
 //*******Prices********
-
 ////Gemini/////
 $geminiRegDaily = '$215';
 $geminiRegWeekly = '$1,397.50';
@@ -103,7 +101,6 @@ $nexusLowMonthly = '$4,024.80';
 $nexusPrepFee = '$105';
 //***************
 ///PhoneNumber
-
 $phoneNumber = "404-478-6454";
 ?>
 

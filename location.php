@@ -1,16 +1,12 @@
 <!DOCTYPE html>
 <html lang="eng">
-
 <head>
-
     <meta name="description" content="Location of Georgia Motorcoach. Contact us" />
     <meta name="keywords" content="Georgia motorcoach contacts, georgia motorcoach office, georgiamotorcoach, RV rentals company, Rent RV in Atlanta" />
-
     <title>Georgia Motorcoach - RV rentals. Our location.</title>
     <?php include ("variables.php");?>
      <?php include ("assets.php");?>
 </head>
-
 <body class="contacts">
 <?php include ("menu.php");?>
     <?php include ("mainMenu.php");?>
@@ -38,13 +34,11 @@
                             <p><a href="mailto:info@georgiamotorcoach.com">info@georgiamotorcoach.com</a>
                                 <br/>
                                 <p><span>7026 S Sweetwater Rd, Lithia Springs<br> GA 30122</span></p>
-                                
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
 <br><br><br><br><br><br>
 </body>

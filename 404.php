@@ -18,7 +18,7 @@
 <div class="container"><a href="http://georgiamotorcoach.com"><img src="images/logo.png" alt="" width="250px"></a>
 <h1>404</h1>
 	<h2>Oops, something is wrong</h2>
-	<p>the page doesn't exist. <a href="http://georgiamotorcoach.com">return to Georgia Motorcoach</a></p>
+	<p>This page doesn't exist. <a href="http://georgiamotorcoach.com">return to Georgia Motorcoach</a></p>
 </div>
 
 </body>

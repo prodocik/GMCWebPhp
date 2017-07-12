@@ -1,23 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
     <meta name="description" content="Learn more about Georgia Motorcoach. RV rentals company in Georgia" />
     <meta name="keywords" content="About georgia Motorcoach, RV rentals company, RV rentals in Atlanta" />
-  
     <title>About Georgia Mototcoach</title>
-  <?php include ("variables.php");?>
-     <?php include ("assets.php");?>
- 
-</head>
-
-
+    <?php include ("variables.php");?>
+    <?php include ("assets.php");?>
+ </head>
 <body class="about">
     <?php include ("menu.php");?>
-
        <?php include ("mainMenu.php");?>
-
         <div class="container-fluid">
             <div class="promotext col-lg-12 col-md-12 col-xs-12">
                 <h1>ABOUT <big>GEORGIA MOTORCOACH</big></h1>
@@ -38,10 +30,8 @@
                         </div>
                         <div class="img">
                             <img src="images/1.jpg" alt="office_sign">
-
                         </div>
                         <div class="link">
-                       
                             <a href="https://www.outdoorsy.co/pro/georgiamotorcoach/reviews">Reviews on Outdoorsy.co</a>
                         </div>
                     </div>
@@ -51,5 +41,4 @@
     </div>
      <?php include ("footer.php");?>
 </body>
-
 </html>
