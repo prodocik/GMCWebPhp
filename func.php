@@ -78,7 +78,7 @@
         echo '<h1 class="bookingTitle">2013 Winnebago View Profile booking</h1><iframe src="https://checkout.wheelbasepro.com/reserve/5324" height=2050 width=100% frameborder="0"></iframe>';
         }
                 if ($_GET['page'] == 'solera_booking') {
-        echo '<h1 class="bookingTitle">2010 Forest River Solera booking</h1><iframe src="https://checkout.wheelbasepro.com/reserve/5323" height=2150 width=100% frameborder="0"></iframe>';
+        echo '<h1 class="bookingTitle">2010 Forest River Solera booking</h1><iframe src="https://checkout.wheelbasepro.com/reserve/5323" height=2250 width=100% frameborder="0"></iframe>';
         }
 
       

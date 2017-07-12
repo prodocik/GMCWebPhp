@@ -2,7 +2,8 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 nav {
@@ -14,6 +15,8 @@ nav {
 
 
 .list-menu {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     list-style: none;
 }
@@ -138,9 +141,12 @@ text-decoration: underline;
 
 .sub-menu:hover .dropdown {
     left: 0px;
-    animation-name: example;
-    animation-duration: 0.5s;
-    transition-timing-function: ease-in;
+    -webkit-animation-name: example;
+            animation-name: example;
+    -webkit-animation-duration: 0.5s;
+            animation-duration: 0.5s;
+    -webkit-transition-timing-function: ease-in;
+            transition-timing-function: ease-in;
 }
 
 .dropdown li {
@@ -153,6 +159,17 @@ text-decoration: underline;
 
 
 /* The animation code */
+
+@-webkit-keyframes example {
+    from {
+        background-color: rgba(0, 0, 0, 0.0);
+        ;
+    }
+    to {
+        background-color: rgba(0, 0, 0, 0.9);
+        ;
+    }
+}
 
 @keyframes example {
     from {
@@ -287,12 +304,17 @@ text-decoration: underline;
 }
 
 .panel-top .tel {
-    font-size: 15px;
     text-align: right;
+}
+
+.panel-top .tel a {
+    font-size: 15px;
     color: #959190;
     padding-right: 0px;
     margin-right: 0px;
 }
+
+
 
 .panel-top .lang {
     background: #fff;
@@ -923,7 +945,8 @@ text-decoration: underline;
 
 .form-control:focus {
     outline: 0;
-    box-shadow: none;
+    -webkit-box-shadow: none;
+            box-shadow: none;
 }
 
 .contacts-box2 p {
