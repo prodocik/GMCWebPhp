@@ -22,6 +22,7 @@
                                 <ul class="dropdown">
                                     <li><a href="../" >RV LISTINGS</a></li>
                                     <li><a href="pricing">PRICING</a></li>
+                                    <li><a href="faq.html">FAQ</a></li>
                                 </ul>
                             </li>
                             <li><a href="about">ABOUT COMPANY</a></li>

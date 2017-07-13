@@ -1,7 +1,10 @@
  <?php
  	if ($_GET['page'] == '') {
         include ('mainpage.php');
-        }    
+        }
+            if ($_GET['page'] == 'faq') {
+        include ('faq.php');
+        } 
         ///Show RV page
 	if ($_GET['page'] == 'gemini') {
         include ('rv/gemini.php');

@@ -129,12 +129,13 @@ img button a {
     list-style: square;
     width: 180px;
     z-index: 7;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 1);
     border-radius: 5px;
 }
 
 .sub-menu:hover .dropdown {
-    left: 0px;
+    left: -5px;
+    top:-15px;
     -webkit-animation-name: example;
     animation-name: example;
     -webkit-animation-duration: 0.5s;
@@ -144,11 +145,16 @@ img button a {
 }
 
 .dropdown li {
-    padding: 20px;
+    padding: 10px;
+    list-style: none;
+    text-align: center;
 }
 
 .dropdown li a:hover {
     color: orange;
+    
+
+
 }
 
 
@@ -448,10 +454,7 @@ img button a {
     font-size: 84px;
 }
 
-.products {
-    padding-top: 14px;
-    margin-bottom: 2px;
-}
+
 
 .products .product {
     padding-bottom: 35px;
@@ -1526,3 +1529,7 @@ img button a {
         text-align: center;
     }
 }
+
+/////////////// FAQ
+
+
