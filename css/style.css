@@ -145,9 +145,13 @@ img button a {
 }
 
 .dropdown li {
-    padding: 10px;
+    padding-top: 25px;
     list-style: none;
     text-align: center;
+}
+.dropdown li:last-child {
+    padding-bottom: 20px;
+ 
 }
 
 .dropdown li a:hover {
@@ -1100,9 +1104,7 @@ img button a {
         padding: 15px;
         display: none;
     }
-    .sub-menu:active .dropdown {
-        left: 0px;
-    }
+
     .panel-top {
         padding: 15px;
     }
