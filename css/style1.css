@@ -57,7 +57,7 @@ Main components
 
 .cd-faq {
   width: 90%;
-  max-width: 1024px;
+ 
   margin: 2em auto;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
 }
@@ -67,6 +67,7 @@ Main components
 .cd-faq a {
   color: #ffa531;
   text-decoration: none;
+  font-size: 15px;
 }
 .cd-faq:after {
   content: "";
@@ -272,7 +273,7 @@ Main components
 .cd-close-panel::before, .cd-close-panel::after {
   /* close icon in CSS */
   position: absolute;
-  content: "X"
+ 
   top: 16px;
   left: 12px;
   display: inline-block;
