@@ -291,6 +291,11 @@ img button a {
     color: orange;
 }
 
+ .promotext {
+        height: 100%;
+
+    }
+
 .panel-top {
     padding: 38px;
     position: relative;
@@ -426,14 +431,15 @@ img button a {
 }
 
 .header h1 {
+    position: relative;
     font-family: SFUIDisplay-Black;
     text-align: center;
     color: #fff;
     font-size: 54px;
-    padding-top: 0px;
     line-height: 1.2;
     letter-spacing: 6px;
-    padding-bottom: 130px;
+    margin-bottom: 60px;
+    margin-top: 40px;
 }
 
 .header h1 big {
@@ -1104,8 +1110,8 @@ img button a {
         text-align: center;
     }
     .header h1 {
-        padding-bottom: 92px;
-        padding-top: 65px;
+        margin-bottom: 50px;
+        margin-top: 50px;
     }
     .header .logo img {
         max-width: 154px;
@@ -1229,9 +1235,7 @@ img button a {
     .bookingTitle {
         text-align: center;
     }
-    .promotext {
-        position: absolute;
-    }
+
     .prices {
         text-align: center;
     }
