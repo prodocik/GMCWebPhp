@@ -5,7 +5,7 @@
                 <ul class="list-menu">
                     <li><a href="/../">RV LISTINGS</a></li>
                      <li><a href="pricing">PRICING</a></li>
-                     <li><a href="faq">FAQ</a></li>
+                     <li><a href="faq.html">FAQ</a></li>
                     <li><a href="about">ABOUT</a></li>
                     <li><a href="location">LOCATION</a></li>
                 </ul>
