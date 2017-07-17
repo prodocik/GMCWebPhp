@@ -10,7 +10,7 @@
 <body>
 	<?php include ("menu.php");?>
     <?php include ("mainMenu.php");?>
-    </header>
+    
     <?php include ("func.php");?>
     <?php include ("footer.php");?>
 </body>

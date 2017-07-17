@@ -1,6 +1,9 @@
  <?php
- 	if ($_GET['page'] == '') {
+ if ($_GET['page'] == '') {
         include ('mainpage.php');
+        }
+ 	if ($_GET['page'] == 'ourfleet') {
+        include ('ourfleet.php');
         }
             if ($_GET['page'] == 'faq') {
         include ('faq.php');

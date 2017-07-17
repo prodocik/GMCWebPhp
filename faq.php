@@ -1,10 +1,9 @@
 <div class="container">
             <div class="promotext col-lg-12 col-md-12 col-xs-12">
-              
             </div>
         </div>
     </header>
-<div class="container-fluid faqBlock">
+<div class="container faqBlock">
     <section class="cd-faq">
         <ul class="cd-faq-categories">
             <li><a class="selected" href="#general">General</a></li>

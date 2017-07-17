@@ -34,6 +34,7 @@
                             <p><a href="mailto:info@georgiamotorcoach.com">info@georgiamotorcoach.com</a>
                                 <br/>
                                 <p><span>7026 S Sweetwater Rd, Lithia Springs<br> GA 30122</span></p>
+                                 <p>We are just in 15 miles from Atlanta, Georgia</p>
                         </div>
                     </div>
                 </div>
