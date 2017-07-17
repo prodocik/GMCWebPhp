@@ -13,7 +13,8 @@
                 <div class="row">
                     <div class="col-lg-4 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-3 col-xs-12">
                         <div class="logo">
-                            <a href="../"><img src="images/logo.png" class="img-responsive logo" alt="logo"></a>
+                            <a href="../"><img src="images/logo.png" alt="logo"></a>
+                            
                         </div>
                     </div>
                     <div class="col-md-7 col-sm-9 col-xs-7">

@@ -1,8 +1,9 @@
-<div class="container-fluid">
-    <div class="promotext col-lg-12 col-md-12 col-xs-12">
-    </div>
-</div>
-</header>
+<div class="container">
+            <div class="promotext col-lg-12 col-md-12 col-xs-12">
+              
+            </div>
+        </div>
+    </header>
 <div class="container-fluid faqBlock">
     <section class="cd-faq">
         <ul class="cd-faq-categories">
@@ -153,7 +154,7 @@ What	can	I	do?</a>
     </section>
     <!-- cd-faq -->
 </div>
-<script src="js/jquery-2.1.1.js"></script>
+<script src="js/jquery.min.js"></script>
 <script src="js/jquery.mobile.custom.min.js"></script>
 <script src="js/main.js"></script>
 <!-- Resource jQuery -->

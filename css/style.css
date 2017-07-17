@@ -11,6 +11,9 @@ nav {
     padding: 15px;
     display: none;
 }
+.clearfix {
+    clear: both;
+}
 
 .list-menu {
     display: -webkit-box;
@@ -407,7 +410,7 @@ img button a {
 .about .header {
     background: url(/../images/about_pic.jpg) center bottom;
     background-size: cover;
-    height: 50%;
+    
 }
 
 .contacts .header {
@@ -421,7 +424,7 @@ img button a {
 }
 
 .header .logo {
-    margin-top: -30px;
+    margin-top: -70px;
 }
 
 .header .logo img {
@@ -449,7 +452,7 @@ img button a {
     line-height: 1.2;
     letter-spacing: 6px;
     margin-bottom: 60px;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .header h1 big {
@@ -1093,6 +1096,26 @@ img button a {
         top: 0px;
         left: 5px;
     }
+        .header .logo img {
+        max-width: 180px;
+    }
+    .header .logo {
+        margin-top: -40px;
+        margin-bottom: 40px;
+    }
+     .header h1 {
+        margin-bottom: 50px;
+        margin-top: 60px;
+    }
+       .promotext {
+        height: 100%;
+        margin: 0 auto;
+
+    }
+      .panel-top {
+        padding: 10px;
+    }
+
 }
 
 
@@ -1105,8 +1128,21 @@ img button a {
         display: none;
     }
 
+       .header .logo {
+        display: block;
+        text-align: center;
+    }
+
+    .promotext {
+        height: 100%;
+
+    }
+    .header .logo img {
+        max-width: 160px;
+    }
+
     .panel-top {
-        padding: 15px;
+        padding: 10px;
     }
     .panel-top .tel {
         text-align: center;
@@ -1116,14 +1152,9 @@ img button a {
     }
     .header h1 {
         margin-bottom: 50px;
-        margin-top: 50px;
+        margin-top: 90px;
     }
-    .header .logo img {
-        max-width: 154px;
-    }
-    .header .logo {
-        margin-top: -20px;
-    }
+ 
     .products .product h2 {
         text-align: left;
         margin-left: 0;
@@ -1175,6 +1206,10 @@ img button a {
         top: 0px;
         left: 2px;
     }
+    .promotext {
+         margin: 0 auto;
+    }
+
     .about-box h1 {
         text-align: center;
         margin-left: 0;
@@ -1257,13 +1292,16 @@ img button a {
     }
     .header .logo {
         display: block;
-        margin-top: 10px;
+        margin-top: 20px;
         text-align: center;
     }
+
+    .promotext {
+        height: 0;
+
+    }
     .header .logo img {
-        max-width: 150px;
-        margin-left: 0;
-        margin-right: auto;
+        max-width: 160px;
     }
     .header h1 {
         font-size: 1px;
