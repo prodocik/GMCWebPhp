@@ -11,6 +11,17 @@ nav {
     padding: 15px;
     display: none;
 }
+.adressAndPhoneBlock {
+    background-color: #fffcf2;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.adress {
+    text-align: right;
+    margin-top: 10px;
+    color:#777;
+}
 
 /* 
 mainpage */
@@ -75,7 +86,7 @@ border-radius: 8px;
     display: inline-block;
 }
 
-/* mainpage */
+/* End mainpage */
 
 
 
@@ -372,9 +383,9 @@ img button a {
 }
 
 .panel-top {
-    padding: 38px;
+    padding: 20px;
     position: relative;
-    padding-bottom: 27px;
+    padding-bottom: 20px;
 }
 
 .panel-top .tel {
@@ -423,7 +434,7 @@ img button a {
 }
 
 .header .logo {
-    margin-top: -50px;
+    margin-top: -70px;
 }
 
 .header .logo img {
@@ -434,11 +445,12 @@ img button a {
 .header .nav {
     padding-top: 17px;
     float: right;
+    padding-left: 30px;
 }
 
 .header .nav-pills>li>a {
     font-size: 15px;
-    padding: 10px 44px;
+    
     font-family: SFUIDisplay-Light;
 }
 
@@ -1145,9 +1157,7 @@ img button a {
     .panel-top {
         padding: 10px;
     }
-    .panel-top .tel {
-        text-align: center;
-    }
+
     .bookingTitle {
         text-align: center;
     }
@@ -1264,6 +1274,14 @@ img button a {
 /* Large devices (tablets, 767px and up) */
 
 @media (max-width: 767px) {
+        .panel-top .tel {
+        text-align: center;
+    }
+    .adress {
+    text-align: center;
+    margin-top: 10px;
+    color:#777;
+}
     nav {
         background: #222;
         padding: 15px;
