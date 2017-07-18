@@ -212,7 +212,7 @@ img button a {
 }
 
 .sub-menu:hover .dropdown {
-    left: -5px;
+    left: -35px;
     top: -15px;
     -webkit-animation-name: example;
     animation-name: example;
