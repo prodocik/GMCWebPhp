@@ -19,7 +19,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>High season rates</h4>
+                            <h4>Peak rates</h4>
                               <li>Daily:<span> <?php echo $viewHighDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $viewHighWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $viewHighMonthly; ?></span></li>
@@ -28,7 +28,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>Low season rates</h4>
+                            <h4>Winter rates</h4>
                           <li>Daily:<span> <?php echo $viewLowDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $viewLowWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $viewLowMonthly; ?></span></li>
@@ -58,7 +58,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>High season rates</h4>
+                            <h4>Peak rates</h4>
                             <li>Daily:<span> <?php echo $geminiHighDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $geminiHighWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $geminiHighMonthly; ?></span></li>
@@ -67,7 +67,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>Low season rates</h4>
+                            <h4>Winter rates</h4>
                             <li>Daily:<span> <?php echo $geminiLowDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $geminiLowWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $geminiLowMonthly; ?></span></li>
@@ -97,7 +97,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>High season rates</h4>
+                            <h4>Peak rates</h4>
                                  <li>Daily:<span> <?php echo $vegasHighDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $vegasHighWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $vegasHighMonthly; ?></span></li>
@@ -106,7 +106,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>Low season rates</h4>
+                            <h4>Winter rates</h4>
                              <li>Daily:<span> <?php echo $vegasLowDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $vegasLowWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $vegasLowMonthly; ?></span></li>
@@ -136,7 +136,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>High season rates</h4>
+                            <h4>Peak rates</h4>
                               <li>Daily:<span> <?php echo $cambriaHighDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $cambriaHighWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $cambriaHighMonthly; ?></span></li>
@@ -145,7 +145,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>Low season rates</h4>
+                            <h4>Winter rates</h4>
                            <li>Daily:<span> <?php echo $cambriaLowDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $cambriaLowWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $cambriaLowMonthly; ?></span></li>
@@ -175,7 +175,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>High season rates</h4>
+                            <h4>Peak rates</h4>
                               <li>Daily:<span> <?php echo $nexusHighDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $nexusHighWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $nexusHighMonthly; ?></span></li>
@@ -184,7 +184,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>Low season rates</h4>
+                            <h4>Winter rates</h4>
                              <li>Daily:<span> <?php echo $nexusLowDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $nexusLowWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $nexusLowMonthly; ?></span></li>
@@ -214,7 +214,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>High season rates</h4>
+                            <h4>Peak rates</h4>
                               <li>Daily:<span> <?php echo $soleraHighDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $soleraHighWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $soleraHighMonthly; ?></span></li>
@@ -223,7 +223,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>Low season rates</h4>
+                            <h4>Winter rates</h4>
                           <li>Daily:<span> <?php echo $soleraLowDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $soleraLowWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $soleraLowMonthly; ?></span></li>
@@ -253,7 +253,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>High season rates</h4>
+                            <h4>Peak rates</h4>
                          <li>Daily:<span> <?php echo $lexHighDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $lexHighWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $lexHighMonthly; ?></span></li>
@@ -262,7 +262,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>Low season rates</h4>
+                            <h4>Winter rates</h4>
                           <li>Daily:<span> <?php echo $lexLowDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $lexLowWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $lexLowMonthly; ?></span></li>
@@ -292,7 +292,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>High season rates</h4>
+                            <h4>Peak rates</h4>
                             <li>Daily:<span> <?php echo $phoenixHighDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $phoenixHighWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $phoenixHighMonthly; ?></span></li>
@@ -301,7 +301,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>Low season rates</h4>
+                            <h4>Winter rates</h4>
                              <li>Daily:<span> <?php echo $phoenixLowDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $phoenixLowWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $phoenixLowMonthly; ?></span></li>
@@ -331,7 +331,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>High season rates</h4>
+                            <h4>Peak rates</h4>
                       <li>Daily:<span> <?php echo $btcruiserHighDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $btcruiserHighWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $btcruiserHighMonthly; ?></span></li>
@@ -340,7 +340,7 @@
                     </div>
                     <div class="prices col-md-3 col-sm-3">
                         <ul>
-                            <h4>Low season rates</h4>
+                            <h4>Winter rates</h4>
                              <li>Daily:<span> <?php echo $btcruiserLowDaily; ?></span></li>
                             <li>Weekly:<span> <?php echo $btcruiserLowWeekly; ?></span> </li>
                             <li>Monthly:<span> <?php echo $btcruiserLowMonthly; ?></span></li>
@@ -390,8 +390,8 @@
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Seasons</h4>
-                            <li>Low season<span> from 3-JAN to 1-MAR</span> </li>
-                            <li>High season pricing applies during certain holidays and special events</li>
+                            <li>Winter<span> from 3-JAN to 1-MAR</span> </li>
+                            <li>Peak pricing applies during certain holidays and special events</li>
                             
                         </ul>
                     </div>

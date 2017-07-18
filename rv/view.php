@@ -110,7 +110,7 @@
                     </div>
                     <div class="col-md-4 col-sm-4">
                         <div class="rates">
-                            <span class="h">HIGH SEASON RATES*</span>
+                            <span class="h">PEAK RATES*</span>
                             <span class="name">Daily</span>
                             <span class="price"><?php echo $viewHighDaily; ?></span>
                             <span class="name">Weekly</span>
@@ -121,7 +121,7 @@
                     </div>
                     <div class="col-md-4 col-sm-4">
                         <div class="rates">
-                            <span class="h">LOW SEASON RATES*</span>
+                            <span class="h">WINTER RATES*</span>
                             <span class="name">Daily</span>
                             <span class="price"><?php echo $viewLowDaily; ?></span>
                             <span class="name">Weekly</span>
