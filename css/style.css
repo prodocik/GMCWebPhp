@@ -12,6 +12,17 @@ nav {
     display: none;
 }
 
+
+.adress {
+    text-align: right;
+    margin-top: 10px;
+    color: #777;
+}
+
+.adress p {
+    margin-bottom: 0;
+}
+
 /* 
 mainpage */
 
@@ -34,13 +45,11 @@ mainpage */
     padding: 30px;
     text-align: center;
     color: #fff;
-
 }
 
 .orngeline p {
     font-size: 18px;
     margin-top: 50px;
-
 }
 
 
@@ -53,31 +62,30 @@ mainpage */
     margin-bottom: 70px;
 }
 
-.whiteline p{
+.whiteline p {
 
     margin-bottom: 30px;
     margin-top: 20px;
     font-size: 20px;
 }
 
-.whiteline a{
+.whiteline a {
 
-height: 50px;
+    height: 50px;
 }
 
-.whiteline img{
+.whiteline img {
 
-width: 100px;
-border-radius: 8px;
+    width: 100px;
+    border-radius: 8px;
 }
 
 .whiteline img {
     display: inline-block;
 }
 
-/* mainpage */
 
-
+/* End mainpage */
 
 .list-menu {
     display: -webkit-box;
@@ -143,8 +151,11 @@ body {
     margin: 0;
 }
 
-.bookingTitle {
+.header .bookingTitle {
     margin-top: 60px;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 30px;
 }
 
 a {
@@ -201,7 +212,7 @@ img button a {
 }
 
 .sub-menu:hover .dropdown {
-    left: -5px;
+    left: -35px;
     top: -15px;
     -webkit-animation-name: example;
     animation-name: example;
@@ -224,6 +235,7 @@ img button a {
 .dropdown li a:hover {
     color: orange;
 }
+
 
 
 
@@ -250,6 +262,7 @@ img button a {
         ;
     }
 }
+
 
 
 
@@ -308,12 +321,13 @@ img button a {
 .pricing-item ul li {
     list-style: none;
     margin-top: 8px;
+    font-size: 14px;
 }
 
 .pricing-item ul li span {
-    color: #ed3000;
+    color: #33a53b;
     font-weight: bold;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .disclaimer p {
@@ -372,9 +386,9 @@ img button a {
 }
 
 .panel-top {
-    padding: 38px;
+    padding: 20px;
     position: relative;
-    padding-bottom: 27px;
+    padding-bottom: 20px;
 }
 
 .panel-top .tel {
@@ -423,7 +437,8 @@ img button a {
 }
 
 .header .logo {
-    margin-top: -50px;
+    margin-top: -70px;
+    position: absolute;
 }
 
 .header .logo img {
@@ -434,21 +449,22 @@ img button a {
 .header .nav {
     padding-top: 17px;
     float: right;
+    padding-left: 30px;
 }
 
 .header .nav-pills>li>a {
     font-size: 15px;
-    padding: 10px 44px;
+
     font-family: SFUIDisplay-Light;
 }
 
 .header h1 {
-    
+
     font-family: SFUIDisplay-Black;
     text-align: center;
     color: #fff;
     font-size: 54px;
-    
+
     letter-spacing: 6px;
     margin-bottom: 60px;
     margin-top: 50px;
@@ -571,6 +587,7 @@ img button a {
 .products .product .img button {
     margin-bottom: 22px;
 }
+
 
 
 
@@ -815,6 +832,7 @@ img button a {
     color: #bb9f78;
     padding-bottom: 16px;
 }
+
 
 
 
@@ -1064,6 +1082,7 @@ img button a {
 
 
 
+
 /* Large devices (large desktops, 1200px and up) */
 
 @media (max-width: 1200px) {
@@ -1121,6 +1140,7 @@ img button a {
 
 
 
+
 /* Large devices (desktops, 992px and up) */
 
 @media (max-width: 992px) {
@@ -1145,9 +1165,7 @@ img button a {
     .panel-top {
         padding: 10px;
     }
-    .panel-top .tel {
-        text-align: center;
-    }
+
     .bookingTitle {
         text-align: center;
     }
@@ -1261,9 +1279,18 @@ img button a {
 
 
 
+
 /* Large devices (tablets, 767px and up) */
 
 @media (max-width: 767px) {
+    .panel-top .tel {
+        text-align: center;
+    }
+    .adress {
+        text-align: center;
+        margin-top: 10px;
+        color: #777;
+    }
     nav {
         background: #222;
         padding: 15px;
@@ -1275,9 +1302,9 @@ img button a {
     header {
         height: 200px;
     }
-    .browseRv{
-    visibility: hidden;
-}
+    .browseRv {
+        visibility: hidden;
+    }
     .nav {
         visibility: hidden;
         position: absolute;
@@ -1301,7 +1328,8 @@ img button a {
         padding: 10px;
     }
     .header .logo {
-        display: block;
+        left: 33vw;
+        top: -10px;
         margin-top: 20px;
         text-align: center;
     }

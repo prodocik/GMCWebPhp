@@ -13,15 +13,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4  advantage">
-                    <img src="images/rv.jpg" alt="" width="100" height="100">
+                    <img src="images/main_photos/rv.jpg" alt="RV brands" width="100" height="100">
                     <p>Popular RV brands</p>
                 </div>
                 <div class="col-lg-4 advantage">
-                    <img src="images/shield.jpg" alt="" width="100" height="100">
+                    <img src="images/main_photos/shield.jpg" alt="RV insurance" width="100" height="100">
                     <p>Full insurance coverage</p>
                 </div>
                 <div class="col-lg-4 advantage">
-                    <img src="images/tfour.jpg" alt="" width="100" height="100">
+                    <img src="images/main_photos/tfour.jpg" alt="RV assistance" width="100" height="100">
                     <p>24/7 Road assistance</p>
                 </div>
             </div>
