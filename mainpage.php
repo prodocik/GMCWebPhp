@@ -30,7 +30,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 orange_text">
                     <h2>RV Rentals near you</h2>
-                    <p>Georgia Motorcoach RV Rental is a small company with a big passion for adventure. We want to help you make memories and deliver unforgettable experiences on board one of our luxury motorhomes. At Georgia Motorcoach RV Rental Company we strive to provide superior service to our customers. We are located just in 15 miles from Atlanta, Georgia</p>
+                    <p>Georgia Motorcoach RV Rental is a small company with a big passion for adventure. We want to help you make memories and deliver unforgettable experiences on board one of our luxury motorhomes. At Georgia Motorcoach RV Rental Company we strive to provide superior service to our customers. We are located just in 15 minutes from downtown Atlanta, Georgia</p>
                 </div>
             </div>
         </div>
