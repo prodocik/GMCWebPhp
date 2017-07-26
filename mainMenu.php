@@ -17,12 +17,12 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-sm-3 col-xs-12">
-                        <a href="../">
+                       
                         <div class="logo">
-                            <img src="images/logo.png" alt="logo">
+                             <a href="../"><img src="images/logo.png" alt="logo"></a>
                             
                         </div>
-                        </a>
+                        
                     </div>
                     <div class="col-md-7 col-sm-9 col-xs-7">
                         <ul class="nav nav-pills">
