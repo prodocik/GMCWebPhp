@@ -592,7 +592,9 @@ img button a {
 }
 
 
-
+.photos-block img {
+    margin-top: 5px;
+}
 
 /* product-item */
 
