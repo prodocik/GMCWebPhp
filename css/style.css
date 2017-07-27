@@ -23,6 +23,7 @@ nav {
     margin-bottom: 0;
 }
 
+
 /* 
 mainpage */
 
@@ -83,6 +84,7 @@ mainpage */
 .whiteline img {
     display: inline-block;
 }
+
 
 
 /* End mainpage */
@@ -239,6 +241,7 @@ img button a {
 
 
 
+
 /* The animation code */
 
 @-webkit-keyframes example {
@@ -262,6 +265,7 @@ img button a {
         ;
     }
 }
+
 
 
 
@@ -341,7 +345,7 @@ img button a {
     background-color: #ff9934;
     width: 100%;
     height: 45px;
-        margin-top: 10px;
+    margin-top: 10px;
     margin-bottom: 55px;
     border-radius: 8px;
     text-align: center;
@@ -581,12 +585,10 @@ img button a {
     text-decoration: underline;
     text-align: center;
     display: block;
-
 }
 
- .product #btn_book {
-  margin-bottom: 15px;
-
+.product #btn_book {
+    margin-bottom: 15px;
 }
 
 .products .product .img a:hover {
@@ -601,6 +603,7 @@ img button a {
 .photos-block img {
     margin-top: 5px;
 }
+
 
 /* product-item */
 
@@ -843,6 +846,7 @@ img button a {
     color: #bb9f78;
     padding-bottom: 16px;
 }
+
 
 
 
@@ -1094,6 +1098,7 @@ img button a {
 
 
 
+
 /* Large devices (large desktops, 1200px and up) */
 
 @media (max-width: 1200px) {
@@ -1148,6 +1153,7 @@ img button a {
         padding: 15px;
     }
 }
+
 
 
 
@@ -1291,6 +1297,7 @@ img button a {
 
 
 
+
 /* Large devices (tablets, 767px and up) */
 
 @media (max-width: 767px) {
@@ -1315,7 +1322,6 @@ img button a {
     }
     .browseRv {
         visibility: hidden;
-     
     }
     .nav {
         visibility: hidden;
