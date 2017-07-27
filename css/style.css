@@ -581,6 +581,12 @@ img button a {
     text-decoration: underline;
     text-align: center;
     display: block;
+
+}
+
+ .product #btn_book {
+  margin-bottom: 15px;
+
 }
 
 .products .product .img a:hover {
@@ -1309,6 +1315,7 @@ img button a {
     }
     .browseRv {
         visibility: hidden;
+     
     }
     .nav {
         visibility: hidden;
