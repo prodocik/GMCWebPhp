@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>GREAT OUTDOOR<big>EXPERIENCE</big></h1>
+                <h1><big>RV RENTALS</big></h1>
                   <div class="col-lg-4 col-lg-offset-4 col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3  ">
                   
                     <div class="browseRv" id="btn_book"><a href="ourfleet.html">BROWSE OUR FLEET</a></div>
@@ -30,7 +30,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 orange_text">
                     <h2>RV Rentals near you</h2>
-                    <p>Georgia Motorcoach RV Rental is a small company with a big passion for adventure. We want to help you make memories and deliver unforgettable experiences on board one of our luxury motorhomes. At Georgia Motorcoach RV Rental Company we strive to provide superior service to our customers. We are located just in 15 minutes from downtown Atlanta, Georgia</p>
+                    <p>Georgia Motorcoach RV Rental is a small company with a big passion for adventure. We want to help you make memories and deliver unforgettable experiences on board one of our luxury motorhomes. At Georgia Motorcoach RV Rental Company we strive to provide superior service to our customers. We are located just 15 minutes from downtown Atlanta, Georgia</p>
                 </div>
             </div>
         </div>
@@ -47,8 +47,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <p>Whant to see all ours motorhomes?</p>
-                    <div class="all_rv_listing" id="btn_book"><a href="ourfleet.html">RV LISTING</a></div>
+                    <p>Want to see all ours motorhomes?</p>
+                    <div class="all_rv_listing" id="btn_book"><a href="ourfleet.html">RV LISTINGS</a></div>
                 </div>
             </div>
         </div>

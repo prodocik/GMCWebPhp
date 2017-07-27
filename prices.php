@@ -356,14 +356,17 @@
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Add-on Options </h4>
-                            <li>Unlimited Miles:<span> $45.00 per night </span></li>
-                            <li>Unlimited Generator:<span> $15.00 per night </span></li>
-                            <li>Pet Charge (restristions apply, not available on newest RVs):<span> $75.00 one time </span></li>
+                            <li>Unlimited Miles:<span> $50.00 per night </span></li>
+                            <li>Unlimited Generator:<span> $20.00 per night </span></li>
+                            <li>Pet Charge (restristions apply, not available on newest RVs):<span> $95.00 one time </span></li>
                             <li>Satellite (Cambria only):<span> $12.50 per day</span> </li>
-                            <li>Evening return - return the RV as late as 8 PM, instead of by 11 AM:<span> $120 one time</span></li>
-                            <li>Kitchen Package -   dishes, silverware, pot,    pan,    cooking utensils<span> $35 one time</span></li>
-                            <li>Linen   Package - bedding, towels  for 2   people<span> $30 one time</span></li>
-                            <li>Additional  linen   packages<span> $15 one time</span></li>
+                            <li>Evening return - return the RV as late as 9 PM, instead of by 5 PM:<span> $50 one time</span></li>
+                            <li>Kitchen Package -   dishes, silverware, pot, pan, cooking utensils<span> $50 one time</span></li>
+                            <li>Linen   Package - bedding, towels  for 2   people<span> $40 one time</span></li>
+                            <li>Additional  linen   packages<span> $20 one time</span></li>
+                             <li>Infant or toddler Car Seat<span> $12.50 per night</span></li>
+                             <li>RV GPS<span> $12.50 per night</span></li>
+                             <li>Bike Rack<span> $9.50 per night</span></li>
                         </ul>
                     </div>
                 </div>
