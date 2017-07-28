@@ -34,8 +34,14 @@
                                     <li><a href="faq.html">FAQ</a></li>
                                 </ul>
                             </li>
-                            <li><a href="about">ABOUT COMPANY</a></li>
-                            <li><a href="location">LOCATION</a>
+                 
+                            <li class="sub-menu rightcentred"><a>COMPANY</a>
+                            <ul class="dropdown">
+                                    <li><a href="about">ABOUT COMPANY</a></li>
+                                    <li><a href="location">LOCATION</a></li>
+                                    <li><a href="privacy">PRIVACY <br>POLICY</a></li>
+                                    
+                                </ul>
                             </li>
                         </ul>
                     </div>

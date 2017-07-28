@@ -201,20 +201,24 @@ img button a {
     line-height: 30px;
 }
 
+.nav .leftcentred {
+    text-align: right;
+}
+
 .dropdown {
     left: -9999px;
     position: absolute;
     color: white;
     font-size: 14px;
     list-style: square;
-    width: 180px;
+    width: 100px;
     z-index: 7;
     background-color: rgba(0, 0, 0, 1);
     border-radius: 5px;
 }
 
 .sub-menu:hover .dropdown {
-    left: -35px;
+    left: 1px;
     top: -15px;
     -webkit-animation-name: example;
     animation-name: example;
@@ -305,6 +309,8 @@ img button a {
     text-align: left;
     margin-bottom: 20px;
 }
+
+
 
 .pricing-item ul {
     vertical-align: middle;
@@ -405,6 +411,7 @@ img button a {
     color: #959190;
     padding-right: 0px;
     margin-right: 0px;
+    vertical-align: middle;
 }
 
 
@@ -731,6 +738,27 @@ img button a {
     margin-bottom: 17px;
 }
 
+.desc h4 {
+    color: #000;
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.desc li {
+    list-style: circle;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.desc ul {
+       margin-top: 30px;
+       margin-bottom: 30px;
+}
+
+.desc a {
+      color: orange;
+}
 .product-item .attr {
     background: #f9f1e6;
     padding: 50px 55px;
@@ -855,7 +883,7 @@ img button a {
 
 .about-box {
     margin-top: 32px;
-    padding-bottom: 132px;
+    
 }
 
 .about-box h1 {
@@ -1303,7 +1331,7 @@ img button a {
 @media (max-width: 767px) {
     .panel-top .tel {
         text-align: center;
-    }
+         }
     .adress {
         text-align: center;
         margin-top: 10px;

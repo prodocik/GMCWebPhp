@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="eng">
 <head>
-    <meta name="description" content="Learn more about Georgia Motorcoach. RV rentals company in Georgia" />
-    <meta name="keywords" content="About georgia Motorcoach, RV rentals company, RV rentals in Atlanta" />
-    <title>About Georgia Mototcoach</title>
+    <meta name="description" content="Location of Georgia Motorcoach. Contact us" />
+    <meta name="keywords" content="Georgia motorcoach contacts, georgia motorcoach office, georgiamotorcoach, RV rentals company, Rent RV in Atlanta" />
+    <title>Georgia Motorcoach - RV rentals. Our location.</title>
     <?php include ("variables.php");?>
-    <?php include ("assets.php");?>
- </head>
-<body class="about">
-    <?php include ("menu.php");?>
-       <?php include ("mainMenu.php");?>
-        <div class="container-fluid">
+     <?php include ("assets.php");?>
+</head>
+<body class="contacts">
+<?php include ("menu.php");?>
+    <?php include ("mainMenu.php");?>
+           <div class="container-fluid">
             <div class="promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>ABOUT <big>GEORGIA MOTORCOACH</big></h1>
+                <h1>ABOUT <big>COMPANY</big></h1>
             </div>
         </div>
     </header>
     <div class="content">
-        <div class="about-box">
+    <div class="about-box">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -38,9 +38,8 @@
                 </div>
             </div>
         </div>
-      
-        
     </div>
-     <?php include ("footer.php");?>
+<br><br><br><br><br><br>
 </body>
+ <?php include ("footer.php");?>
 </html>
