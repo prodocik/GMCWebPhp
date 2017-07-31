@@ -5,12 +5,13 @@
                     <div class="col-md-3 col-sm-3">
                         <ul class="nav nav-pills nav-stacked">
                             <li><a href="about">About company</a></li>
-                            <li><a href="/../">Rent RV</a></li>
+                            <li><a href="ourfleet.html">Our fleet</a></li>
+                            <li><a href="faq.html">FAQ</a></li>
                             <li><a href="location">Location</a></li>
                         </ul>
                     </div>
                     <div class="col-md-6 col-sm-6">
-                        <p>Business hours: Monday - Friday from 10 AM to 5:30 PM, <br> Saturday - from 10 AM to 3 PM</p>
+                        <p>Business hours: Monday - Friday from 10 AM to 5:30 PM</p>
                         <p>7026 S Sweetwater Rd, Lithia Springs GA 30122</p>
                         <p><?php echo $phoneNumber; ?></p>
                         <a class="link" href="mailto:info@georgiamotorcoach.com">info@georgiamotorcoach.com</a>
