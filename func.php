@@ -8,6 +8,9 @@
             if ($_GET['page'] == 'faq') {
         include ('faq.php');
         } 
+              if ($_GET['page'] == 'package') {
+        include ('package.php');
+        } 
         ///Show RV page
 	if ($_GET['page'] == 'gemini') {
         include ('rv/gemini.php');

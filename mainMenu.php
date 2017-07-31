@@ -24,14 +24,15 @@
                         </div>
                         
                     </div>
-                    <div class="col-md-7 col-sm-9 col-xs-7">
-                        <ul class="nav nav-pills">
+                    <div class="col-md-7 col-sm-9 col-xs-7 mainMenu">
+                        <ul class="nav nav-pills ">
                             <li><a href="../">MAIN</a></li>
                             <li class="sub-menu"><a>RV RENTALS</a>
                                 <ul class="dropdown">
                                     <li><a href="ourfleet.html" >OUR FLEET</a></li>
                                     <li><a href="pricing">PRICING</a></li>
                                     <li><a href="faq.html">FAQ</a></li>
+                                    <li><a href="package.html">PACKING <br>LIST</a></li>
                                 </ul>
                             </li>
                  

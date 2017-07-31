@@ -218,7 +218,7 @@ ul li {
     padding: 0 5% 1em;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
-    z-index: 1;
+    z-index: 11;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     -webkit-transform: translateZ(0) translateX(100%);
@@ -288,7 +288,7 @@ ul li {
     overflow: hidden;
     text-indent: 100%;
     white-space: nowrap;
-    z-index: 2;
+    z-index: 12;
     /* Force Hardware Acceleration in WebKit */
     -webkit-transform: translateZ(0);
     -moz-transform: translateZ(0);

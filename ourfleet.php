@@ -5,7 +5,7 @@
         </div>
          
         </div>
-      <div class="clearfix">a</div>
+     
     </header>
     <div class="content">
         <div class="products">

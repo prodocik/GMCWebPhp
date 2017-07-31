@@ -23,9 +23,34 @@ nav {
     margin-bottom: 0;
 }
 
+.nav-item {
+    display: inline-block;
+    color: orange;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.nav-item .active {
+    background-color: orange;
+}
+
+
+ul.nav.nav-tabs {
+
+    margin-top: 20px;
+}
+
 
 /* 
 mainpage */
+
+.packageList {
+    margin-top: 30px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
 
 .advantage {
     text-align: center;
@@ -84,6 +109,7 @@ mainpage */
 .whiteline img {
     display: inline-block;
 }
+
 
 
 
@@ -246,6 +272,7 @@ img button a {
 
 
 
+
 /* The animation code */
 
 @-webkit-keyframes example {
@@ -269,6 +296,7 @@ img button a {
         ;
     }
 }
+
 
 
 
@@ -451,7 +479,7 @@ img button a {
 .header .logo {
     margin-top: -50px;
     position: absolute;
-    z-index: 10;
+    z-index: 2;
 }
 
 
@@ -612,6 +640,7 @@ img button a {
 }
 
 
+
 /* product-item */
 
 .product-item {
@@ -752,13 +781,14 @@ img button a {
 }
 
 .desc ul {
-       margin-top: 30px;
-       margin-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .desc a {
-      color: orange;
+    color: orange;
 }
+
 .product-item .attr {
     background: #f9f1e6;
     padding: 50px 55px;
@@ -879,11 +909,11 @@ img button a {
 
 
 
+
 /* about-box */
 
 .about-box {
     margin-top: 32px;
-    
 }
 
 .about-box h1 {
@@ -1123,10 +1153,6 @@ img button a {
     text-align: left;
 }
 
-
-
-
-
 /* Large devices (large desktops, 1200px and up) */
 
 @media (max-width: 1200px) {
@@ -1181,10 +1207,6 @@ img button a {
         padding: 15px;
     }
 }
-
-
-
-
 
 /* Large devices (desktops, 992px and up) */
 
@@ -1322,16 +1344,18 @@ img button a {
     }
 }
 
-
-
-
-
 /* Large devices (tablets, 767px and up) */
 
 @media (max-width: 767px) {
+    .center-block {
+        display: flex;
+        justify-content: center;
+        margin-left: 0;
+        margin-right: auto;
+    }
     .panel-top .tel {
         text-align: center;
-         }
+    }
     .adress {
         text-align: center;
         margin-top: 10px;
@@ -1346,14 +1370,18 @@ img button a {
         background-color: transparent;
     }
     header {
-        height: 200px;
+        height: 190px;
     }
     .browseRv {
         visibility: hidden;
     }
-    .nav {
+
+    .mainMenu {
         visibility: hidden;
         position: absolute;
+    }
+    .center-block {
+        margin-top: 20px;
     }
     .bookingTitle {
         text-align: center;
@@ -1638,7 +1666,6 @@ img button a {
     .footer .box a.link {
         color: #fff;
         font-size: 18px;
-        text-align: center;
         text-decoration: underline;
         display: block;
     }

@@ -1,4 +1,24 @@
+
+  <div class="container">
+  <div class="center-block">
+
+  <ul class="nav nav-tabs" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" href="#RVs" role="tab" data-toggle="tab">RV prices</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="#addon" role="tab" data-toggle="tab">Add-on options</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="#policies" role="tab" data-toggle="tab">Policies</a>
+  </li>
+</ul>
+
+</div>
+</div> 
  <div class="content">
+<div class="tab-content">
+  <div role="tabpanel" class="tab-pane fade in active" id="RVs">
         <div class="pricing-item">
             <div class="container">
                 <div class="row">
@@ -350,6 +370,8 @@
                 </div>
             </div>
         </div>
+        </div>
+         <div role="tabpanel" class="tab-pane fade" id="addon">
         <div class="pricing-item">
             <div class="container">
                 <div class="row">
@@ -372,6 +394,8 @@
                 </div>
             </div>
         </div>
+        </div>
+          <div role="tabpanel" class="tab-pane fade" id="policies">
         <div class="pricing-item">
             <div class="container">
                 <div class="row">
@@ -407,11 +431,16 @@
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Pickup  and Return</h4>
-                            <li>Pickup is<span> 11 AM  -   4 PM </span></li>
+                            <li>Pickup is<span> 10 AM  -   4 PM </span></li>
                             <li>Return is<span> 11 AM or earlier, unless evening return is booked</span> </li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
+        </div>
+        </div>
     </div>
+    <script>
+        $('.nav-tabs a[href="#RVs"]').tab('show')
+    </script>

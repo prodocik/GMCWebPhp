@@ -10,8 +10,8 @@
 <link href="css/bootstrap.min.css" rel="stylesheet" />
 <link href="css/fonts.css" rel="stylesheet" />
 <link href="slick/slick.css" rel="stylesheet" />
-<link rel="stylesheet" href="css/faqEngine.css"> <!-- Resource style -->
-<link href="css/style.css?version=6" rel="stylesheet" />
+<link rel="stylesheet" href="css/faqEngine.css?version=2"> <!-- Resource style -->
+<link href="css/style.css?version=8" rel="stylesheet" />
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="slick/slick.min.js"></script>
