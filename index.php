@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+<meta name="google-site-verification" content="MzsYHbPNWY42k-V__qYzpKvBmlol8C1PR1xL5-SZnlY" />
     <meta name="description" content="Atlanta Georgia RV Rental Company, Wide selection of class B plus, class C, and class A RV's to rent">
     <meta name="keywords" content="RV Rental, Motorhome Rental, Atlanta, Cobb County, Douglas County, Marietta, Douglasville, Hiram, Lithia Springs, Villa Rica, RV Service, RV Maintenance">
     <title>Georgia Motorcoach - RV Rentals. RV for rent</title>

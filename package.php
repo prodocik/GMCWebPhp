@@ -5,7 +5,13 @@
 </div>
 </header>
 <div class="container packageList">
+<<<<<<< HEAD
 <div class="row"><div class="downloadLink col-lg-12"><a target="_blank" href="images/PackingList.pdf">Packing List Suggestions (PDF)</a></div></div>
+=======
+<div class="row"><div class="downloadLink col-lg-12"><a target="_blank" href="images/PackingList.pdf">Packing List Suggestions <img src="images/pdf.svg" width="20px" alt="pdf">
+	<PDF></PDF>
+</img></a></div></div>
+>>>>>>> 78ada0b41937eb9541d6e208fd1b913e96bf1c55
 
 <div class="col-lg-6 col-xs-12">
 <li>Roadside Assistance Information</li>

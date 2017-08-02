@@ -1359,8 +1359,7 @@ img button a {
     .center-block {
         display: flex;
         justify-content: center;
-        margin-left: 0;
-        margin-right: auto;
+        
     }
     .panel-top .tel {
         text-align: center;
