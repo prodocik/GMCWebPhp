@@ -5,6 +5,9 @@
 </div>
 </header>
 <div class="container packageList">
+<div class="row"><div class="downloadLink col-lg-12"><a target="_blank" href="images/PackingList.pdf">Packing List Suggestions <img src="images/pdf.svg" width="20px" alt="pdf">
+	<PDF></PDF>
+</img></a></div></div>
 
 <div class="col-lg-6 col-xs-12">
 <li>Roadside Assistance Information</li>

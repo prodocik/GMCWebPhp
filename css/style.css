@@ -12,6 +12,15 @@ nav {
     display: none;
 }
 
+.downloadLink{
+    margin-bottom: 20px;
+}
+
+.downloadLink a {
+    color: orange;
+    font-size: 15px;
+
+}
 
 .adress {
     text-align: right;
@@ -1350,8 +1359,7 @@ img button a {
     .center-block {
         display: flex;
         justify-content: center;
-        margin-left: 0;
-        margin-right: auto;
+        
     }
     .panel-top .tel {
         text-align: center;

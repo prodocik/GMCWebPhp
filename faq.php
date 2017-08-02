@@ -52,6 +52,13 @@
                     </div>
                     <!-- cd-faq-content -->
                 </li>
+                     <li>
+                    <a class="cd-faq-trigger" href="#0">Any packing suggestions?</a>
+                    <div class="cd-faq-content">
+                        <p>You can find packing suggestions <a href="package.html">here</a></p>
+                    </div>
+                    <!-- cd-faq-content -->
+                </li>
             </ul>
             <!-- cd-faq-group -->
             <ul id="electrical" class="cd-faq-group">
