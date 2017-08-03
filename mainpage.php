@@ -6,11 +6,7 @@
                             <div class=" calendar-form">
                 <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-12 form-bg ">
                     <div class="row">
-<<<<<<< HEAD
                         <form>
-=======
-                        <form method="get">
->>>>>>> 5a7f6f48890ba04fae7ab1560cd0a548ff6ed09c
                             <div class="col-lg-12 calendar_field">
                                 <label for="input-group" class="input-title">
                                     <div class="input-group input-daterange">
@@ -21,11 +17,7 @@
                     </div>
                     <div class="row">
                     <div class="col-lg-4 col-lg-offset-4  button_search">
-<<<<<<< HEAD
                         <input class="btn btn-primary" id="search_btn" value="SEARCH" onclick="sendDates()">
-=======
-                        <input class="btn btn-primary " type="submit" id="search_btn" value="SEARCH">
->>>>>>> 5a7f6f48890ba04fae7ab1560cd0a548ff6ed09c
                     </div></div>
                     
                     </form>
@@ -82,15 +74,16 @@
     </div>
       <!-- Include jQuery -->
     <script type="text/javascript">
-<<<<<<< HEAD
     var object = {}
     function sendDates() {
-    	window.location.href = "search?from=" + object.start.format('MM/DD/YYYY') + "&to=" + object.end.format('MM/DD/YYYY')
+    	window.location.href = "search.php?from=" + object.start.format('MM/DD/YYYY') + "&owner_id=21291&to=" + object.end.format('MM/DD/YYYY')
     }
     
 $(function() {
 	var now = new Date();
 	var formated_date = now.format("mm/dd/yyyy");
+	
+
 	
   $('input[name="daterange"]').daterangepicker({
       autoUpdateInput: false,
@@ -106,18 +99,6 @@ $(function() {
   });
   
   
-=======
-$(function() {
-
-  $('input[name="daterange"]').daterangepicker({
-      autoUpdateInput: false,
-      autoApply: true,
-      locale: {
-          cancelLabel: 'Clear'
-      }
-  });
-
->>>>>>> 5a7f6f48890ba04fae7ab1560cd0a548ff6ed09c
   $('input[name="daterange"]').on('apply.daterangepicker', function(ev, picker) {
       $(this).val(picker.startDate.format('MM.DD.YYYY') + ' - ' + picker.endDate.format('MM.DD.YYYY'));
   });

@@ -24,9 +24,4 @@
 <!-- Include Date Range Picker -->
 <script type="text/javascript" src="js/daterangepicker.js"></script>
 <link rel="stylesheet" type="text/css" href="css/daterangepicker.css" />
-<<<<<<< HEAD
 <script>$('input[name="daterange"]').daterangepicker();</script>
-=======
-<script>$('input[name="daterange"]').daterangepicker();</script>
-
->>>>>>> 5a7f6f48890ba04fae7ab1560cd0a548ff6ed09c
