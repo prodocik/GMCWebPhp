@@ -12,6 +12,106 @@ nav {
     display: none;
 }
 
+
+/* search */
+
+
+.calendar-form {
+    text-align: center;
+        position: relative;
+        top: 60px;
+        margin: 20px;
+        margin-bottom: 70px;
+
+
+}
+
+
+
+
+.input-group input{
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    height: 40px;
+    border: none;
+    text-align: center;
+    color: gray;
+    font-size: 15px;
+    font-weight: lighter;
+
+}
+
+.input-title {
+    width: 100%;
+}
+
+.form-bg {
+    background-color: rgba(255, 255, 255, 0.5);
+    
+    padding: 10px 20px 20px 20px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    margin-top: -70px;
+}
+
+
+#search_btn {
+    background-color: orange;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 10px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    border: none;
+    margin-top: 0px;
+    padding:0;
+    text-align: center;
+
+}
+
+#search_btn:hover {
+    background-color: #fcb171;
+}
+
+.calendar_field, .button_search{
+    margin-top: 5px;
+}
+
+.input-title {
+    text-align: center;
+    margin-bottom: 8px;
+    color: #fff;
+
+}
+
+.input-group {
+
+    width: 100%;
+}
+
+
+.calendar_field .input-group .form-control {
+    background: url("images/calendar.svg") white;   
+    background-repeat: no-repeat; /*Убираем повтор изображения*/   
+    background-position: 0px; /*Позиционируем*/   
+
+
+    outline: none; /*убираем стандартную обводку браузера*/   
+    -moz-border-radius: 5px; /*закругляем углы для Mozilla*/  
+    -webkit-border-radius: 5px; /*закругляем углы для Chrome, Safari*/   
+    border-radius: 5px; /*закругляем углы для остальных браузеров*/  
+    padding-left: 20px; /*отступ слева от ввода, чтобы текст не был на картинке(выбирать по размеру картинки)*/  
+    height: 40px; /*высота строки ввода*/   
+    font-size: 15px; /*размер шрифта*/
+    -webkit-appearance: none;
+
+}
+
+
+/* end search */
+
 .downloadLink{
     margin-bottom: 20px;
 }
@@ -1361,6 +1461,11 @@ img button a {
         justify-content: center;
         
     }
+
+    .form-bg {
+   
+    margin-top: -200px;
+}
     .panel-top .tel {
         text-align: center;
     }
@@ -1378,7 +1483,7 @@ img button a {
         background-color: transparent;
     }
     header {
-        height: 190px;
+        height: 400px;
     }
     .browseRv {
         visibility: hidden;
