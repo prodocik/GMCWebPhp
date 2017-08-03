@@ -76,15 +76,12 @@
     <script type="text/javascript">
     var object = {}
     function sendDates() {
-    	window.location.href = "search.php?from=" + object.start.format('MM/DD/YYYY') + "&owner_id=21291&to=" + object.end.format('MM/DD/YYYY')
+    	window.location.href = "search?from=" + object.start.format('MM/DD/YYYY') + "&to=" + object.end.format('MM/DD/YYYY')
     }
     
 $(function() {
 	var now = new Date();
 	var formated_date = now.format("mm/dd/yyyy");
-	
-
-	
   $('input[name="daterange"]').daterangepicker({
       autoUpdateInput: false,
       autoApply: true,
