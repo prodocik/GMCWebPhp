@@ -101,6 +101,6 @@ $nexusLowMonthly = '$3,725.28';
 $nexusPrepFee = '$105';
 //***************
 ///PhoneNumber
-$phoneNumber = "404-478-6454";
+$phoneNumber = '404-478-6454';
 ?>
 
