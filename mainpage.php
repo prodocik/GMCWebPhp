@@ -17,7 +17,7 @@
                     </div>
                     <div class="row">
                     <div class="col-lg-4 col-lg-offset-4  button_search">
-                        <input class="btn btn-primary" id="search_btn" value="SEARCH" onclick="sendDates()" readonly="readonly">
+                        <input class="btn btn-primary" id="search_btn" value="SEARCH" onclick="sendDates()" readonly="readonly" style="outline: none">
                     </div></div>
                     
                     </form>
