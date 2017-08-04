@@ -9,9 +9,8 @@
 <body>
     <?php include ("menu.php");?>
     <?php include ("mainMenu.php");?>
-    
     <?php include ("func.php");?>
-      <?php include ("bottomAssets.php");?>
+    <?php include ("bottomAssets.php");?>
     <?php include ("footer.php");?>
 </body>
 </html>

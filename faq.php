@@ -52,7 +52,7 @@
                     </div>
                     <!-- cd-faq-content -->
                 </li>
-                     <li>
+                <li>
                     <a class="cd-faq-trigger" href="#0">Any packing suggestions?</a>
                     <div class="cd-faq-content">
                         <p>You can find packing suggestions <a href="package.html">here</a></p>
@@ -143,15 +143,13 @@
                     <!-- cd-faq-content -->
                 </li>
                 <li>
-                    <a class="cd-faq-trigger" href="#0">Solera/Gemini Only: I   am  almost  out of  propane,    I   don't   have    hookups,    my  batteries   are low,    and it's    hot/cold    outside.    
-What    can I   do?</a>
+                    <a class="cd-faq-trigger" href="#0">Solera/Gemini Only: I am  almost out of propane, I don't have hookups, my batteries are low, and it's hot/cold outside. What can I do?</a>
                     <div class="cd-faq-content">
                         <p>Crank the engine and use the dash AC/heat. The engine will burn diesel instead of propane and will charge your batteries. Set the main HVAC to "fan only" to help circulate the air. You will not have 120V AC, but in this case, it is better to conserve your propane so your refrigerator operates. Burning diesel at idle will not cost any more than running the propane generator, but monitor your diesel consumption. Don't run out of fuel and leave yourself stranded.</p>
                     </div>
                     <!-- cd-faq-content -->
                 </li>
             </ul>
-            <!-- cd-faq-group -->
             <!-- cd-faq-group -->
         </div>
         <!-- cd-faq-items -->
@@ -162,4 +160,3 @@ What    can I   do?</a>
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery.mobile.custom.min.js"></script>
 <script src="js/main.js"></script>
-<!-- Resource jQuery -->
