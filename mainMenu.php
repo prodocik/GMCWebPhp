@@ -26,7 +26,7 @@
                     </div>
                     <div class="col-md-7 col-sm-9 col-xs-7 mainMenu">
                         <ul class="nav nav-pills ">
-                            <li><a href="../">MAIN</a></li>
+                            <li><a href="../">SEARCH</a></li>
                             <li class="sub-menu"><a>RV RENTALS</a>
                                 <ul class="dropdown">
                                     <li><a href="ourfleet.html" >OUR FLEET</a></li>

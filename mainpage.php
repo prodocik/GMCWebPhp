@@ -17,7 +17,7 @@
                     </div>
                     <div class="row">
                     <div class="col-lg-4 col-lg-offset-4  button_search">
-                        <input class="btn btn-primary" id="search_btn" value="SEARCH" onclick="sendDates()">
+                        <input class="btn btn-primary" id="search_btn" value="SEARCH" onclick="sendDates()" readonly="readonly">
                     </div></div>
                     
                     </form>
@@ -97,7 +97,7 @@ $(function() {
   
   
   $('input[name="daterange"]').on('apply.daterangepicker', function(ev, picker) {
-      $(this).val(picker.startDate.format('MM.DD.YYYY') + ' - ' + picker.endDate.format('MM.DD.YYYY'));
+      $(this).val(picker.startDate.format('MM/DD/YYYY') + ' - ' + picker.endDate.format('MM/DD/YYYY'));
   });
 
   $('input[name="daterange"]').on('cancel.daterangepicker', function(ev, picker) {

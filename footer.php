@@ -4,6 +4,7 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-3">
                         <ul class="nav nav-pills nav-stacked">
+                            <li><a href="../">Search</a></li>
                             <li><a href="about">About company</a></li>
                             <li><a href="ourfleet.html">Our fleet</a></li>
                             <li><a href="faq.html">FAQ</a></li>
