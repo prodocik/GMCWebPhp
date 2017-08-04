@@ -72,6 +72,8 @@
             </div>
         </div>
     </div>
+
+    
       <!-- Include jQuery -->
     <script type="text/javascript">
     var object = {}
@@ -79,6 +81,8 @@
     	window.location.href = "search?from=" + object.start.format('MM/DD/YYYY') + "&to=" + object.end.format('MM/DD/YYYY')
     }
     
+
+
 $(function() {
 	var now = new Date();
 	var formated_date = now.format("mm/dd/yyyy");

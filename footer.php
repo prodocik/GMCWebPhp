@@ -40,6 +40,7 @@
             </div>
         </div>
     </footer>
+     <?php include ("bottomAssets.php");?>
     <script>
     $(document).ready(function() {
         $objWindow = $(window);
