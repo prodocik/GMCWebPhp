@@ -12,7 +12,7 @@
                     </ul>
                 </div>
                 <div class="col-md-6 col-sm-6">
-                    <p>Business hours: Monday - Friday from 10 AM to 5:00 PM</p>
+                    <p>Business hours: Monday - Friday from 10 AM to 5:30 PM</p>
                     <p>7026 S Sweetwater Rd, Lithia Springs GA 30122</p>
                     <p><?php echo $phoneNumber; ?></p>
                     <a class="link" href="mailto:info@georgiamotorcoach.com">info@georgiamotorcoach.com</a>

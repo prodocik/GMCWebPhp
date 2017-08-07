@@ -1,16 +1,15 @@
   <div class="container-fluid">
-            <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1><big>RV RENTALS</big></h1>
-                  <div class="col-lg-4 col-lg-offset-4 col-md-6 col-md-offset-3 col-sm-6 col-sm-offset-3  ">
-                  
+         
                             <div class=" calendar-form">
-                <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-12 form-bg ">
+                             <h1>RV RENTALS</h1>
+                <div class="col-lg-4 col-lg-offset-4 col-md-8 col-md-offset-2 col-sm-10 col-xs-12 col-sm-offset-1 form-bg ">
                     <div class="row">
+                    
                         <form>
                             <div class="col-lg-12 calendar_field">
                                 <label for="input-group" class="input-title">
                                     <div class="input-group input-daterange">
-                                        <input type="text" name="daterange"  value="Select Pick up and Drop off dates" />
+                                        <input type="button" class="searchSelectorBtn" style="background-color: white;" name="daterange" autocomplete="off"  value="Select Pick up and Drop off dates" />
                                     </div>
                             </div>
                                 </label>

@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>GREAT OUTDOOR<big>EXPERIENCE</big></h1>
+                <h1>GREAT OUTDOOR <br><big>EXPERIENCE</big></h1>
                 
         </div>
          

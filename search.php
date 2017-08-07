@@ -15,8 +15,9 @@
 <body style="height: auto; overflow: auto;">
     <?php include ("menu.php");?>
     <?php include ("mainMenu.php");?>
-    <h1 class="bookingTitle">RV Search</h1>
     </header>
+   
+    
     <iframe id="includeSearch" src=""  width=100% frameborder="0" ></iframe>
     <?php include ("footer.php");?>
   

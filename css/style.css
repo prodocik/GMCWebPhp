@@ -27,6 +27,12 @@ nav {
 
 }
 
+.header .calendar-form h1 {
+ font-size: 55px;
+
+
+}
+
 
 
 
@@ -53,7 +59,7 @@ nav {
     padding: 10px 20px 20px 20px;
     border-radius: 10px;
     margin-bottom: 100px;
-    margin-top: -70px;
+    margin-top: 0px;
 }
 
 
@@ -155,6 +161,14 @@ ul.nav.nav-tabs {
 
 /* 
 mainpage */
+
+ .header h1 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+        font-size: 30px;
+      color: white;
+        text-align: center
+    }
 
 .packageList {
     margin-top: 30px;
@@ -320,6 +334,10 @@ img button a {
     text-decoration: none !important;
 }
 
+#includeSearch {
+    margin-top: 50px;
+}
+
 .infotext {
     display: block;
     text-align: center;
@@ -343,7 +361,8 @@ img button a {
 }
 
 .dropdown {
-    left: -9999px;
+   left: -9999px;
+    top: -15px;
     position: absolute;
     color: white;
     font-size: 14px;
@@ -354,9 +373,11 @@ img button a {
     border-radius: 5px;
 }
 
-.sub-menu:hover .dropdown {
-    left: 1px;
+.nav .sub-menu:hover .dropdown {
+    position: absolute;
+    left: 10px;
     top: -15px;
+
     -webkit-animation-name: example;
     animation-name: example;
     -webkit-animation-duration: 0.5s;
@@ -378,10 +399,6 @@ img button a {
 .dropdown li a:hover {
     color: orange;
 }
-
-
-
-
 
 
 /* The animation code */
@@ -558,13 +575,13 @@ img button a {
 
 .header {
     background: url(/../images/main_image2.jpg) center bottom;
-    background-attachment: fixed;
+   
     background-origin: content-box;
     background-clip: initial;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 100% 0;
-    position: relative;
+    position: inherit;
 }
 
 .more .header {
@@ -611,23 +628,6 @@ img button a {
     font-family: SFUIDisplay-Light;
 }
 
-.header h1 {
-
-    font-family: SFUIDisplay-Black;
-    text-align: center;
-    color: #fff;
-    font-size: 54px;
-
-    letter-spacing: 6px;
-    margin-bottom: 60px;
-    margin-top: 50px;
-}
-
-.header h1 big {
-    font-family: SFUIDisplay-Semibold;
-    display: block;
-    font-size: 84px;
-}
 
 
 
@@ -1308,7 +1308,7 @@ img button a {
     }
     .header h1 {
         margin-bottom: 50px;
-        margin-top: 60px;
+        
     }
     .promotext {
         height: 100%;
@@ -1349,7 +1349,7 @@ img button a {
     }
     .header h1 {
         margin-bottom: 50px;
-        margin-top: 90px;
+      
     }
 
     .products .product h2 {
@@ -1450,7 +1450,7 @@ img button a {
         font-size: 15px;
     }
     .sub-menu:hover .dropdown {
-        left: -25px;
+        left: 20px;
         top: -15px;
     }
 }
@@ -1466,7 +1466,7 @@ img button a {
 
     .form-bg {
    
-    margin-top: -200px;
+    margin-top: -10px;
 }
     .panel-top .tel {
         text-align: center;
@@ -1485,8 +1485,9 @@ img button a {
         background-color: transparent;
     }
     header {
-        height: 400px;
+        height: 100%;
     }
+    
     .browseRv {
         visibility: hidden;
     }
@@ -1517,26 +1518,24 @@ img button a {
         padding: 10px;
     }
     .header .logo {
-        display: block;
-        position: relative;
-        top: -10px;
-        margin-top: 20px;
-        text-align: center;
+        display: none;
+        visibility: hidden;
     }
 
     .promotext {
         height: 0;
     }
     .header .logo img {
-        max-width: 160px;
+        max-width: 130px;
     }
     .header h1 {
-        font-size: 1px;
-        visibility: hidden;
+        
+        display: block;
         text-align: center
     }
     .header h1 big {
         font-size: 25px;
+        display: block;
     }
     .header .nav-pills>li>a {
         padding: 2px 1px;
@@ -1550,6 +1549,7 @@ img button a {
         clear: both;
     }
     .heading {
+        position: absolute;
         height: 110px;
         padding-top: 5px;
     }
