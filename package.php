@@ -1,6 +1,6 @@
 <div class="container">
     <div class="promotext col-lg-12 col-md-12 col-xs-12">
-        <h1>Packing List Suggestions</h1>
+        <h1>PACKING LIST SUGGESTIONS</h1>
     </div>
 </div>
 </header>
