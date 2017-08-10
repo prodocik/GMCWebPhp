@@ -20,6 +20,7 @@
                 <div class="col-md-3 col-sm-3">
                     <ul class="nav soc">
                         <li><a href="https://www.facebook.com/georgiamotorcoach"></a></li>
+                        <li><a href="https://www.twitter.com/GMotorcoach/"></a></li>
                         <li><a href="https://www.instagram.com/georgiamotorcoach/"></a></li>
                     </ul>
                 </div>
