@@ -12,6 +12,9 @@ nav {
     display: none;
 }
 
+.red {
+    color: #c4370a;
+}
 
 
 /* search */
@@ -615,7 +618,7 @@ img button a {
 }
 
 .header .logo {
-    margin-top: -50px;
+    margin-top: -80px;
     position: absolute;
     z-index: 2;
 }

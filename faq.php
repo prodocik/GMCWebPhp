@@ -59,6 +59,13 @@
                     </div>
                     <!-- cd-faq-content -->
                 </li>
+                  <li>
+                    <a class="cd-faq-trigger" href="#0">Can I smoke in RV?</a>
+                    <div class="cd-faq-content">
+                        <p>Smoking is not allowed in any Georgia Motorcoach RV.</p>
+                    </div>
+                    <!-- cd-faq-content -->
+                </li>
             </ul>
             <!-- cd-faq-group -->
             <ul id="electrical" class="cd-faq-group">

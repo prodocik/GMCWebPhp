@@ -67,12 +67,13 @@
                                 <a href="gemini.html"><img src="images/main_photos/gemini.jpg" class="img-responsive center-block"></a>
                                 <div id="btn_book"><a href="gemini_booking.html">BOOK NOW</a></div>
                                 <a href="gemini.html">Learn more</a>
+
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season.</p>
+                            <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -139,7 +140,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                            <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -207,7 +208,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                            <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -275,7 +276,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                            <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -342,7 +343,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                           <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -411,7 +412,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                           <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -479,7 +480,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                          <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -546,7 +547,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                            <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -613,7 +614,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> *Price varies by season</p>
+                           <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
