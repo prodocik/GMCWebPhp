@@ -118,6 +118,16 @@ nav {
 
 
 /* end search */
+.smoking {
+    margin-top: 40px;
+    
+}
+
+.desc .smoking p {
+    font-size: 15px;
+    vertical-align: middle;
+    color: #c4370a;
+}
 
 .downloadLink{
     margin-bottom: 20px;

@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>Gulf Stream<big>BT Cruiser</big></h1>
+                <h1>Gulf Stream BT Cruiser</h1>
             
     </div>
         </div>
@@ -44,6 +44,7 @@
                         <div class="desc">
                             <p>This is a B+ coach in excellent condition. Only 19,500 as of April 2017. This coach feature a rear bathroom, queen bed with high quality pillow top mattress, and large dinette that folds into a 48x80" double bed. Aerodynamic B+ design ensures good fuel economy, low wind noise, and good power at higher speeds.
                             </p>
+                            <div class="smoking"><p>Smoking is not allowed <img src="images/no-smoking.svg" alt="no_smoking" width="20px"></p> </div>
                         </div>
                     </div>
                 </div>

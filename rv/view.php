@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>Winnebago<big>View Profile</big></h1>
+                <h1>Winnebago View Profile</h1>
             
     </div>
         </div>
@@ -56,6 +56,7 @@
                             <p>Has duel heat (electric heat pump w/ propane backup), duel (electric and propane) water heater, and a 3-way fridge (DC/AC/Propane), so you use no propane while driving or plugged in. Generator is diesel and also very efficient. </p>
                             <p>The RV sleeps 2 adults and possibly a small child on the 54" wide couch. With the slide out, there is floor space for a pack-n-play. The couch does not fold into a bed.</p>
                             <p>Connection hoses are included. Free on-site parking available. For your convenience, leave your car and drive off in the RV.</p>
+                            <div class="smoking"><p>Smoking is not allowed <img src="images/no-smoking.svg" alt="no_smoking" width="20px"></p> </div>
                         </div>
                     </div>
                 </div>

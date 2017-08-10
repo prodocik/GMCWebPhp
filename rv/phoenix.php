@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>Phoenix<big>Cruiser</big></h1>
+                <h1>Phoenix Cruiser</h1>
             
     </div>
         </div>
@@ -47,6 +47,8 @@
                         <div class="desc">
                             <p>New Mattresses and sofa for 2017 rental season. With twin beds, this is the perfect setup for 2 people who do not want to share a bed. Beds can also be used for seating. Great for sports events, Nascar, music festivals, etc. This small RV is perfect to use as a comfortable travel vehicle.</p>
                             <p>Connection hoses are included, and free on-site parking available. For your convenience, leave your car and drive off in the RV.</p>
+
+                            <div class="smoking"><p>Smoking is not allowed <img src="images/no-smoking.svg" alt="no_smoking" width="20px"></p> </div>
                         </div>
                     </div>
                 </div>

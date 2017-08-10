@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>Itasca<big>Cambria</big></h1>
+                <h1>Itasca Cambria</h1>
             
     </div>
         </div>
@@ -48,6 +48,7 @@
                             <p>This is one extraordinary RV that will turn heads everywhere you go. Beautiful inside and out. Corian countertops, tile backsplashes, leather seats, LED accent lighting, this RV has it all! 3 slides, with 2 opposing slides in front give a tremendous amount of interior space. This RV has more space and luxury than most class A RV's but in an easy to drive, smooth riding, and fuel efficient C/B+ package. It has all the quality that you expect from a Winnebago Industries product. </p>
                             <p>For extra comfort, this RV is equipped with a tankless water heater for endless hot water and low propane consumption. With a full hookup you can shower whenever you are ready, for as long as you want. No more waiting for water to heat.</p>
                             <p>Connection hoses are included, and free on-site parking available. For your convenience, leave your car and drive off in the RV. </p>
+                            <div class="smoking"><p>Smoking is not allowed <img src="images/no-smoking.svg" alt="no_smoking" width="20px"></p> </div>
                         </div>
                     </div>
                 </div>

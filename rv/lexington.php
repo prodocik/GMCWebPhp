@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>Forest River<big>Lexington</big></h1>
+                <h1>Forest River Lexington</h1>
             
     </div>
         </div>
@@ -37,7 +37,7 @@
 						<p>This coach is in amazing condition and is packed with extras. The Grand Touring is Forest River's top end Line, and is in a easy, fuel efficient B+ package. Tile backsplash, corian countertops, wood grain dash, and full body paint are just a few of the extras that this coach features. For the price, this coach can't be beat.</p>
 						<p>This coach is very low mileage (32k as of Feb 2017) for its age, so we are offering unlimited miles to all renters. Now you can drive all you want without having to count the miles. </p>
 					
-
+						<div class="smoking"><p>Smoking is not allowed <img src="images/no-smoking.svg" alt="no_smoking" width="20px"></p> </div>
 
 						</div>
 					</div>
