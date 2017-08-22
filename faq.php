@@ -100,7 +100,7 @@
                 <li>
                     <a class="cd-faq-trigger" href="#0">What    type    of  fuel    does    my  generator   use?</a>
                     <div class="cd-faq-content">
-                        <p>Cambria, Lexington, Phoenix, BT, Nexus, Vegas: All gas chassis RV's have a gasoline generator that pulls gas from the vehicle's main fuel tank. When you refill the vehicle's gas tank, you are also refilling the generator's tank because they are the same tank. Keep in mind that generator usage will affect any MPG calculations that you do.
+                        <p>Cambria, BT, Nexus, Vegas: All gas chassis RV's have a gasoline generator that pulls gas from the vehicle's main fuel tank. When you refill the vehicle's gas tank, you are also refilling the generator's tank because they are the same tank. Keep in mind that generator usage will affect any MPG calculations that you do.
                             <br>View only: The Winnebago View has a diesel generator that pulls diesel from the vehicle's main fuel tank. When you refill the vehicle's diesel tank, you are also refilling the generator's tank because they are the same tank. Keep in mind that generator usage will affect any MPG calculations that you do.
                             <br>Solera and Gemini: The Forest River Solera and Thor Gemini are equipped with a propane generator. This generator pulls propane from the propane tank and does not affect vehicle MPG calculations. </p>
                     </div>

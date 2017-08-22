@@ -60,7 +60,6 @@
                 <img src="images/main_photos/gemini.jpg" alt="gemini">
                 <img src="images/main_photos/nexus.jpg" alt="nexus">
                 <img src="images/main_photos/view.jpg" alt="view">
-                <img src="images/main_photos/phoenix.jpg" alt="phoenix">
                 <img src="images/main_photos/solera.jpg" alt="solera">
                 <img src="images/main_photos/btcruiser.jpg" alt="btcruiser">
             </div>

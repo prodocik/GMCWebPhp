@@ -19,15 +19,6 @@
 	if ($_GET['page'] == 'nexus') {
         include ('rv/nexus.php');
         }
-
-	if ($_GET['page'] == 'phoenix') {
-        include ('rv/phoenix.php');
-        }
-
-	if ($_GET['page'] == 'lexington') {
-        include ('rv/lexington.php');
-        }
-
 	if ($_GET['page'] == 'btcruiser') {
         include ('rv/btcruiser.php');
         }
@@ -53,15 +44,7 @@
         echo '<h1 class="bookingTitle">2012 Nexus Phantom booking</h1></header><iframe src="https://checkout.wheelbasepro.com/reserve/12296" height=2300px width=100% frameborder="0"></iframe>';
         }
 
-        if ($_GET['page'] == 'phoenix_booking') {
-        echo '<h1 class="bookingTitle">2009 Phoenix Cruiser booking</h1></header><iframe src="https://checkout.wheelbasepro.com/reserve/8342" height=2200px width=100% frameborder="0"></iframe>';
-        }
-
-        if ($_GET['page'] == 'lexington_booking') {
-        echo '<h1 class="bookingTitle">2008 Forest River Lexington booking</h1></header><iframe src="https://checkout.wheelbasepro.com/reserve/8341" height=2200px width=100% frameborder="0"></iframe>';
-        }
-
-        if ($_GET['page'] == 'btcruiser_booking') {
+       if ($_GET['page'] == 'btcruiser_booking') {
         echo '<h1 class="bookingTitle">2007 Gulf Stream BT Cruiser booking</h1></header><iframe src="https://checkout.wheelbasepro.com/reserve/12761" height=2100 width=100% frameborder="0"></iframe>';
         }
 
