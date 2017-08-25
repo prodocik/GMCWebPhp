@@ -301,6 +301,7 @@
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Add-on Options </h4>
+                            <li>Additional Miles:<span> $0.35 per mile </span> (100 miles included per rental)</li>
                             <li>Unlimited Miles:<span> $50.00 per night </span></li>
                             <li>Unlimited Generator:<span> $20.00 per night </span></li>
                             <li>Pet Charge (restristions apply, not available on newest RVs):<span> $95.00 one time </span></li>
@@ -325,10 +326,9 @@
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Booking Policy</h4>
-                            <li>Dates more than 60 days away must be <span> 6 nights  or longer</span></li>
-                            <li>Dates more than 30-59 days away must be<span> 3 nights  or longer</span> </li>
-                            <li>Dates less than 30 days away must be<span> 2 nights  or longer</span></li>
-                            <li>Exceptions made if a reservation fills in a gap and during winter season</li>
+                            <li>Reservation must be at least <span> 3 nights April 1 - December 1 and during holidays</span></li>
+                            <li>Miles Included: <span>100 miles included per rental</span></li>
+                            
                         </ul>
                     </div>
                 </div>
