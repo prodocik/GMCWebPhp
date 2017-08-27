@@ -1,1 +1,37 @@
-body{background-color:#fffbf8;text-align:center;border:30px solid orange;height:100vh}.container{margin-top:100px}h1{font-size:200px;margin-top:80px;margin-bottom:80px}h2{margin-top:80px}@media (max-width:767px){.container{margin-top:10px}h1{font-size:100px;margin-top:1vh;margin-bottom:1vh}p{font-size:15px}h2{margin-top:1vh}}
+body {
+  background-color: #fffbf8;
+  text-align: center;
+  border: 30px solid orange;
+  height: 100vh
+}
+
+.container {
+  margin-top: 100px
+}
+
+h1 {
+  font-size: 200px;
+  margin-top: 80px;
+  margin-bottom: 80px
+}
+
+h2 {
+  margin-top: 80px
+}
+
+@media (max-width:767px) {
+  .container {
+    margin-top: 10px
+  }
+  h1 {
+    font-size: 100px;
+    margin-top: 1vh;
+    margin-bottom: 1vh
+  }
+  p {
+    font-size: 15px
+  }
+  h2 {
+    margin-top: 1vh
+  }
+}
