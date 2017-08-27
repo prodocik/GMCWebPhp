@@ -16,7 +16,7 @@
         <li>Phone charger</li>
         <li>Trip information (campsites, etc)</li>
         <li>Rental Agreement</li>
-        <li>Insurance & Vehicle Registration</li>
+        <li>Insurance and Vehicle Registration</li>
         <li>Bed Linens</li>
         <li>Blankets</li>
         <li>Pillows</li>
