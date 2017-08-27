@@ -1,4 +1,24 @@
+
+  <div class="container">
+  <div class="center-block">
+
+  <ul class="nav nav-tabs" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" href="#RVs" role="tab" data-toggle="tab">RV prices</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="#addon" role="tab" data-toggle="tab">Add-on options</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="#policies" role="tab" data-toggle="tab">Policies</a>
+  </li>
+</ul>
+
+</div>
+</div> 
  <div class="content">
+<div class="tab-content">
+  <div role="tabpanel" class="tab-pane fade in active" id="RVs">
         <div class="pricing-item">
             <div class="container">
                 <div class="row">
@@ -233,84 +253,7 @@
                 </div>
             </div>
         </div>
-        <div class="pricing-item">
-            <div class="container">
-                <div class="row">
-                    <h2>2008 Forest River Lexington</h2>
-                </div>
-                <div class="row">
-                    <div class="image-pricing col-md-3 col-sm-3">
-                       <a href="lexington.html"> <img src="images/main_photos/lexington.jpg" width="150px" height="150px" alt=""></a>
-                    </div>
-                    <div class="prices prices1 col-md-3 col-sm-3">
-                        <ul>
-                            <h4>Regular Rates</h4>
-                            <li>Daily:<span> <?php echo $lexRegDaily; ?></span></li>
-                            <li>Weekly:<span> <?php echo $lexRegWeekly; ?></span> </li>
-                            <li>Monthly:<span> <?php echo $lexRegMonthly; ?></span></li>
-                            <li>Prep Fee:<span> <?php echo $lexPrepFee; ?></span></li>
-                        </ul>
-                    </div>
-                    <div class="prices col-md-3 col-sm-3">
-                        <ul>
-                            <h4>Peak rates</h4>
-                         <li>Daily:<span> <?php echo $lexHighDaily; ?></span></li>
-                            <li>Weekly:<span> <?php echo $lexHighWeekly; ?></span> </li>
-                            <li>Monthly:<span> <?php echo $lexHighMonthly; ?></span></li>
-                            <li>Prep Fee:<span> <?php echo $lexPrepFee; ?></span></li>
-                        </ul>
-                    </div>
-                    <div class="prices col-md-3 col-sm-3">
-                        <ul>
-                            <h4>Winter rates</h4>
-                          <li>Daily:<span> <?php echo $lexLowDaily; ?></span></li>
-                            <li>Weekly:<span> <?php echo $lexLowWeekly; ?></span> </li>
-                            <li>Monthly:<span> <?php echo $lexLowMonthly; ?></span></li>
-                            <li>Prep Fee:<span> <?php echo $lexPrepFee; ?></span></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="pricing-item">
-            <div class="container">
-                <div class="row">
-                    <h2>2009 Phoenix Cruiser</h2>
-                </div>
-                <div class="row">
-                    <div class="image-pricing col-md-3 col-sm-3">
-                      <a href="phoenix.html">   <img src="images/main_photos/phoenix.jpg" width="150px" height="150px" alt=""></a>
-                    </div>
-                    <div class="prices prices1 col-md-3 col-sm-3">
-                        <ul>
-                            <h4>Regular Rates</h4>
-                            <li>Daily:<span> <?php echo $phoenixRegDaily; ?></span></li>
-                            <li>Weekly:<span> <?php echo $phoenixRegWeekly; ?></span> </li>
-                            <li>Monthly:<span> <?php echo $phoenixRegMonthly; ?></span></li>
-                            <li>Prep Fee:<span> <?php echo $phoenixPrepFee; ?></span></li>
-                        </ul>
-                    </div>
-                    <div class="prices col-md-3 col-sm-3">
-                        <ul>
-                            <h4>Peak rates</h4>
-                            <li>Daily:<span> <?php echo $phoenixHighDaily; ?></span></li>
-                            <li>Weekly:<span> <?php echo $phoenixHighWeekly; ?></span> </li>
-                            <li>Monthly:<span> <?php echo $phoenixHighMonthly; ?></span></li>
-                            <li>Prep Fee:<span> <?php echo $phoenixPrepFee; ?></span></li>
-                        </ul>
-                    </div>
-                    <div class="prices col-md-3 col-sm-3">
-                        <ul>
-                            <h4>Winter rates</h4>
-                             <li>Daily:<span> <?php echo $phoenixLowDaily; ?></span></li>
-                            <li>Weekly:<span> <?php echo $phoenixLowWeekly; ?></span> </li>
-                            <li>Monthly:<span> <?php echo $phoenixLowMonthly; ?></span></li>
-                            <li>Prep Fee:<span> <?php echo $phoenixPrepFee; ?></span></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <div class="pricing-item">
             <div class="container">
                 <div class="row">
@@ -350,35 +293,42 @@
                 </div>
             </div>
         </div>
+        </div>
+         <div role="tabpanel" class="tab-pane fade" id="addon">
         <div class="pricing-item">
             <div class="container">
                 <div class="row">
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Add-on Options </h4>
-                            <li>Unlimited Miles:<span> $45.00 per night </span></li>
-                            <li>Unlimited Generator:<span> $15.00 per night </span></li>
-                            <li>Pet Charge (restristions apply, not available on newest RVs):<span> $75.00 one time </span></li>
+                            <li>Additional Miles:<span> $0.35 per mile </span> (100 miles included per rental)</li>
+                            <li>Unlimited Miles:<span> $50.00 per night </span></li>
+                            <li>Unlimited Generator:<span> $20.00 per night </span></li>
+                            <li>Pet Charge (restristions apply, not available on newest RVs):<span> $95.00 one time </span></li>
                             <li>Satellite (Cambria only):<span> $12.50 per day</span> </li>
-                            <li>Evening return - return the RV as late as 8 PM, instead of by 11 AM:<span> $120 one time</span></li>
-                            <li>Kitchen Package -   dishes, silverware, pot,    pan,    cooking utensils<span> $35 one time</span></li>
-                            <li>Linen   Package - bedding, towels  for 2   people<span> $30 one time</span></li>
-                            <li>Additional  linen   packages<span> $15 one time</span></li>
+                            <li>Evening return - return the RV as late as 9 PM, instead of by 5 PM:<span> $50 one time</span></li>
+                            <li>Kitchen Package -   dishes, silverware, pot, pan, cooking utensils<span> $50 one time</span></li>
+                            <li>Linen   Package - bedding, towels  for 2   people<span> $40 one time</span></li>
+                            <li>Additional  linen   packages<span> $20 one time</span></li>
+                             <li>Infant or toddler Car Seat<span> $12.50 per night</span></li>
+                             <li>RV GPS<span> $12.50 per night</span></li>
+                             <li>Bike Rack<span> $9.50 per night</span></li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
+        </div>
+          <div role="tabpanel" class="tab-pane fade" id="policies">
         <div class="pricing-item">
             <div class="container">
                 <div class="row">
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Booking Policy</h4>
-                            <li>Dates more than 60 days away must be <span> 6 nights  or longer</span></li>
-                            <li>Dates more than 30-59 days away must be<span> 3 nights  or longer</span> </li>
-                            <li>Dates less than 30 days away must be<span> 2 nights  or longer</span></li>
-                            <li>Exceptions made if a reservation fills in a gap and during winter season</li>
+                            <li>Reservation must be at least <span> 3 nights April 1 - December 1 and during holidays</span></li>
+                            <li>Miles Included: <span>100 miles included per rental</span></li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -404,11 +354,16 @@
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Pickup  and Return</h4>
-                            <li>Pickup is<span> 11 AM  -   4 PM </span></li>
+                            <li>Pickup is<span> 10 AM  -   4 PM </span></li>
                             <li>Return is<span> 11 AM or earlier, unless evening return is booked</span> </li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
+        </div>
+        </div>
     </div>
+    <script>
+        $('.nav-tabs a[href="#RVs"]').tab('show')
+    </script>

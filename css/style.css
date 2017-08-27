@@ -12,6 +12,135 @@ nav {
     display: none;
 }
 
+.red {
+    color: #c4370a;
+}
+
+
+/* search */
+
+
+.calendar-form {
+    text-align: center;
+        position: relative;
+        top: 60px;
+        margin: 20px;
+        margin-bottom: 70px;
+
+
+}
+
+.header .calendar-form h1 {
+ font-size: 55px;
+
+
+}
+
+
+
+
+.input-group input{
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    height: 40px;
+    border: none;
+    text-align: center;
+    color: gray;
+    font-size: 15px;
+    font-weight: lighter;
+
+}
+
+.input-title {
+    width: 100%;
+}
+
+.form-bg {
+    background-color: rgba(255, 255, 255, 0.5);
+    
+    padding: 10px 20px 20px 20px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    margin-top: 0px;
+}
+
+
+#search_btn {
+    background-color: orange;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 10px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    border: none;
+    margin-top: 0px;
+    padding:0;
+    text-align: center;
+
+}
+
+#search_btn:hover {
+    background-color: #fcb171;
+}
+
+.calendar_field, .button_search{
+    margin-top: 5px;
+}
+
+.input-title {
+    text-align: center;
+    margin-bottom: 8px;
+    color: #fff;
+
+}
+
+.input-group {
+
+    width: 100%;
+}
+
+
+.calendar_field .input-group .form-control {
+    background: url("images/calendar.svg") white;   
+    background-repeat: no-repeat; /*Убираем повтор изображения*/   
+    background-position: 0px; /*Позиционируем*/   
+
+
+    outline: none; /*убираем стандартную обводку браузера*/   
+    -moz-border-radius: 5px; /*закругляем углы для Mozilla*/  
+    -webkit-border-radius: 5px; /*закругляем углы для Chrome, Safari*/   
+    border-radius: 5px; /*закругляем углы для остальных браузеров*/  
+    padding-left: 20px; /*отступ слева от ввода, чтобы текст не был на картинке(выбирать по размеру картинки)*/  
+    height: 40px; /*высота строки ввода*/   
+    font-size: 15px; /*размер шрифта*/
+    -webkit-appearance: none;
+
+}
+
+
+/* end search */
+.smoking {
+    margin-top: 40px;
+    
+}
+
+.desc .smoking p {
+    font-size: 15px;
+    vertical-align: middle;
+    color: #c4370a;
+}
+
+.downloadLink{
+    margin-bottom: 20px;
+}
+
+.downloadLink a {
+    color: orange;
+    font-size: 15px;
+
+}
 
 .adress {
     text-align: right;
@@ -23,8 +152,42 @@ nav {
     margin-bottom: 0;
 }
 
+.nav-item {
+    display: inline-block;
+    color: orange;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.nav-item .active {
+    background-color: orange;
+}
+
+
+ul.nav.nav-tabs {
+
+    margin-top: 20px;
+}
+
+
 /* 
 mainpage */
+
+ .header h1 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+        font-size: 30px;
+      color: white;
+        text-align: center
+    }
+
+.packageList {
+    margin-top: 30px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
 
 .advantage {
     text-align: center;
@@ -48,8 +211,9 @@ mainpage */
 }
 
 .orngeline p {
-    font-size: 18px;
-    margin-top: 50px;
+    font-size: 16px;
+    font-weight: lighter;
+    margin-top: 20px;
 }
 
 
@@ -83,6 +247,8 @@ mainpage */
 .whiteline img {
     display: inline-block;
 }
+
+
 
 
 /* End mainpage */
@@ -181,6 +347,10 @@ img button a {
     text-decoration: none !important;
 }
 
+#includeSearch {
+    margin-top: 50px;
+}
+
 .infotext {
     display: block;
     text-align: center;
@@ -199,21 +369,28 @@ img button a {
     line-height: 30px;
 }
 
+.nav .leftcentred {
+    text-align: right;
+}
+
 .dropdown {
-    left: -9999px;
+   left: -9999px;
+    top: -15px;
     position: absolute;
     color: white;
     font-size: 14px;
     list-style: square;
-    width: 180px;
+    width: 100px;
     z-index: 7;
     background-color: rgba(0, 0, 0, 1);
     border-radius: 5px;
 }
 
-.sub-menu:hover .dropdown {
-    left: -35px;
+.nav .sub-menu:hover .dropdown {
+    position: absolute;
+    left: 10px;
     top: -15px;
+
     -webkit-animation-name: example;
     animation-name: example;
     -webkit-animation-duration: 0.5s;
@@ -235,8 +412,6 @@ img button a {
 .dropdown li a:hover {
     color: orange;
 }
-
-
 
 
 /* The animation code */
@@ -262,6 +437,8 @@ img button a {
         ;
     }
 }
+
+
 
 
 
@@ -302,6 +479,8 @@ img button a {
     margin-bottom: 20px;
 }
 
+
+
 .pricing-item ul {
     vertical-align: middle;
     padding: 0px;
@@ -341,9 +520,8 @@ img button a {
     background-color: #ff9934;
     width: 100%;
     height: 45px;
-    padding: 7px;
     margin-top: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 55px;
     border-radius: 8px;
     text-align: center;
 }
@@ -357,6 +535,8 @@ img button a {
     color: white;
     font-size: 20px;
     text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .nav-pills>li>ul>li.active>a,
@@ -400,6 +580,7 @@ img button a {
     color: #959190;
     padding-right: 0px;
     margin-right: 0px;
+    vertical-align: middle;
 }
 
 
@@ -407,13 +588,13 @@ img button a {
 
 .header {
     background: url(/../images/main_image2.jpg) center bottom;
-    background-attachment: fixed;
+   
     background-origin: content-box;
     background-clip: initial;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 100% 0;
-    position: relative;
+    position: inherit;
 }
 
 .more .header {
@@ -437,13 +618,15 @@ img button a {
 }
 
 .header .logo {
-    margin-top: -70px;
+    margin-top: -80px;
     position: absolute;
+    z-index: 2;
 }
 
+
 .header .logo img {
-    max-width: 220px;
-    display: inline;
+    max-height: 220px;
+    display: inline-block;
 }
 
 .header .nav {
@@ -458,23 +641,6 @@ img button a {
     font-family: SFUIDisplay-Light;
 }
 
-.header h1 {
-
-    font-family: SFUIDisplay-Black;
-    text-align: center;
-    color: #fff;
-    font-size: 54px;
-
-    letter-spacing: 6px;
-    margin-bottom: 60px;
-    margin-top: 50px;
-}
-
-.header h1 big {
-    font-family: SFUIDisplay-Semibold;
-    display: block;
-    font-size: 84px;
-}
 
 
 
@@ -580,6 +746,10 @@ img button a {
     display: block;
 }
 
+.product #btn_book {
+    margin-bottom: 15px;
+}
+
 .products .product .img a:hover {
     text-decoration: none;
 }
@@ -588,6 +758,10 @@ img button a {
     margin-bottom: 22px;
 }
 
+
+.photos-block img {
+    margin-top: 5px;
+}
 
 
 
@@ -717,6 +891,28 @@ img button a {
     margin-bottom: 17px;
 }
 
+.desc h4 {
+    color: #000;
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.desc li {
+    list-style: circle;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.desc ul {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.desc a {
+    color: orange;
+}
+
 .product-item .attr {
     background: #f9f1e6;
     padding: 50px 55px;
@@ -836,11 +1032,12 @@ img button a {
 
 
 
+
+
 /* about-box */
 
 .about-box {
     margin-top: 32px;
-    padding-bottom: 132px;
 }
 
 .about-box h1 {
@@ -1080,9 +1277,6 @@ img button a {
     text-align: left;
 }
 
-
-
-
 /* Large devices (large desktops, 1200px and up) */
 
 @media (max-width: 1200px) {
@@ -1122,12 +1316,12 @@ img button a {
         max-width: 180px;
     }
     .header .logo {
-        margin-top: -40px;
+        margin-top: -50px;
         margin-bottom: 0;
     }
     .header h1 {
         margin-bottom: 50px;
-        margin-top: 60px;
+        
     }
     .promotext {
         height: 100%;
@@ -1137,9 +1331,6 @@ img button a {
         padding: 15px;
     }
 }
-
-
-
 
 /* Large devices (desktops, 992px and up) */
 
@@ -1171,7 +1362,7 @@ img button a {
     }
     .header h1 {
         margin-bottom: 50px;
-        margin-top: 90px;
+      
     }
 
     .products .product h2 {
@@ -1272,17 +1463,24 @@ img button a {
         font-size: 15px;
     }
     .sub-menu:hover .dropdown {
-        left: -25px;
+        left: 20px;
         top: -15px;
     }
 }
 
-
-
-
 /* Large devices (tablets, 767px and up) */
 
 @media (max-width: 767px) {
+    .center-block {
+        display: flex;
+        justify-content: center;
+        
+    }
+
+    .form-bg {
+   
+    margin-top: -10px;
+}
     .panel-top .tel {
         text-align: center;
     }
@@ -1300,14 +1498,19 @@ img button a {
         background-color: transparent;
     }
     header {
-        height: 200px;
+        height: 100%;
     }
+    
     .browseRv {
         visibility: hidden;
     }
-    .nav {
+
+    .mainMenu {
         visibility: hidden;
         position: absolute;
+    }
+    .center-block {
+        margin-top: 20px;
     }
     .bookingTitle {
         text-align: center;
@@ -1328,25 +1531,24 @@ img button a {
         padding: 10px;
     }
     .header .logo {
-        left: 33vw;
-        top: -10px;
-        margin-top: 20px;
-        text-align: center;
+        display: none;
+        visibility: hidden;
     }
 
     .promotext {
         height: 0;
     }
     .header .logo img {
-        max-width: 160px;
+        max-width: 130px;
     }
     .header h1 {
-        font-size: 1px;
-        visibility: hidden;
+        
+        display: block;
         text-align: center
     }
     .header h1 big {
         font-size: 25px;
+        display: block;
     }
     .header .nav-pills>li>a {
         padding: 2px 1px;
@@ -1360,6 +1562,7 @@ img button a {
         clear: both;
     }
     .heading {
+        position: absolute;
         height: 110px;
         padding-top: 5px;
     }
@@ -1591,7 +1794,6 @@ img button a {
     .footer .box a.link {
         color: #fff;
         font-size: 18px;
-        text-align: center;
         text-decoration: underline;
         display: block;
     }

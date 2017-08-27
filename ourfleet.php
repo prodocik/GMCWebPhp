@@ -1,11 +1,11 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>GREAT OUTDOOR<big>EXPERIENCE</big></h1>
+                <h1>OUR FLEET</h1>
                 
         </div>
          
         </div>
-      <div class="clearfix">a</div>
+     
     </header>
     <div class="content">
         <div class="products">
@@ -67,12 +67,13 @@
                                 <a href="gemini.html"><img src="images/main_photos/gemini.jpg" class="img-responsive center-block"></a>
                                 <div id="btn_book"><a href="gemini_booking.html">BOOK NOW</a></div>
                                 <a href="gemini.html">Learn more</a>
+
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season.</p>
+                            <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -139,148 +140,13 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                            <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="products">
-              <div class="product product_white">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <h2>2009 Phoenix Cruiser</h2></div>
-                        <div class="col-md-3 col-sm-4 visible-xs">
-                            <div class="img">
-                                <a href="phoenix.html"><img src="images/main_photos/phoenix.jpg" class="img-responsive center-block"></a>
-                                <div id="btn_book"><a href="phoenix_booking.html">BOOK NOW</a></div>
-                                <a href="phoenix.html">Learn more</a>
-                            </div>
-                        </div>
-                        <div class="col-md-9 col-sm-8">
-                            <div class="box">
-                                <div class="price">
-                                    <small>Regular Daily Rate</small>
-                                    <span><big><?php echo $phoenixRegDaily; ?>*</big></span>
-                                </div>
-                                <ul>
-                                    <li>Sleeping Capacity: <span>2 people</span></li>
-                                    <li>Number of Seatbelts: <span>2</span></li>
-                                    <li>Length: <span>26'</span></li>
-                                    <li>Number of Slideouts: <span>1</span></li>
-                                    <li>Cameras: <span>Rear</span></li>
-                                    <li>TV locations: <span>Living Room</span></li>
-                                </ul>
-                                <ul>
-                                    <li>Fuel Type: <span>Gasoline</span></li>
-                                    <li>Fuel Capacity: <span>55 gal.</span></li>
-                                    <li>Fuel Efficiency: <span>11 MPG</span></li>
-                                    <li>Range: <span>495 miles</span></li>
-                                    <li>Generator: <span>Gasoline</span></li>
-                                </ul>
-                                <div class="clearfix"></div>
-                                <ul>
-                                    <li>Chassis Brand: <span>Ford</span></li>
-                                    <li>Engine Manufacturer: <span>Ford</span></li>
-                                    <li>Engine Type: <span>V10</span></li>
-                                    <li>Displacement: <span>6.8 liters</span></li>
-                                    <li>Horsepower: <span>305</span></li>
-                                </ul>
-                                <ul>
-                                    <li>Fresh Water Cap.: <span>45 gal.</span></li>
-                                    <li>Grey Water Capacity: <span>23 gal.</span></li>
-                                    <li>Black Water Capacity: <span>35 gal.</span></li>
-                                    <li>Water Heater Cap.: <span>6</span></li>
-                                    <li>Water Heater Fuel: <span>Electric & Propane</span></li>
-                                </ul>
-                                <div class="clearfix"></div>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-4 hidden-xs">
-                            <div class="img">
-                                <a href="phoenix.html"><img src="images/main_photos/phoenix.jpg" class="img-responsive center-block"></a>
-                                <div id="btn_book"><a href="phoenix_booking.html">BOOK NOW</a></div>
-                                <a href="phoenix.html">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="disclaimer">
-                            <p> * Price varies by season</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="products">
-            <div class="product">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <h2>2008 Forest River Lexington</h2></div>
-                        <div class="col-md-3 col-sm-4 visible-xs">
-                            <div class="img">
-                                <a href="lexington.html"><img src="images/main_photos/lexington.jpg" class="img-responsive center-block"></a>
-                                <div id="btn_book"><a href="lexington_booking.html">BOOK NOW</a></div>
-                                <a href="lexington.html">Learn more</a>
-                            </div>
-                        </div>
-                        <div class="col-md-9 col-sm-8">
-                            <div class="box">
-                                <div class="price">
-                                    <small>Regular Daily Rate</small>
-                                    <span><big><?php echo $lexRegDaily; ?>*</big></span>
-                                </div>
-                                <ul>
-                                    <li>Sleeping Capacity: <span>3 people</span></li>
-                                    <li>Number of Seatbelts: <span>4</span></li>
-                                    <li>Length: <span>26'</span></li>
-                                    <li>Number of Slideouts: <span>2</span></li>
-                                    <li>Cameras: <span>Rear</span></li>
-                                    <li>TV locations: <span>Living Room</span></li>
-                                </ul>
-                                <ul>
-                                    <li>Fuel Type: <span>Gasoline</span></li>
-                                    <li>Fuel Capacity: <span>55 gal.</span></li>
-                                    <li>Fuel Efficiency: <span>10 MPG</span></li>
-                                    <li>Range: <span>440 miles</span></li>
-                                    <li>Generator: <span>Gasoline</span></li>
-                                </ul>
-                                <div class="clearfix"></div>
-                                <ul>
-                                    <li>Chassis Brand: <span>Ford</span></li>
-                                    <li>Engine Manufacturer : <span>Ford</span></li>
-                                    <li>Engine Type: <span>V10</span></li>
-                                    <li>Displacement: <span>6.8 liters</span></li>
-                                    <li>Horsepower: <span>305</span></li>
-                                </ul>
-                                <ul>
-                                    <li>Fresh Water Cap.: <span>44 gal.</span></li>
-                                    <li>Grey Water Capacity: <span>35 gal.</span></li>
-                                    <li>Black Water Capacity: <span>35 gal.</span></li>
-                                    <li>Water Heater Cap.: <span>6</span></li>
-                                    <li>Water Heater: <span>Electric & Propane</span></li>
-                                </ul>
-                                <div class="clearfix"></div>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-4 hidden-xs">
-                            <div class="img">
-                                <a href="lexington.html"><img src="images/main_photos/lexington.jpg" class="img-responsive center-block"></a>
-                                <div id="btn_book"><a href="lexington_booking.html">BOOK NOW</a></div>
-                                <a href="lexington.html">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="disclaimer">
-                            <p> * Price varies by season</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <div class="products">
                <div class="product product_white">
                 <div class="container">
@@ -342,7 +208,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                           <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -411,7 +277,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                           <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -479,7 +345,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                          <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -546,7 +412,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> * Price varies by season</p>
+                            <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>
@@ -613,7 +479,7 @@
                     </div>
                     <div class="row">
                         <div class="disclaimer">
-                            <p> *Price varies by season</p>
+                           <p><span class="red"><img src="images/no-smoking.svg" width="10px" alt=""> Smoking is not allowed.   </span>*Price varies by season. </p>
                         </div>
                     </div>
                 </div>

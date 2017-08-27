@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>Forest River<big>Solera</big></h1>
+                <h1>Forest River Solera</h1>
             
     </div>
         </div>
@@ -50,6 +50,7 @@
                             <p>Connection hoses are included. Free on-site parking available. For your convenience, leave your car and drive off in the RV. </p>
                             <p>Please note: This RV is not suitable for camping more than 1 night without power hookup in hot weather due to limited propane supply for generator.</p>
                             <p>*Chassis is a Freightliner Sprinter built by Mercedes</p>
+                            <div class="smoking"><p>Smoking is not allowed <img src="images/no-smoking.svg" alt="no_smoking" width="20px"></p> </div>
                         </div>
                     </div>
                 </div>

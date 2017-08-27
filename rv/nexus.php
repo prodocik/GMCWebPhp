@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>Nexus<big>Phantom</big></h1>
+                <h1>Nexus Phantom</h1>
             
     </div>
         </div>
@@ -41,6 +41,7 @@
                         <div class="desc">
                             <p>
                                 This RV is packed with upgrades. Leather seats, corian counters, everything. Plenty of room for a large family. This RV can easily sleep 6 and can do 7 if two are small children. There is a large passthrough storage compartment in the back (see photo).</p>
+                                <div class="smoking"><p>Smoking is not allowed <img src="images/no-smoking.svg" alt="no_smoking" width="20px"></p> </div>
                         </div>
                     </div>
                 </div>

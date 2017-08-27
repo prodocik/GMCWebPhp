@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>Thor<big>Vegas</big></h1>
+                <h1>Thor Vegas</h1>
             
     </div>
         </div>
@@ -41,6 +41,7 @@
                         <div class="desc">
                             <p>This is a truly fun RV to drive. A class A RV in a small, 25 foot, maneuverable size--get the class A experience but without the white knuckle drive or the expense. The large front window is perfect for enjoying beautiful scenery. Whether cruising up the Blue Ridge Parkway or out to Key West, this RV will give you and your passengers the full view! Not only is the curved front window fun, but it really helps with wind noise and fuel economy! </p>
                             <p>This RV is packed with creature comforts. 3 TV's for your viewing pleasure, including one outside. Going to Nascar or the big game? This RV is ready! Just bring a cooler and some extra chairs.</p>
+                            <div class="smoking"><p>Smoking is not allowed <img src="images/no-smoking.svg" alt="no_smoking" width="20px"></p> </div>
                         </div>
                     </div>
                 </div>

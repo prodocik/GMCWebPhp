@@ -1,6 +1,6 @@
   <div class="container-fluid">
             <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>THOR<big>GEMINI</big></h1>
+                <h1>THOR GEMINI</h1>
             </div>
         </div>
        </header>
@@ -57,6 +57,7 @@
                             <p>For extra comfort, this RV is equipped with a tankless water heater for endless hot water and low propane consumption. With a full hookup you can shower whenever you are ready, for as long as you want. No more waiting for water to heat. </p>
                             <p>Connection hoses are included. Free on-site parking available. For your convenience, leave your car and drive off in the RV.</p>
                             <p>Please note: This RV is not suitable for camping more than 2 nights without power hookup in hot weather due to limited propane supply for generator.</p>
+                            <div class="smoking"><p>Smoking is not allowed <img src="images/no-smoking.svg" alt="no_smoking" width="20px"></p> </div>
                         </div>
                     </div>
                 </div>
