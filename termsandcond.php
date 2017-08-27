@@ -2,8 +2,8 @@
 <html lang="eng">
 
 <head>
-    <meta name="description" content="Location of Georgia Motorcoach. Contact us" />
-    <meta name="keywords" content="Georgia motorcoach contacts, georgia motorcoach office, georgiamotorcoach, RV rentals company, Rent RV in Atlanta" />
+    <meta name="description" content="Georgia Motorcoach. Terms and conditions " />
+    <meta name="keywords" content="Georgia motorcoach, georgia motorcoach office, georgiamotorcoach, RV rentals company, Rent RV in Atlanta, terms, conditions" />
     <title>Georgia Motorcoach - terms and conditions</title>
     <?php include ("variables.php");?>
     <?php include ("assets.php");?>
