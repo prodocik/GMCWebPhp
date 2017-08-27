@@ -1,104 +1,112 @@
 <?php 
+//*******Settings********
+$geminiPrice = 189;
+$viewPrice = 189;
+$vegasPrice = 199;
+$cambriaPrice = 205;
+$nexusPrice = 199;
+$soleraPrice = 175; 
+$btcruiserPrice = 155;
+
+$bigRVPrep = 105;
+$smallRVPrep = 95;
+$trailerPrep = 75;
+
+$weeklyMultiplier = 6.5;
+$monthlyMultiplier = 20.8;
+
+$peakMultiplier = 1.05;
+$winterMultiplier = .90;
+
+function format_num($in) {
+	return '$'.number_format((float)$in, 2, '.', '');
+}
+
 //*******Prices********
 ////Gemini/////
-$geminiRegDaily = '$215';
-$geminiRegWeekly = '$1,397.50';
-$geminiRegMonthly = '$4,472';
-$geminiHighDaily = '$225.75';
-$geminiHighMonthly = '$4,695.60';
-$geminiHighWeekly = '$1,467.38';
-$geminiLowDaily = '$193.50';
-$geminiLowWeekly = '$1,257.75';
-$geminiLowMonthly = '$4,024.80';
-$geminiPrepFee = '$95';
+$geminiRegDaily =  format_num($geminiPrice);
+$geminiRegWeekly = format_num($geminiPrice*$weeklyMultiplier);
+$geminiRegMonthly = format_num($geminiPrice*$monthlyMultiplier);
+$geminiHighDaily = format_num($geminiPrice*$peakMultiplier);
+$geminiHighWeekly = format_num($geminiPrice*$peakMultiplier*$weeklyMultiplier);
+$geminiHighMonthly = format_num($geminiPrice*$peakMultiplier*$monthlyMultiplier);
+$geminiLowDaily = format_num($geminiPrice*$winterMultiplier);
+$geminiLowWeekly = format_num($geminiPrice*$winterMultiplier*$weeklyMultiplier);
+$geminiLowMonthly = format_num($geminiPrice*$winterMultiplier*$monthlyMultiplier);
+$geminiPrepFee = format_num($smallRVPrep);
+
 ////Vegas/////
-$vegasRegDaily = '$215';
-$vegasRegWeekly = '$1,397.50';
-$vegasRegMonthly = '$4,472';
-$vegasHighDaily = '$225.75';
-$vegasHighWeekly = '$1,467.38';
-$vegasHighMonthly = '$4,695.60';
-$vegasLowDaily = '$193.50';
-$vegasLowWeekly = '$1,257.75';
-$vegasLowMonthly = '$4,024.80';
-$vegasPrepFee = '$95';
+$vegasRegDaily =  format_num($vegasPrice);
+$vegasRegWeekly = format_num($vegasPrice*$weeklyMultiplier);
+$vegasRegMonthly = format_num($vegasPrice*$monthlyMultiplier);
+$vegasHighDaily = format_num($vegasPrice*$peakMultiplier);
+$vegasHighWeekly = format_num($vegasPrice*$peakMultiplier*$weeklyMultiplier);
+$vegasHighMonthly = format_num($vegasPrice*$peakMultiplier*$monthlyMultiplier);
+$vegasLowDaily = format_num($vegasPrice*$winterMultiplier);
+$vegasLowWeekly = format_num($vegasPrice*$winterMultiplier*$weeklyMultiplier);
+$vegasLowMonthly = format_num($vegasPrice*$winterMultiplier*$monthlyMultiplier);
+$vegasPrepFee = format_num($smallRVPrep);
+
 ////Cambria/////
-$cambriaRegDaily = '$220';
-$cambriaRegWeekly = '$1,430';
-$cambriaRegMonthly = '$4,576';
-$cambriaHighDaily = '$231';
-$cambriaHighWeekly = '$1,501.50';
-$cambriaHighMonthly = '$4,804.80';
-$cambriaLowDaily = '$198';
-$cambriaLowWeekly = '$1,287';
-$cambriaLowMonthly = '$4,118.40';
-$cambriaPrepFee = '$105';
+$cambriaRegDaily =  format_num($cambriaPrice);
+$cambriaRegWeekly = format_num($cambriaPrice*$weeklyMultiplier);
+$cambriaRegMonthly = format_num($cambriaPrice*$monthlyMultiplier);
+$cambriaHighDaily = format_num($cambriaPrice*$peakMultiplier);
+$cambriaHighWeekly = format_num($cambriaPrice*$peakMultiplier*$weeklyMultiplier);
+$cambriaHighMonthly = format_num($cambriaPrice*$peakMultiplier*$monthlyMultiplier);
+$cambriaLowDaily = format_num($cambriaPrice*$winterMultiplier);
+$cambriaLowWeekly = format_num($cambriaPrice*$winterMultiplier*$weeklyMultiplier);
+$cambriaLowMonthly = format_num($cambriaPrice*$winterMultiplier*$monthlyMultiplier);
+$cambriaPrepFee = format_num($bigRVPrep);
+
 ////View/////
-$viewRegDaily = '$215';
-$viewRegWeekly = '$1,397.50';
-$viewRegMonthly = '$4,472';
-$viewHighDaily = '$225.75';
-$viewHighWeekly = '$1,467.38';
-$viewHighMonthly = '$4,695.60';
-$viewLowDaily = '$193.50';
-$viewLowWeekly = '$1,257.75';
-$viewLowMonthly = '$4,024.80';
-$viewPrepFee = '$95';
-////Lexington/////
-$lexRegDaily = '$175';
-$lexRegWeekly = '$1,137.50';
-$lexRegMonthly = '$3,640';
-$lexHighDaily = '$183.75';
-$lexHighWeekly = '$1,194.38';
-$lexHighMonthly = '$3,822';
-$lexLowDaily = '$157.50';
-$lexLowWeekly = '$1,023.75';
-$lexLowMonthly = '$3,276';
-$lexPrepFee = '$95';
-////Phoenix/////
-$phoenixRegDaily = '$165';
-$phoenixRegWeekly = '$1,072.50';
-$phoenixRegMonthly = '$3,432';
-$phoenixHighDaily = '$173.25';
-$phoenixHighWeekly = '$1,126.13';
-$phoenixHighMonthly = '$3,603.60';
-$phoenixLowDaily = '$148.50';
-$phoenixLowWeekly = '$965.25';
-$phoenixLowMonthly = '$3,088.80';
-$phoenixPrepFee = '$95';
+$viewRegDaily =  format_num($viewPrice);
+$viewRegWeekly = format_num($viewPrice*$weeklyMultiplier);
+$viewRegMonthly = format_num($viewPrice*$monthlyMultiplier);
+$viewHighDaily = format_num($viewPrice*$peakMultiplier);
+$viewHighWeekly = format_num($viewPrice*$peakMultiplier*$weeklyMultiplier);
+$viewHighMonthly = format_num($viewPrice*$peakMultiplier*$monthlyMultiplier);
+$viewLowDaily = format_num($viewPrice*$winterMultiplier);
+$viewLowWeekly = format_num($viewPrice*$winterMultiplier*$weeklyMultiplier);
+$viewLowMonthly = format_num($viewPrice*$winterMultiplier*$monthlyMultiplier);
+$viewPrepFee = format_num($smallRVPrep);
+
 ////btcruiser/////
-$btcruiserRegDaily = '$165';
-$btcruiserRegWeekly = '$1,072.50';
-$btcruiserRegMonthly =  '$3,432';
-$btcruiserHighDaily = '$173.25';
-$btcruiserHighWeekly = '$1,126.13';
-$btcruiserHighMonthly =  '$3,603.60';
-$btcruiserLowDaily = '$148.50';
-$btcruiserLowWeekly = '$965.25';
-$btcruiserLowMonthly = '$3,088.80';
-$btcruiserPrepFee = '$95';
+$btcruiserRegDaily =  format_num($btcruiserPrice);
+$btcruiserRegWeekly = format_num($btcruiserPrice*$weeklyMultiplier);
+$btcruiserRegMonthly = format_num($btcruiserPrice*$monthlyMultiplier);
+$btcruiserHighDaily = format_num($btcruiserPrice*$peakMultiplier);
+$btcruiserHighWeekly = format_num($btcruiserPrice*$peakMultiplier*$weeklyMultiplier);
+$btcruiserHighMonthly = format_num($btcruiserPrice*$peakMultiplier*$monthlyMultiplier);
+$btcruiserLowDaily = format_num($btcruiserPrice*$winterMultiplier);
+$btcruiserLowWeekly = format_num($btcruiserPrice*$winterMultiplier*$weeklyMultiplier);
+$btcruiserLowMonthly = format_num($btcruiserPrice*$winterMultiplier*$monthlyMultiplier);
+$btcruiserPrepFee = format_num($smallRVPrep);
+
 ////Solera/////
-$soleraRegDaily = '$185';
-$soleraRegWeekly = '$1,202.50';
-$soleraRegMonthly = '$3,848';
-$soleraHighDaily = '$194.25';
-$soleraHighWeekly = '$1,262.63';
-$soleraHighMonthly = '$4,040.40';
-$soleraLowDaily = '$166.50';
-$soleraLowWeekly = '$1,082.25';
-$soleraLowMonthly = '$3,463.20';
-$soleraPrepFee = '$95';
+$soleraRegDaily =  format_num($soleraPrice);
+$soleraRegWeekly = format_num($soleraPrice*$weeklyMultiplier);
+$soleraRegMonthly = format_num($soleraPrice*$monthlyMultiplier);
+$soleraHighDaily = format_num($soleraPrice*$peakMultiplier);
+$soleraHighWeekly = format_num($soleraPrice*$peakMultiplier*$weeklyMultiplier);
+$soleraHighMonthly = format_num($soleraPrice*$peakMultiplier*$monthlyMultiplier);
+$soleraLowDaily = format_num($soleraPrice*$winterMultiplier);
+$soleraLowWeekly = format_num($soleraPrice*$winterMultiplier*$weeklyMultiplier);
+$soleraLowMonthly = format_num($soleraPrice*$winterMultiplier*$monthlyMultiplier);
+$soleraPrepFee = format_num($smallRVPrep);
+
 ////Nexus/////
-$nexusRegDaily =  '$215';
-$nexusRegWeekly = '$1,397.50';
-$nexusRegMonthly = '$4,472';
-$nexusHighDaily = '$225.75';
-$nexusHighWeekly = '$1,467.38';
-$nexusHighMonthly = '$4,695.60';
-$nexusLowDaily = '$193.50';
-$nexusLowWeekly = '$1,257.75';
-$nexusLowMonthly = '$4,024.80';
-$nexusPrepFee = '$105';
+$nexusRegDaily =  format_num($nexusPrice);
+$nexusRegWeekly = format_num($nexusPrice*$weeklyMultiplier);
+$nexusRegMonthly = format_num($nexusPrice*$monthlyMultiplier);
+$nexusHighDaily = format_num($nexusPrice*$peakMultiplier);
+$nexusHighWeekly = format_num($nexusPrice*$peakMultiplier*$weeklyMultiplier);
+$nexusHighMonthly = format_num($nexusPrice*$peakMultiplier*$monthlyMultiplier);
+$nexusLowDaily = format_num($nexusPrice*$winterMultiplier);
+$nexusLowWeekly = format_num($nexusPrice*$winterMultiplier*$weeklyMultiplier);
+$nexusLowMonthly = format_num($nexusPrice*$winterMultiplier*$monthlyMultiplier);
+$nexusPrepFee = format_num($bigRVPrep);
+
 //***************
 ///PhoneNumber
 $phoneNumber = "404-478-6454";
