@@ -12,7 +12,7 @@
 <link href="css/fonts.css" rel="stylesheet" />
 <link href="slick/slick.css" rel="stylesheet" />
 <link rel="stylesheet" href="css/faqEngine.css?version=3">
-<link href="css/style.css?version=13" rel="stylesheet" />
+<link href="css/style.css?version=14" rel="stylesheet" />
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/date-format.js"></script>

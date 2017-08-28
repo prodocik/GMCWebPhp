@@ -15,7 +15,7 @@
 </ul>
 
 </div>
-</div> 
+</div>
  <div class="content">
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane fade in active" id="RVs">
@@ -301,7 +301,8 @@
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Add-on Options </h4>
-                            <li>Additional Miles:<span> $0.35 per mile </span> (100 miles included per rental)</li>
+                            <li>Additional Miles:<span> $0.35 per mile </span> (100 miles included per night)</li>
+                            <li>Additional Generator:<span> $2.00 per hour</span> (2 hr per night included)</li>
                             <li>Unlimited Miles:<span> $50.00 per night </span></li>
                             <li>Unlimited Generator:<span> $20.00 per night </span></li>
                             <li>Pet Charge (restristions apply, not available on newest RVs):<span> $95.00 one time </span></li>
@@ -326,9 +327,10 @@
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Booking Policy</h4>
-                            <li>Reservation must be at least <span> 3 nights April 1 - December 1 and during holidays</span></li>
-                            <li>Miles Included: <span>100 miles included per rental</span></li>
-                            
+                            <li>Reservation must be at least <span> 3 nights </span> (April 1 - December 1 and during holidays)</li>
+                            <li>Miles Included: <span>100 miles included per night</span></li>
+                            <li>Generator hours included: <span>2 hr per night</span></li>
+
                         </ul>
                     </div>
                 </div>
@@ -340,9 +342,8 @@
                     <div class="prices prices1 col-md-12 col-sm-12">
                         <ul>
                             <h4>Seasons</h4>
-                            <li>Winter<span> from 3-JAN to 1-MAR</span> </li>
+                            <li>Winter from <span> 3-JAN </span> to <span>1-MAR</span> </li>
                             <li>Peak pricing applies during certain holidays and special events</li>
-                            
                         </ul>
                     </div>
                 </div>
@@ -355,7 +356,7 @@
                         <ul>
                             <h4>Pickup  and Return</h4>
                             <li>Pickup is<span> 10 AM  -   4 PM </span></li>
-                            <li>Return is<span> 11 AM or earlier, unless evening return is booked</span> </li>
+                            <li>Return is<span> 11 AM or earlier</span>, unless evening return is booked </li>
                         </ul>
                     </div>
                 </div>
