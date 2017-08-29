@@ -2030,10 +2030,21 @@ a:active, a:focus, button::-moz-focus-inner, input::-moz-focus-inner, input[type
 
 .card .table tbody td:first-child, .card .table thead th:first-child {
   padding-left: 15px;
+
 }
 
 .card .table tbody td:last-child, .card .table thead th:last-child {
   padding-right: 15px;
+}
+
+.card .table tbody td:first-child, .card .table thead th:first-child {
+  padding-left: 15px;
+
+}
+
+.conversation-row td:last-child {
+  padding-right: 15px;
+  width: 75%;
 }
 
 .card .alert {
