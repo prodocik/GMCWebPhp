@@ -535,13 +535,13 @@ a:active, a:focus, button::-moz-focus-inner, input::-moz-focus-inner, input[type
 .btn-primary.btn-fill {
   color: #FFFFFF;
   opacity: 1;
-  background-color: #3472F7;
+  background-color: #b63c00;
   filter: alpha(opacity=100);
 }
 
 .btn-primary.btn-fill.active, .btn-primary.btn-fill:active, .btn-primary.btn-fill:focus, .btn-primary.btn-fill:hover, .open>.btn-primary.btn-fill.dropdown-toggle {
   color: #FFFFFF;
-  background-color: #1D62F0;
+  background-color: #b63c00;
 }
 
 .btn-primary.btn-fill .caret {
@@ -549,7 +549,7 @@ a:active, a:focus, button::-moz-focus-inner, input::-moz-focus-inner, input[type
 }
 
 .btn-primary .caret {
-  border-top-color: #3472F7;
+  border-top-color: #b63c00;
 }
 
 .btn-success {
