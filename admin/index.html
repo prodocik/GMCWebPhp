@@ -1,0 +1,714 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<link rel="icon" type="image/png" href="assets/img/favicon.ico">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+		<title>Georgia Motorcoach Administration Panel</title>
+		<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'/>
+		<meta name="viewport" content="width=device-width"/>
+		<link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
+		<link href="assets/css/animate.min.css" rel="stylesheet"/>
+		<link href="assets/css/light-bootstrap-dashboard.css" rel="stylesheet"/>
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
+		<link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet"/>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="sidebar" data-color="orange" data-image="assets/img/sidebar-5.jpg">
+				<div class="sidebar-wrapper">
+					<div class="logo">
+						<a href="index.html" class="simple-text">
+							GEORGIA MOTORCOACH
+						</a>
+					</div>
+					<ul class="nav">
+						<li class="active">
+							<a href="index.html">
+								<i class="fa fa-bus"></i>
+								<p>Vehicles</p>
+							</a>
+						</li>
+						<li >
+							<a href="inbox.html">
+								<i class="fa fa-envelope-o"></i>
+								<p>Inbox</p>
+							</a>
+						</li>
+						<li>
+						<li >
+							<a href="calendar.html">
+								<i class="fa fa-calendar"></i>
+								<p>Calendar</p>
+							</a>
+						</li>
+						<li>
+							<a href="customers.html">
+								<i class="fa fa-male"></i>
+								<p>Customers</p>
+							</a>
+						</li>
+						<li>
+							<a href="reservations.html">
+								<i class="fa fa-book"></i>
+								<p>Reservations</p>
+							</a>
+						</li>
+						<li>
+							<a href="quotes.html">
+								<i class="fa fa-comment-o"></i>
+								<p>Quotes</p>
+							</a>
+						</li>
+						<li>
+							<a href="addons.html">
+								<i class="fa fa-shopping-cart"></i>
+								<p>Add-ons & Fees</p>
+							</a>
+						</li>
+						<li>
+							<a href="seasons.html">
+								<i class="fa fa-sun-o"></i>
+								<p>Seasons & Events</p>
+							</a>
+						</li>
+						<li>
+							<a href="insurance.html">
+								<i class="fa fa-shield"></i>
+								<p>Insurance</p>
+							</a>
+						</li>
+						<li>
+							<a href="webcontent.html">
+								<i class="fa fa-sitemap"></i>
+								<p>Web content</p>
+							</a>
+						</li>
+
+					</ul>
+				</div>
+			</div>
+
+			<div class="main-panel">
+				<nav class="navbar navbar-default navbar-fixed">
+					<div class="container-fluid">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example-2">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand" href="#">Vehilces</a>
+						</div>
+						<div class="collapse navbar-collapse">
+							<ul class="nav navbar-nav navbar-left"></ul>
+
+							<ul class="nav navbar-nav navbar-right">
+								<li>
+									<a href="">
+										<p>Account</p>
+									</a>
+								</li>
+
+								<li>
+									<a href="#">
+										<p>Log out</p>
+									</a>
+								</li>
+								<li class="separator hidden-lg hidden-md"></li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+				<div class="content">
+					<div class="container-fluid">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="card">
+
+									<div class="section-header">
+										<div class="row">
+											<div class="col-sm-6">
+												<h2>Vehicles<!----></h2>
+											</div>
+											<div class="col-sm-6 text-right">
+												<a href="/rentals/new?search=" class="btn btn-primary">
+													<i class="fa fa-plus"></i>
+													New Rental</a>
+											</div>
+										</div>
+									</div>
+									<div class="section-body">
+										<div class="row">
+											<div class="col-sm-8 col-lg-9">
+												<div>
+													<table class="table table-striped rental-list">
+														<thead>
+															<tr>
+																<th>
+																	Type
+																</th>
+																<th>
+																	Length
+																</th>
+																<th>
+																	Name
+																</th>
+																<th>
+																	Location
+																</th>
+																<th>
+																	Status
+																</th>
+																<th></th>
+															</tr>
+														</thead>
+														<tbody>
+
+															<tr>
+																<td width="1" class="rental-type">
+																	Class A
+																</td>
+																<td width="1" class="rental-length">
+																	25ft
+																</td>
+																<td>
+																	<div class="media">
+																		<div class="media-left">
+																			<img src="https://res.cloudinary.com/outdoorsy/image/upload/a_exif,q_auto,f_auto,w_auto,h_50,w_50,c_fill/v1494125880/p/rentals/7970/images/xj4gopchgdgcsuaoc9wa.jpg" class="avatar">
+																		</div>
+																		<div class="media-body">
+																			<strong>
+																				<a href="/rentals/7970?search=">The Vegas - 2017 Thor Motor Coach</a>
+																			</strong>
+																			<br>
+																			2017 Thor Motor Coach Vegas
+																		</div>
+																	</div>
+																</td>
+																<td class="one-line">
+																	Lithia Springs
+																</td>
+																<td width="1" class="rental-status">
+																	Published
+																</td>
+																<td>
+																	<div class="btn-group">
+																		<button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default dropdown-toggle">
+																			<i class="fa fa-gear"></i>
+																		</button>
+																		<ul class="dropdown-menu">
+																			<li>
+																				<a href="/rentals/7970?search=" id="ember2361" class="ember-view">View Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/rentals/7970/edit?search=" id="ember2362" class="ember-view">Edit Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/quotes/new?rental_id=7970&amp;search=" id="ember2363" class="ember-view">New Quote</a>
+																			</li>
+																		</ul>
+																	</div>
+																</td>
+															</tr>
+
+															<tr>
+																<td width="1" class="rental-type">
+																	Class B
+																</td>
+																<td width="1" class="rental-length">
+																	23ft
+																</td>
+																<td>
+																	<div class="media">
+																		<div class="media-left">
+																			<img src="https://res.cloudinary.com/outdoorsy/image/upload/a_exif,q_auto,f_auto,w_auto,h_50,w_50,c_fill/v1495058080/p/rentals/12342/images/ci0cc4dgqxkhdssdmixj.jpg" class="avatar avatar-xs">
+																		</div>
+																		<div class="media-body">
+																			<strong>
+																				<a href="/rentals/12342?search=" id="ember2364" class="ember-view">2017 Thor Motor Coach Gemini</a>
+																			</strong>
+																			<br>
+																			2017 Thor Motor Coach gemini (8)
+																		</div>
+																	</div>
+																</td>
+																<td class="one-line">
+																	Lithia Springs
+																</td>
+																<td width="1" class="rental-status">
+																	Published
+																</td>
+																<td>
+																	<div class="btn-group">
+																		<button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default dropdown-toggle">
+																			<i class="fa fa-gear"></i>
+																		</button>
+																		<ul class="dropdown-menu">
+																			<li>
+																				<a href="/rentals/12342?search=" id="ember2365" class="ember-view">View Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/rentals/12342/edit?search=" id="ember2366" class="ember-view">Edit Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/quotes/new?rental_id=12342&amp;search=" id="ember2367" class="ember-view">New Quote</a>
+																			</li>
+																		</ul>
+																	</div>
+																</td>
+															</tr>
+
+															<tr>
+																<td width="1" class="rental-type">
+																	Class B
+																</td>
+																<td width="1" class="rental-length">
+																	25ft
+																</td>
+																<td>
+																	<div class="media">
+																		<div class="media-left">
+																			<img src="https://res.cloudinary.com/outdoorsy/image/upload/a_exif,q_auto,f_auto,w_auto,h_50,w_50,c_fill/v1500927452/p/rentals/5324/images/mippjepnvnucug6zkdfr.jpg" class="avatar avatar-xs">
+																		</div>
+																		<div class="media-body">
+																			<strong>
+																				<a href="/rentals/5324?search=" id="ember2368" class="ember-view">The View - Travel With Style and Ease!</a>
+																			</strong>
+																			<br>
+																			2013 Winnebago View
+																		</div>
+																	</div>
+																</td>
+																<td class="one-line">
+																	Lithia Springs
+																</td>
+																<td width="1" class="rental-status">
+																	Published
+																</td>
+																<td>
+																	<div class="btn-group">
+																		<button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default dropdown-toggle">
+																			<i class="fa fa-gear"></i>
+																		</button>
+																		<ul class="dropdown-menu">
+																			<li>
+																				<a href="/rentals/5324?search=" id="ember2369" class="ember-view">View Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/rentals/5324/edit?search=" id="ember2370" class="ember-view">Edit Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/quotes/new?rental_id=5324&amp;search=" id="ember2371" class="ember-view">New Quote</a>
+																			</li>
+																		</ul>
+																	</div>
+																</td>
+															</tr>
+
+															<tr>
+																<td width="1" class="rental-type">
+																	Class B
+																</td>
+																<td width="1" class="rental-length">
+																	26ft
+																</td>
+																<td>
+																	<div class="media">
+																		<div class="media-left">
+																			<img src="https://res.cloudinary.com/outdoorsy/image/upload/a_exif,q_auto,f_auto,w_auto,h_50,w_50,c_fill/v1494878509/p/rentals/8342/images/lpqbbnlyomtkj1yogzlu.jpg" class="avatar avatar-xs">
+																		</div>
+																		<div class="media-body">
+																			<strong>
+																				<a href="/rentals/8342?search=" id="ember2372" class="ember-view">Phoenix Cruiser</a>
+																			</strong>
+																			<br>
+																			2009 Phoenix Usa Cruiser 2551 (5)
+																		</div>
+																	</div>
+																</td>
+																<td class="one-line">
+																	Lithia Springs
+																</td>
+																<td width="1" class="rental-status">
+																	Published
+																</td>
+																<td>
+																	<div class="btn-group">
+																		<button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default dropdown-toggle">
+																			<i class="fa fa-gear"></i>
+																		</button>
+																		<ul class="dropdown-menu">
+																			<li>
+																				<a href="/rentals/8342?search=" id="ember2373" class="ember-view">View Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/rentals/8342/edit?search=" id="ember2374" class="ember-view">Edit Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/quotes/new?rental_id=8342&amp;search=" id="ember2375" class="ember-view">New Quote</a>
+																			</li>
+																		</ul>
+																	</div>
+																</td>
+															</tr>
+
+															<tr>
+																<td width="1" class="rental-type">
+																	Class B
+																</td>
+																<td width="1" class="rental-length">
+																	26ft
+																</td>
+																<td>
+																	<div class="media">
+																		<div class="media-left">
+																			<img src="https://res.cloudinary.com/outdoorsy/image/upload/a_exif,q_auto,f_auto,w_auto,h_50,w_50,c_fill/v1500659080/p/rentals/8341/images/neoseeogkltqv9xd5bts.jpg" class="avatar avatar-xs">
+																		</div>
+																		<div class="media-body">
+																			<strong>
+																				<a href="/rentals/8341?search=" id="ember2376" class="ember-view">The Lexington - The GTS</a>
+																			</strong>
+																			<br>
+																			2007 Forest River Lexington
+																		</div>
+																	</div>
+																</td>
+																<td class="one-line">
+																	Lithia Springs
+																</td>
+																<td width="1" class="rental-status">
+																	Published
+																</td>
+																<td>
+																	<div class="btn-group">
+																		<button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default dropdown-toggle">
+																			<i class="fa fa-gear"></i>
+																		</button>
+																		<ul class="dropdown-menu">
+																			<li>
+																				<a href="/rentals/8341?search=" id="ember2377" class="ember-view">View Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/rentals/8341/edit?search=" id="ember2378" class="ember-view">Edit Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/quotes/new?rental_id=8341&amp;search=" id="ember2379" class="ember-view">New Quote</a>
+																			</li>
+																		</ul>
+																	</div>
+																</td>
+															</tr>
+
+															<tr>
+																<td width="1" class="rental-type">
+																	Class B
+																</td>
+																<td width="1" class="rental-length">
+																	28ft
+																</td>
+																<td>
+																	<div class="media">
+																		<div class="media-left">
+																			<img src="https://res.cloudinary.com/outdoorsy/image/upload/a_exif,q_auto,f_auto,w_auto,h_50,w_50,c_fill/v1500927161/p/rentals/12761/images/bkx7x5qawnb7hq1csy5h.jpg" class="avatar avatar-xs">
+																		</div>
+																		<div class="media-body">
+																			<strong>
+																				<a href="/rentals/12761?search=" id="ember2380" class="ember-view">Gulf Stream Cruiser</a>
+																			</strong>
+																			<br>
+																			2007 Gulf Stream B Touring Cruiser (7)
+																		</div>
+																	</div>
+																</td>
+																<td class="one-line">
+																	Lithia Springs
+																</td>
+																<td width="1" class="rental-status">
+																	Published
+																</td>
+																<td>
+																	<div class="btn-group">
+																		<button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default dropdown-toggle">
+																			<i class="fa fa-gear"></i>
+																		</button>
+																		<ul class="dropdown-menu">
+																			<li>
+																				<a href="/rentals/12761?search=" id="ember2381" class="ember-view">View Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/rentals/12761/edit?search=" id="ember2382" class="ember-view">Edit Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/quotes/new?rental_id=12761&amp;search=" id="ember2383" class="ember-view">New Quote</a>
+																			</li>
+																		</ul>
+																	</div>
+																</td>
+															</tr>
+
+															<tr>
+																<td width="1" class="rental-type">
+																	Class C
+																</td>
+																<td width="1" class="rental-length">
+																	24ft
+																</td>
+																<td>
+																	<div class="media">
+																		<div class="media-left">
+																			<img src="https://res.cloudinary.com/outdoorsy/image/upload/a_exif,q_auto,f_auto,w_auto,h_50,w_50,c_fill/v1494127802/p/rentals/5323/images/rw6glypzbavhwnjnpwq7.jpg" class="avatar avatar-xs">
+																		</div>
+																		<div class="media-body">
+																			<strong>
+																				<a href="/rentals/5323?search=" id="ember2384" class="ember-view">Sprinter based Solera</a>
+																			</strong>
+																			<br>
+																			2010 Forest River Solera (2)
+																		</div>
+																	</div>
+																</td>
+																<td class="one-line">
+																	Lithia Springs
+																</td>
+																<td width="1" class="rental-status">
+																	Published
+																</td>
+																<td>
+																	<div class="btn-group">
+																		<button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default dropdown-toggle">
+																			<i class="fa fa-gear"></i>
+																		</button>
+																		<ul class="dropdown-menu">
+																			<li>
+																				<a href="/rentals/5323?search=" id="ember2385" class="ember-view">View Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/rentals/5323/edit?search=" id="ember2386" class="ember-view">Edit Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/quotes/new?rental_id=5323&amp;search=" id="ember2387" class="ember-view">New Quote</a>
+																			</li>
+																		</ul>
+																	</div>
+																</td>
+															</tr>
+
+															<tr>
+																<td width="1" class="rental-type">
+																	Class C
+																</td>
+																<td width="1" class="rental-length">
+																	31ft
+																</td>
+																<td>
+																	<div class="media">
+																		<div class="media-left">
+																			<img src="https://res.cloudinary.com/outdoorsy/image/upload/a_exif,q_auto,f_auto,w_auto,h_50,w_50,c_fill/v1494619882/p/rentals/12296/images/plqvlxazwmrcgd9axury.jpg" class="avatar avatar-xs">
+																		</div>
+																		<div class="media-body">
+																			<strong>
+																				<a href="/rentals/12296?search=" id="ember2388" class="ember-view">2012 Nexus Phantom</a>
+																			</strong>
+																			<br>
+																			2012 Nexus Phantom
+																		</div>
+																	</div>
+																</td>
+																<td class="one-line">
+																	Lithia Springs
+																</td>
+																<td width="1" class="rental-status">
+																	Published
+																</td>
+																<td>
+																	<div class="btn-group">
+																		<button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default dropdown-toggle">
+																			<i class="fa fa-gear"></i>
+																		</button>
+																		<ul class="dropdown-menu">
+																			<li>
+																				<a href="/rentals/12296?search=" id="ember2389" class="ember-view">View Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/rentals/12296/edit?search=" id="ember2390" class="ember-view">Edit Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/quotes/new?rental_id=12296&amp;search=" id="ember2391" class="ember-view">New Quote</a>
+																			</li>
+																		</ul>
+																	</div>
+																</td>
+															</tr>
+
+															<tr>
+																<td width="1" class="rental-type">
+																	Class C
+																</td>
+																<td width="1" class="rental-length">
+																	32ft
+																</td>
+																<td>
+																	<div class="media">
+																		<div class="media-left">
+																			<img src="https://res.cloudinary.com/outdoorsy/image/upload/a_exif,q_auto,f_auto,w_auto,h_50,w_50,c_fill/v1494127156/p/rentals/5322/images/vdjz2l4acao0s69gijej.jpg" class="avatar avatar-xs">
+																		</div>
+																		<div class="media-body">
+																			<strong>
+																				<a href="/rentals/5322?search=" id="ember2392" class="ember-view">The Cambria - 2014 Winnebago Itasca</a>
+																			</strong>
+																			<br>
+																			2014 Itasca Cambria
+																		</div>
+																	</div>
+																</td>
+																<td class="one-line">
+																	Lithia Springs
+																</td>
+																<td width="1" class="rental-status">
+																	Published
+																</td>
+																<td>
+																	<div class="btn-group">
+																		<button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default dropdown-toggle">
+																			<i class="fa fa-gear"></i>
+																		</button>
+																		<ul class="dropdown-menu">
+																			<li>
+																				<a href="/rentals/5322?search=" id="ember2393" class="ember-view">View Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/rentals/5322/edit?search=" id="ember2394" class="ember-view">Edit Vehicle</a>
+																			</li>
+																			<li>
+																				<a href="/quotes/new?rental_id=5322&amp;search=" id="ember2395" class="ember-view">New Quote</a>
+																			</li>
+																		</ul>
+																	</div>
+																</td>
+															</tr>
+														</tbody>
+													</table>
+												</div>
+											</div>
+											<div class="col-sm-4 col-lg-3">
+												<div class="section-filters">
+													<h3>
+														<a class="pull-right" data-ember-action="" data-ember-action-2336="2336">Clear</a>
+														Filters
+														<!---->
+													</h3>
+													<div class="form-group">
+														<input type="text" placeholder="Search..." id="ember2337" class="form-control ember-text-field ember-view">
+													</div>
+													<div class="form-group">
+														<label class="form-label">Type</label>
+														<ul id="ember2338" class="multiselect-checkboxes list-unstyled ember-view">
+															<li>
+																<label>
+																	<input type="checkbox" id="ember2397" class="ember-checkbox ember-view">
+																	Class B
+																	<span class="badge">5</span>
+																</label>
+															</li>
+
+															<li>
+																<label>
+																	<input type="checkbox" id="ember2399" class="ember-checkbox ember-view">
+																	Class C
+																	<span class="badge">3</span>
+																</label>
+															</li>
+
+															<li>
+																<label>
+																	<input type="checkbox" id="ember2401" class="ember-checkbox ember-view">
+																	Class A
+																	<span class="badge">1</span>
+																</label>
+															</li>
+
+														</ul>
+													</div>
+													<div class="form-group">
+														<label class="form-label">Make</label>
+														<ul id="ember2345" class="multiselect-checkboxes list-unstyled ember-view">
+															<li>
+																<label>
+																	<input type="checkbox" id="ember2403" class="ember-checkbox ember-view">
+																	Forest River
+																	<span class="badge">2</span>
+																</label>
+															</li>
+
+															<li>
+																<label>
+																	<input type="checkbox" id="ember2405" class="ember-checkbox ember-view">
+																	Thor Motor Coach
+																	<span class="badge">2</span>
+																</label>
+															</li>
+
+															<li>
+																<label>
+																	<input type="checkbox" id="ember2407" class="ember-checkbox ember-view">
+																	Gulf Stream
+																	<span class="badge">1</span>
+																</label>
+															</li>
+
+															<li>
+																<label>
+																	<input type="checkbox" id="ember2409" class="ember-checkbox ember-view">
+																	Itasca
+																	<span class="badge">1</span>
+																</label>
+															</li>
+
+															<li>
+																<label>
+																	<input type="checkbox" id="ember2411" class="ember-checkbox ember-view">
+																	Nexus
+																	<span class="badge">1</span>
+																</label>
+															</li>
+
+															<li>
+																<label>
+																	<input type="checkbox" id="ember2413" class="ember-checkbox ember-view">
+																	Phoenix Usa
+																	<span class="badge">1</span>
+																</label>
+															</li>
+
+															<li>
+																<label>
+																	<input type="checkbox" id="ember2415" class="ember-checkbox ember-view">
+																	Winnebago
+																	<span class="badge">1</span>
+																</label>
+															</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script src="assets/js/jquery-1.10.2.js" type="text/javascript"></script>
+	<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="assets/js/bootstrap-checkbox-radio-switch.js"></script>
+	<script src="assets/js/chartist.min.js"></script>
+
+	<script src="assets/js/light-bootstrap-dashboard.js"></script>
+
+</html>
