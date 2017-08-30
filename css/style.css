@@ -311,6 +311,11 @@ a {
   outline: 0;
 }
 
+.sub-menu .parentMenu:hover {
+  text-decoration: none;
+  color: #888888;
+}
+
 :focus {
   outline: 0;
 }
@@ -363,14 +368,15 @@ img button a {
   list-style: square;
   width: 100px;
   z-index: 7;
-  background-color: rgba(0, 0, 0, 1);
-  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 0px 0px 5px 5px;
+
 }
 
 .nav .sub-menu:hover .dropdown {
   position: absolute;
-  left: 10px;
-  top: -15px;
+  left: 5px;
+  top: 32px;
   -webkit-animation-name: example;
   animation-name: example;
   -webkit-animation-duration: 0.5s;
@@ -380,7 +386,7 @@ img button a {
 }
 
 .dropdown li {
-  padding-top: 25px;
+  padding-top: 15px;
   list-style: none;
   text-align: center;
 }
@@ -516,7 +522,7 @@ img button a {
 .nav-pills>li>ul>li.active>a, .nav-pills>li>ul>li.active>a:hover, .nav-pills>li>ul>li.active>a:focus {
   color: orange;
   text-decoration: none;
-  background-color: transparent;
+
 }
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
@@ -529,6 +535,7 @@ img button a {
   background-color: transparent;
   color: orange;
 }
+
 
 .promotext {
   height: 100%;

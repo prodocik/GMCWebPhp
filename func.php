@@ -1,29 +1,38 @@
  <?php
- if ($_GET['page'] == '') {
+        if ($_GET['page'] == '') {
         include ('mainpage.php');
         }
- 	  if ($_GET['page'] == 'ourfleet') {
+ 	      if ($_GET['page'] == 'ourfleet') {
         include ('ourfleet.php');
+        }
+        if ($_GET['page'] == 'ourfleet') {
+            include ('forsale.php');
         }
             if ($_GET['page'] == 'faq') {
         include ('faq.php');
-        } 
+        }
               if ($_GET['page'] == 'package') {
         include ('package.php');
-        } 
+        }
         ///Show RV page
-	if ($_GET['page'] == 'gemini') {
+	      if ($_GET['page'] == 'gemini') {
         include ('rv/gemini.php');
         }
 
-	if ($_GET['page'] == 'nexus') {
+	      if ($_GET['page'] == 'nexus') {
         include ('rv/nexus.php');
         }
-	if ($_GET['page'] == 'btcruiser') {
+	      if ($_GET['page'] == 'btcruiser') {
         include ('rv/btcruiser.php');
         }
+        if ($_GET['page'] == 'btcruisersale') {
+        include ('rv/btcruisersale.php');
+        }
+        if ($_GET['page'] == 'phoenixsale') {
+        include ('rv/phoenixsale.php');
+        }
 
-	if ($_GET['page'] == 'vegas') {
+	      if ($_GET['page'] == 'vegas') {
         include ('rv/vegas.php');
         }
         if ($_GET['page'] == 'cambria') {
@@ -59,5 +68,5 @@
         }
         if ($_GET['page'] == 'solera_booking') {
         echo '<h1 class="bookingTitle">2010 Forest River Solera booking</h1></header><iframe src="https://checkout.wheelbasepro.com/reserve/5323" height=2250 width=100% frameborder="0"></iframe>';
-        }    
+        }
 ?>

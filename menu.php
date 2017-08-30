@@ -4,7 +4,8 @@
                 <label for="btn-menu"></label>
                 <ul class="list-menu">
                 <li><a href="../">SEARCH</a></li>
-                    <li><a href="ourfleet.html">OUR FLEET</a></li>
+                    <li><a href="ourfleet.html">OUR FLEET FOR RENT</a></li>
+                    <li><a href="forsale">FOR SALE</a>
                     <li><a href="pricing">PRICING</a></li>
                     <li><a href="faq.html">FAQ</a></li>
                       <li><a href="package.html">PACKING LIST</a></li>
