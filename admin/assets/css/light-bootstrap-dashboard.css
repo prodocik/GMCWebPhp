@@ -120,6 +120,14 @@ h1 .subtitle {
   color: #9A9A9A;
 }
 
+.rental-type {
+  width: 20%;
+}
+
+.nav-tabs {
+  display: inline-block;
+}
+
 .text-primary, .text-primary:hover {
   color: #1D62F0 !important;
 }
