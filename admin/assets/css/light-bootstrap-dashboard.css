@@ -669,6 +669,8 @@ a:active, a:focus, button::-moz-focus-inner, input::-moz-focus-inner, input[type
 }
 
 .btn-danger {
+  margin-top: 20px;
+
   color: #FF4A55;
   border-color: #FF4A55;
 }
