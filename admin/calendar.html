@@ -8,11 +8,174 @@
 		<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'/>
 		<meta name="viewport" content="width=device-width"/>
 		<link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
-		<link href="assets/css/animate.min.css" rel="stylesheet"/>
 		<link href="assets/css/light-bootstrap-dashboard.css" rel="stylesheet"/>
 		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 		<link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
-		<link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet"/>
+		<link rel="stylesheet" href="assets/css/fullcalendar.min.css">
+		<script src="assets/js/moment.min.js" type="text/javascript"></script>
+		<script src="assets/js/jquery-1.10.2.js" type="text/javascript"></script>
+		<script src="assets/js/fullcalendar.min.js" type="text/javascript"></script>
+		<link rel="stylesheet" href="assets/css/scheduler.css">
+		<script src="assets/js/scheduler.min.js"></script>
+		<script>
+			$(function () { // document ready
+				$('#calendar').fullCalendar({
+					eventOverlap: false,
+					schedulerLicenseKey: 'CC-Attribution-NonCommercial-NoDerivatives',
+					editable: true,
+					aspectRatio: 2.0,
+					scrollTime: '00:00',
+					header: {
+						left: 'today prev,next',
+						center: 'title',
+						right: 'timelineMonth,timelineYear'
+					},
+					defaultView: 'timelineMonth',
+					views: {
+						timelineDay: {
+							buttonText: ':15 slots',
+							slotDuration: '00:15'
+						},
+						timelineTenDay: {
+							type: 'timeline',
+							duration: {
+								days: 10
+							}
+						}
+					},
+					navLinks: true,
+					resourceAreaWidth: '15%',
+					resourceLabelText: 'RV',
+					resources: [
+						{
+							id: 'a',
+							title: 'Auditorium A'
+						}, {
+							id: 'b',
+							title: 'Auditorium B',
+							eventColor: 'green'
+						}, {
+							id: 'c',
+							title: 'Auditorium C',
+							eventColor: 'orange'
+						}, {
+							id: 'd',
+							title: 'Auditorium D',
+							children: [
+								{
+									id: 'd1',
+									title: 'Room D1'
+								}, {
+									id: 'd2',
+									title: 'Room D2'
+								}
+							]
+						}, {
+							id: 'e',
+							title: 'Auditorium E'
+						}, {
+							id: 'f',
+							title: 'Auditorium F',
+							eventColor: 'red'
+						}, {
+							id: 'g',
+							title: 'Auditorium G'
+						}, {
+							id: 'h',
+							title: 'Auditorium H'
+						}, {
+							id: 'i',
+							title: 'Auditorium I'
+						}, {
+							id: 'j',
+							title: 'Auditorium J'
+						}, {
+							id: 'k',
+							title: 'Auditorium K'
+						}, {
+							id: 'l',
+							title: 'Auditorium L'
+						}, {
+							id: 'm',
+							title: 'Auditorium M'
+						}, {
+							id: 'n',
+							title: 'Auditorium N'
+						}, {
+							id: 'o',
+							title: 'Auditorium O'
+						}, {
+							id: 'p',
+							title: 'Auditorium P'
+						}, {
+							id: 'q',
+							title: 'Auditorium Q'
+						}, {
+							id: 'r',
+							title: 'Auditorium R'
+						}, {
+							id: 's',
+							title: 'Auditorium S'
+						}, {
+							id: 't',
+							title: 'Auditorium T'
+						}, {
+							id: 'u',
+							title: 'Auditorium U'
+						}, {
+							id: 'v',
+							title: 'Auditorium V'
+						}, {
+							id: 'w',
+							title: 'Auditorium W'
+						}, {
+							id: 'x',
+							title: 'Auditorium X'
+						}, {
+							id: 'y',
+							title: 'Auditorium Y'
+						}, {
+							id: 'z',
+							title: 'Auditorium Z'
+						}
+					],
+					events: [
+						{
+							id: '1',
+							resourceId: 'b',
+							start: '2017-08-07T02:00:00',
+							end: '2017-08-09T07:00:00',
+							title: 'event 1'
+						}, {
+							id: '2',
+							resourceId: 'c',
+							start: '2017-05-07T05:00:00',
+							end: '2017-05-07T22:00:00',
+							title: 'event 2'
+						}, {
+							id: '3',
+							resourceId: 'd',
+							start: '2017-05-06',
+							end: '2017-05-08',
+							title: 'event 3'
+						}, {
+							id: '4',
+							resourceId: 'e',
+							start: '2017-05-07T03:00:00',
+							end: '2017-05-07T08:00:00',
+							title: 'event 4'
+						}, {
+							id: '5',
+							resourceId: 'f',
+							start: '2017-05-07T00:30:00',
+							end: '2017-05-07T02:30:00',
+							title: 'event 5'
+						}
+					]
+				});
+
+			});
+		</script>
 	</head>
 	<body>
 		<div class="wrapper">
@@ -126,19 +289,18 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-md-12">
-								<div class="card"></div>
+								<div class="card">
+									<div id='calendar'></div>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</body>
-	<script src="assets/js/jquery-1.10.2.js" type="text/javascript"></script>
-	<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="assets/js/bootstrap-checkbox-radio-switch.js"></script>
-	<script src="assets/js/chartist.min.js"></script>
-
-	<script src="assets/js/light-bootstrap-dashboard.js"></script>
-
+	</div>
+</body>
+<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="assets/js/bootstrap-checkbox-radio-switch.js"></script>
+<script src="assets/js/light-bootstrap-dashboard.js"></script>
 </html>
