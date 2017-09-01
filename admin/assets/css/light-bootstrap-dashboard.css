@@ -2057,6 +2057,16 @@ a:active, a:focus, button::-moz-focus-inner, input::-moz-focus-inner, input[type
   width: 75%;
 }
 
+.table-striped .conversation-row .customer:hover {
+  background-color: rgba(255, 219, 164, 0.88);
+  cursor: pointer;
+}
+
+.table-striped .conversation-row .read:hover {
+  background-color: rgba(255, 219, 164, 0.88);
+  cursor: pointer;
+}
+
 .card .alert {
   position: relative;
   border-radius: 4px;
