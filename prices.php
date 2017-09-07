@@ -4,7 +4,10 @@
 
   <ul class="nav nav-tabs" role="tablist">
   <li class="nav-item">
-    <a class="nav-link active" href="#RVs" role="tab" data-toggle="tab">RV prices</a>
+    <a class="nav-link active" href="#RVs" role="tab" data-toggle="tab">Motorhome prices</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="#trailers" role="tab" data-toggle="tab">Trailer prices</a>
   </li>
   <li class="nav-item">
     <a class="nav-link active" href="#addon" role="tab" data-toggle="tab">Add-on options</a>
@@ -294,6 +297,48 @@
             </div>
         </div>
         </div>
+        <div role="tabpanel" class="tab-pane fade" id="trailers">
+          <div class="pricing-item">
+              <div class="container">
+                  <div class="row">
+                      <h2>2018 Heartland Mallard M185 (2 units available)</h2>
+                  </div>
+                  <div class="row">
+                      <div class="image-pricing col-md-3 col-sm-3">
+                         <a href="mallard_1.html"> <img src="images/main_photos/mallard_1.jpg" width="150px" height="150px" alt=""></a>
+                      </div>
+                      <div class="prices prices1 col-md-3 col-sm-3">
+                          <ul>
+                              <h4>Regular Rates</h4>
+                               <li>Daily:<span> <?php echo $mallard_1_RegDaily; ?></span></li>
+                              <li>Weekly:<span> <?php echo $mallard_1_RegWeekly; ?></span> </li>
+                              <li>Monthly:<span> <?php echo $mallard_1_RegMonthly; ?></span></li>
+                              <li>Prep Fee:<span> <?php echo $mallard_1_PrepFee; ?></span></li>
+                          </ul>
+                      </div>
+                      <div class="prices col-md-3 col-sm-3">
+                          <ul>
+                              <h4>Peak rates</h4>
+                                <li>Daily:<span> <?php echo $mallard_1_HighDaily; ?></span></li>
+                              <li>Weekly:<span> <?php echo $mallard_1_HighWeekly; ?></span> </li>
+                              <li>Monthly:<span> <?php echo $mallard_1_HighMonthly; ?></span></li>
+                              <li>Prep Fee:<span> <?php echo $mallard_1_PrepFee; ?></span></li>
+                          </ul>
+                      </div>
+                      <div class="prices col-md-3 col-sm-3">
+                          <ul>
+                              <h4>Winter rates</h4>
+                            <li>Daily:<span> <?php echo $mallard_1_LowDaily; ?></span></li>
+                              <li>Weekly:<span> <?php echo $mallard_1_LowWeekly; ?></span> </li>
+                              <li>Monthly:<span> <?php echo $mallard_1_LowMonthly; ?></span></li>
+                              <li>Prep Fee:<span> <?php echo $mallard_1_PrepFee; ?></span></li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+       </div>
          <div role="tabpanel" class="tab-pane fade" id="addon">
         <div class="pricing-item">
             <div class="container">

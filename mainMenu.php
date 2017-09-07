@@ -17,7 +17,6 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-sm-3 col-xs-12">
-
                         <div class="logo">
                              <a href="../"><img src="images/logo.png" alt="logo"></a>
 
@@ -29,7 +28,8 @@
                             <li><a href="../">SEARCH</a></li>
                             <li class="sub-menu"><a class="parentMenu">RV RENTALS</a>
                                 <ul class="dropdown">
-                                    <li><a href="ourfleet.html" >OUR FLEET</a></li>
+                                    <li><a href="ourfleet.html">MOTORHOMES</a></li>
+                                    <li><a href="trailers.html">TRAILERS</a></li>
                                     <li><a href="pricing">PRICING</a></li>
                                     <li><a href="faq.html">FAQ</a></li>
                                     <li><a href="package.html">PACKING <br>LIST</a></li>
@@ -41,7 +41,6 @@
                                     <li><a href="about">ABOUT COMPANY</a></li>
                                     <li><a href="location">LOCATION</a></li>
                                     <li><a href="privacy">PRIVACY <br>POLICY</a></li>
-
                                 </ul>
                             </li>
                         </ul>

@@ -7,6 +7,8 @@ $cambriaPrice = 205;
 $nexusPrice = 199;
 $soleraPrice = 175;
 $btcruiserPrice = 155;
+$mallard_1_Price = 99;
+$mallard_2_Price = 99;
 
 $bigRVPrep = 105;
 $smallRVPrep = 95;
@@ -23,6 +25,29 @@ function format_num($in) {
 }
 
 //*******Prices********
+////Mallard_1/////
+$mallard_1_RegDaily =  format_num($mallard_1_Price);
+$mallard_1_RegWeekly = format_num($mallard_1_Price*$weeklyMultiplier);
+$mallard_1_RegMonthly = format_num($mallard_1_Price*$monthlyMultiplier);
+$mallard_1_HighDaily = format_num($mallard_1_Price*$peakMultiplier);
+$mallard_1_HighWeekly = format_num($mallard_1_Price*$peakMultiplier*$weeklyMultiplier);
+$mallard_1_HighMonthly = format_num($mallard_1_Price*$peakMultiplier*$monthlyMultiplier);
+$mallard_1_LowDaily = format_num($mallard_1_Price*$winterMultiplier);
+$mallard_1_LowWeekly = format_num($mallard_1_Price*$winterMultiplier*$weeklyMultiplier);
+$mallard_1_LowMonthly = format_num($mallard_1_Price*$winterMultiplier*$monthlyMultiplier);
+$mallard_1_PrepFee = format_num($smallRVPrep);
+////Mallard_2/////
+$mallard_2_RegDaily =  format_num($mallard_2_Price);
+$mallard_2_RegWeekly = format_num($mallard_2_Price*$weeklyMultiplier);
+$mallard_2_RegMonthly = format_num($mallard_2_Price*$monthlyMultiplier);
+$mallard_2_HighDaily = format_num($mallard_2_Price*$peakMultiplier);
+$mallard_2_HighWeekly = format_num($mallard_2_Price*$peakMultiplier*$weeklyMultiplier);
+$mallard_2_HighMonthly = format_num($mallard_2_Price*$peakMultiplier*$monthlyMultiplier);
+$mallard_2_LowDaily = format_num($mallard_2_Price*$winterMultiplier);
+$mallard_2_LowWeekly = format_num($mallard_2_Price*$winterMultiplier*$weeklyMultiplier);
+$mallard_2_LowMonthly = format_num($mallard_2_Price*$winterMultiplier*$monthlyMultiplier);
+$mallard_2_PrepFee = format_num($smallRVPrep);
+
 ////Gemini/////
 $geminiRegDaily =  format_num($geminiPrice);
 $geminiRegWeekly = format_num($geminiPrice*$weeklyMultiplier);
