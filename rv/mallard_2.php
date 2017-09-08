@@ -12,30 +12,42 @@
                     <div class="col-md-12">
                         <h1>2018 Heartland Mallard M185</h1>
                         <div class="slider">
-                            <div class="slider-for">
-                                <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_2_RegDaily; ?></big></span></div><img src="images/more/mallard_2/1.jpg" alt="View Profile 3/4"></div>
-                                <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_2_RegDaily; ?></big></span></div><img src="images/more/mallard_2/2.jpg" alt="View Profile front slideout"></div>
-                                <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_2_RegDaily; ?></big></span></div><img src="images/more/mallard_2/3.jpg" alt="View Profile left side"></div>
-                                <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_2_RegDaily; ?></big></span></div><img src="images/more/mallard_2/4.jpg" alt="View Profile right side slideout"></div>
-                                <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_2_RegDaily; ?></big></span></div><img src="images/more/mallard_2/5.jpg" alt="View Profile kitchen"></div>
-                                <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_2_RegDaily; ?></big></span></div><img src="images/more/mallard_2/6.jpg" alt="View Profile driver seat"></div>
-                              
-                            </div>
-                            <div class="slider-nav">
-                                <div><img src="images/more/mallard_2/1_small.jpg" alt="View Profile 3/4 preview"></div>
-                                <div><img src="images/more/mallard_2/2_small.jpg" alt="View Profile front slideout preview"></div>
-                                <div><img src="images/more/mallard_2/3_small.jpg" alt="View Profile left side preview"></div>
-                                <div><img src="images/more/mallard_2/4_small.jpg" alt="View Profile right side slideout preview"></div>
-                                <div><img src="images/more/mallard_2/5_small.jpg" alt="View Profile kitchen preview"></div>
+                          <div class="slider-for">
+                              <div>
+                                  <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/1.jpg" alt="Heartland Mallard"></div>
+                              <div>
+                                  <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/2.jpg" alt="Heartland Mallard "></div>
+                              <div>
+                                  <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/3.jpg" alt="Heartland Mallard "></div>
+                              <div>
+                                  <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/4.jpg" alt="Heartland Mallard "></div>
+                              <div>
+                                  <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/5.jpg" alt="Heartland Mallard "></div>
+                                  <div>
+                                      <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/6.jpg" alt="Heartland Mallard "></div>
+                                  <div>
+                                      <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/7.jpg" alt="Heartland Mallard "></div>
+                                  <div>
+                                      <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/8.jpg" alt="Heartland Mallard "></div>
+                                  <div>
+                                      <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/9.jpg" alt="Heartland Mallard "></div>
+                                  <div>
+                                      <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/10.jpg" alt="Heartland Mallard "></div>
 
-                            </div>
-                        </div>
+                          </div>
+                          <div class="slider-nav">
+                              <div><img src="images/more/mallard_1/1_small.jpg" alt="Heartland Mallard"></div>
+                              <div><img src="images/more/mallard_1/2_small.jpg" alt="Heartland Mallard"></div>
+                              <div><img src="images/more/mallard_1/3_small.jpg" alt="Heartland Mallard"></div>
+                              <div><img src="images/more/mallard_1/4_small.jpg" alt="Heartland Mallard"></div>
+                              <div><img src="images/more/mallard_1/5_small.jpg" alt="Heartland Mallard"></div>
+                              <div><img src="images/more/mallard_1/6_small.jpg" alt="Heartland Mallard"></div>
+                              <div><img src="images/more/mallard_1/7_small.jpg" alt="Heartland Mallard"></div>
+                              <div><img src="images/more/mallard_1/8_small.jpg" alt="Heartland Mallard"></div>
+                              <div><img src="images/more/mallard_1/9_small.jpg" alt="Heartland Mallard"></div>
+                              <div><img src="images/more/mallard_1/10_small.jpg" alt="Heartland Mallard"></div>
+                          </div>
+                      </div>
                         <div class="desc">
                             <p>Mallard, Heartland RV: Mallard is a full featured travel trailer in a smaller, lighter package. You will appreciate the openness of the Mallard layouts featuring an arched ceiling measuring in at nearly seven feet. Mallard gives you room for the whole family to relax, dine or entertain. Oversized windows let in natural light and spectacular views of the great outdoors. Mallard provides kitchens with efficient wide-open prep areas, as well as large base cabinets and huge overhead storage for that extended vacation. Mallard offers models to fit your specific needs whether your a couple just getting away or a family of six with friends choose Mallard and migrate to your favorite get away.</p>
                             <div class="smoking"><p>Smoking is not allowed <img src="images/no-smoking.svg" alt="no_smoking" width="20px"></p> </div>

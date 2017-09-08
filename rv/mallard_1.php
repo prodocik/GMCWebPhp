@@ -14,24 +14,38 @@
                         <div class="slider">
                             <div class="slider-for">
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/1.jpg" alt="Heartland Mallard 3/4"></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/1.jpg" alt="Heartland Mallard"></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/2.jpg" alt="Heartland Mallard front slideout"></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/2.jpg" alt="Heartland Mallard "></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/3.jpg" alt="Heartland Mallard left side"></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/3.jpg" alt="Heartland Mallard "></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/4.jpg" alt="Heartland Mallard right side slideout"></div>
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/4.jpg" alt="Heartland Mallard "></div>
                                 <div>
-                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/5.jpg" alt="Heartland Mallard kitchen"></div>
-                                
+                                    <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/5.jpg" alt="Heartland Mallard "></div>
+                                    <div>
+                                        <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/6.jpg" alt="Heartland Mallard "></div>
+                                    <div>
+                                        <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/7.jpg" alt="Heartland Mallard "></div>
+                                    <div>
+                                        <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/8.jpg" alt="Heartland Mallard "></div>
+                                    <div>
+                                        <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/9.jpg" alt="Heartland Mallard "></div>
+                                    <div>
+                                        <div class="price"><small>Regular Daily Rate</small><span><big><?php echo $mallard_1_RegDaily; ?></big></span></div><img src="images/more/mallard_1/10.jpg" alt="Heartland Mallard "></div>
+
                             </div>
                             <div class="slider-nav">
-                                <div><img src="images/more/mallard_1/1_small.jpg" alt="Heartland Mallard 3/4 preview"></div>
-                                <div><img src="images/more/mallard_1/2_small.jpg" alt="Heartland Mallard front slideout preview"></div>
-                                <div><img src="images/more/mallard_1/3_small.jpg" alt="Heartland Mallard left side preview"></div>
-                                <div><img src="images/more/mallard_1/4_small.jpg" alt="Heartland Mallard right side slideout preview"></div>
-                                <div><img src="images/more/mallard_1/5_small.jpg" alt="Heartland Mallard kitchen preview"></div>
-
+                                <div><img src="images/more/mallard_1/1_small.jpg" alt="Heartland Mallard"></div>
+                                <div><img src="images/more/mallard_1/2_small.jpg" alt="Heartland Mallard"></div>
+                                <div><img src="images/more/mallard_1/3_small.jpg" alt="Heartland Mallard"></div>
+                                <div><img src="images/more/mallard_1/4_small.jpg" alt="Heartland Mallard"></div>
+                                <div><img src="images/more/mallard_1/5_small.jpg" alt="Heartland Mallard"></div>
+                                <div><img src="images/more/mallard_1/6_small.jpg" alt="Heartland Mallard"></div>
+                                <div><img src="images/more/mallard_1/7_small.jpg" alt="Heartland Mallard"></div>
+                                <div><img src="images/more/mallard_1/8_small.jpg" alt="Heartland Mallard"></div>
+                                <div><img src="images/more/mallard_1/9_small.jpg" alt="Heartland Mallard"></div>
+                                <div><img src="images/more/mallard_1/10_small.jpg" alt="Heartland Mallard"></div>
                             </div>
                         </div>
                         <div class="desc">
