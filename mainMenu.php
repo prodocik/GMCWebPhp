@@ -28,7 +28,7 @@
                             <li><a href="../">SEARCH</a></li>
                             <li class="sub-menu"><a class="parentMenu">RV RENTALS</a>
                                 <ul class="dropdown">
-                                    <li><a href="ourfleet.html">MOTORHOMES</a></li>
+                                    <li><a href="ourfleet">MOTORHOMES</a></li>
                                     <li><a href="trailers.html">TRAILERS</a></li>
                                     <li><a href="pricing">PRICING</a></li>
                                     <li><a href="faq.html">FAQ</a></li>

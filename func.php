@@ -2,9 +2,7 @@
         if ($_GET['page'] == '') {
         include ('mainpage.php');
         }
- 	      if ($_GET['page'] == 'ourfleet') {
-        include ('ourfleet.php');
-        }
+ 	 
         if ($_GET['page'] == 'trailers') {
         include ('trailers.php');
         }
@@ -58,11 +56,11 @@
         /// Show booking page
 
           if ($_GET['page'] == 'mallard_1_booking') {
-         echo '<h1 class="bookingTitle">Hertland Mallard M185 booking</h1></header><iframe src="https://checkout.wheelbasepro.com/reserve/12342"   height=2100 width=100% frameborder="0"></iframe>';
+         echo '<h1 class="bookingTitle">Hertland Mallard M185 booking</h1></header><iframe src="https://checkout.wheelbasepro.com/reserve/21908"   height=2100 width=100% frameborder="0"></iframe>';
          }
 
          if ($_GET['page'] == 'mallard_2_booking') {
-        echo '<h1 class="bookingTitle">Hertland Mallard M185 booking</h1></header><iframe src="https://checkout.wheelbasepro.com/reserve/12342"   height=2100 width=100% frameborder="0"></iframe>';
+        echo '<h1 class="bookingTitle">Hertland Mallard M185 booking</h1></header><iframe src="https://checkout.wheelbasepro.com/reserve/22545"   height=2100 width=100% frameborder="0"></iframe>';
         }
 
          if ($_GET['page'] == 'gemini_booking') {

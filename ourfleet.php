@@ -1,12 +1,23 @@
-  <div class="container-fluid">
-            <div class=" promotext col-lg-12 col-md-12 col-xs-12">
-                <h1>OUR FLEET</h1>
-                
-        </div>
-         
-        </div>
-     
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="description" content="Atlanta RV booking. Book RV Georgia">
+    <meta name="keywords" content="RV for rent, RV atlanta booking, book RV, book Motorhome, B class RV booking, C class RV booking, Motorcoach booking">
+    <title>MOTORHOMES FOR RENT</title>
+      <?php include ("variables.php");?>
+
+    <?php include ("assets.php");?>
+</head>
+<body style="height: auto; overflow: auto;">
+    <?php include ("menu.php");?>
+    <?php include ("mainMenu.php");?>
+    <div class="container-fluid">
+              <div class=" promotext col-lg-12 col-md-12 col-xs-12">
+                  <h1>MOTORHOMES FOR RENT</h1>
+          </div>
+          </div>
     </header>
+<br>
     <div class="content">
         <div class="products">
             <div class="product product_white">
@@ -30,7 +41,6 @@
                                 <ul>
                                     <li>Sleeping Capacity: <span>2 people</span></li>
                                     <li>Number of Seatbelts: <span>4</span></li>
-                                   
                                     <li>Length: <span>25'</span></li>
                                     <li>Number of Slideouts: <span>1</span></li>
                                     <li>Cameras: <span>Rear</span></li>
@@ -486,3 +496,7 @@
             </div>
         </div>
     </div>
+
+        <?php include ("footer.php");?>
+  </body>
+</html>
